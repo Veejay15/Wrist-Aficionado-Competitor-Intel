@@ -9,14 +9,6 @@
       "active": true
     },
     {
-      "id": "watchbox-com",
-      "name": "WatchBox",
-      "domain": "watchbox.com",
-      "sitemapUrl": "https://www.watchbox.com/sitemap.xml",
-      "addedAt": "2026-04-29",
-      "active": true
-    },
-    {
       "id": "hodinkee-com",
       "name": "Hodinkee",
       "domain": "hodinkee.com",
