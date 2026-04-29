@@ -7,14 +7,6 @@
       "sitemapUrl": "https://www.bobswatches.com/sitemap.xml",
       "addedAt": "2026-04-29",
       "active": true
-    },
-    {
-      "id": "europeanwatch-com",
-      "name": "European Watch Company",
-      "domain": "europeanwatch.com",
-      "sitemapUrl": "https://europeanwatch.com/sitemap.xml",
-      "addedAt": "2026-04-29",
-      "active": true
     }
   ]
 }
