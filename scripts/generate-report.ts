@@ -1,0 +1,232 @@
+import fs from 'fs';
+import path from 'path';
+import Anthropic from '@anthropic-ai/sdk';
+import { Competitor, CompetitorsData } from '../lib/types';
+import { fetchSitemap, isListingNoise } from '../lib/sitemap';
+
+const ROOT = process.cwd();
+const TODAY = new Date().toISOString().split('T')[0];
+
+const WRIST_AFICIONADO_SITEMAP_URL = 'https://wristaficionado.com/sitemap.xml';
+
+interface DiffEntry {
+  url: string;
+  lastmod?: string;
+}
+interface CompetitorDiff {
+  competitorId: string;
+  newUrls: DiffEntry[];
+  removedUrls: DiffEntry[];
+  updatedUrls: DiffEntry[];
+}
+interface DiffData {
+  date: string;
+  previousDate: string | null;
+  diffs: CompetitorDiff[];
+}
+
+interface CsvSummary {
+  filename: string;
+  competitorId: string;
+  type: string;
+  rowCount: number;
+  topRows: Record<string, string>[];
+}
+interface CsvSummariesData {
+  date: string;
+  summaries: CsvSummary[];
+}
+
+function loadDiffs(): DiffData | null {
+  const p = path.join(ROOT, 'data', 'diffs', `${TODAY}.json`);
+  if (!fs.existsSync(p)) return null;
+  return JSON.parse(fs.readFileSync(p, 'utf-8'));
+}
+
+function loadCsvSummaries(): CsvSummariesData | null {
+  const p = path.join(ROOT, 'data', 'csv-summaries', `${TODAY}.json`);
+  if (!fs.existsSync(p)) return null;
+  return JSON.parse(fs.readFileSync(p, 'utf-8'));
+}
+
+function loadCompetitors(): Competitor[] {
+  const p = path.join(ROOT, 'data', 'competitors.json');
+  const data: CompetitorsData = JSON.parse(fs.readFileSync(p, 'utf-8'));
+  return data.competitors.filter((c) => c.active);
+}
+
+async function fetchWristAficionadoPages(): Promise<string[]> {
+  try {
+    console.log(`Fetching Wrist Aficionado's own sitemap for cross-reference...`);
+    const entries = await fetchSitemap(WRIST_AFICIONADO_SITEMAP_URL);
+    const paths = entries
+      .map((e) => e.url)
+      .filter((url) => !isListingNoise(url))
+      .map((url) => {
+        try {
+          return new URL(url).pathname;
+        } catch {
+          return url;
+        }
+      })
+      .filter((p, i, arr) => arr.indexOf(p) === i)
+      .sort();
+    console.log(`  Found ${paths.length} content pages on wristaficionado.com`);
+    return paths;
+  } catch (err) {
+    console.warn(`  Could not fetch Wrist Aficionado sitemap: ${(err as Error).message}`);
+    return [];
+  }
+}
+
+async function generateForCompetitor(
+  client: Anthropic,
+  competitor: Competitor,
+  diff: CompetitorDiff | null,
+  csvs: CsvSummary[],
+  wristAficionadoPages: string[],
+  previousDate: string | null
+): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
+  const dataPayload = {
+    date: TODAY,
+    previousDate,
+    competitor: {
+      id: competitor.id,
+      name: competitor.name,
+      domain: competitor.domain,
+    },
+    wristAficionadoExistingPages: wristAficionadoPages,
+    sitemapDiff: diff || { newUrls: [], removedUrls: [], updatedUrls: [] },
+    csvData: csvs,
+  };
+
+  const systemPrompt = `You are a senior SEO analyst preparing a focused weekly competitor intelligence report for Wrist Aficionado, a luxury watch e-commerce and reseller platform.
+
+This report covers ONE competitor: ${competitor.name} (${competitor.domain}).
+
+Tone: confident, direct, no fluff. No emojis. No em dashes (use periods, commas, parentheses, or "and/but" instead).
+
+Structure:
+1. Executive Summary (2 to 4 bullet points, what this competitor did this week and what to do about it)
+2. New Pages Built by ${competitor.name} (list URLs and infer what they're targeting based on URL slugs, e.g. brand pages, model reference guides, buying guides, collection landing pages)
+3. Backlink Movements (only if CSV data is provided for this competitor)
+4. Keyword and Ranking Changes (only if CSV data is provided for this competitor)
+5. Recommended Actions for Wrist Aficionado (numbered list, specific moves to make this week in response to ${competitor.name}'s activity)
+
+CRITICAL RULE FOR RECOMMENDATIONS:
+Before recommending that Wrist Aficionado build any new page (brand page, model reference guide, buying guide, collection page, blog post, etc.), you MUST cross-reference the "wristAficionadoExistingPages" list in the data payload. That list contains every content URL path that currently exists on wristaficionado.com.
+
+- If Wrist Aficionado ALREADY has an equivalent page, do NOT recommend building it. Instead, you may recommend updating, expanding, or strengthening that existing page (and reference the existing URL).
+- If Wrist Aficionado does NOT have an equivalent page, you may recommend building it as a genuine content gap.
+- When in doubt, search the list for keywords (e.g., "rolex-submariner", "patek-nautilus", "audemars-royal-oak") to check before suggesting a new build.
+- Acceptable equivalence checks: URL path contains the brand name AND the model or intent. Slight wording differences are fine (e.g., "rolex-daytona-guide" vs "rolex-daytona-reference-guide").
+
+Focus areas relevant to luxury watch SEO: brand authority pages (Rolex, Patek Philippe, Audemars Piguet, Richard Mille, etc.), model reference guides, "for sale" intent pages, investment / value content, celebrity watch tie-ins, watch buying guides, and authentication / trust content.
+
+Ignore individual product listings (single SKU pages or specific watch references with serial numbers). Focus on indexable content pages, brand hubs, model guides, blog posts, and category landing pages.
+
+Skip sections where there is no data. Do not invent data. Never recommend a page Wrist Aficionado already has. Keep this report focused and specific to ${competitor.name} only, do not discuss other competitors.`;
+
+  const userPrompt = `Here is this week's data for ${competitor.name} for the report dated ${TODAY}.
+
+${diff ? '' : '(No sitemap diff available for this competitor this week.)'}
+${csvs.length === 0 ? '(No SEMrush CSV data uploaded for this competitor this week.)' : ''}
+${wristAficionadoPages.length === 0 ? '(Warning: could not fetch Wrist Aficionado existing pages this run. Be extra careful recommending new pages.)' : `(Wrist Aficionado's existing ${wristAficionadoPages.length} content pages are listed in "wristAficionadoExistingPages" for cross-reference.)`}
+
+DATA:
+${JSON.stringify(dataPayload, null, 2)}
+
+Write the full report in markdown. Start with a top-level H1 like "# ${competitor.name}: Week of ${TODAY}".`;
+
+  const response = await client.messages.create({
+    model: 'claude-sonnet-4-6',
+    max_tokens: 6000,
+    system: systemPrompt,
+    messages: [{ role: 'user', content: userPrompt }],
+  });
+
+  const textBlock = response.content.find((b) => b.type === 'text');
+  if (!textBlock || textBlock.type !== 'text') {
+    throw new Error('No text in Claude response');
+  }
+  return {
+    markdown: textBlock.text,
+    inputTokens: response.usage.input_tokens,
+    outputTokens: response.usage.output_tokens,
+  };
+}
+
+async function main() {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) {
+    console.error('ANTHROPIC_API_KEY is not set');
+    process.exit(1);
+  }
+
+  const competitors = loadCompetitors();
+  if (competitors.length === 0) {
+    console.log('No active competitors. Skipping report generation.');
+    process.exit(0);
+  }
+
+  const diffs = loadDiffs();
+  const csvSummaries = loadCsvSummaries();
+  const wristAficionadoPages = await fetchWristAficionadoPages();
+
+  if (!diffs && !csvSummaries) {
+    console.log('No data to report on. Run fetch-sitemaps and process-csvs first.');
+    process.exit(0);
+  }
+
+  const client = new Anthropic({ apiKey });
+  const reportsDir = path.join(ROOT, 'reports');
+  fs.mkdirSync(reportsDir, { recursive: true });
+
+  let totalInput = 0;
+  let totalOutput = 0;
+  const succeeded: string[] = [];
+  const failed: string[] = [];
+
+  for (const competitor of competitors) {
+    console.log(`\nGenerating report for ${competitor.name}...`);
+    const diff = diffs?.diffs.find((d) => d.competitorId === competitor.id) || null;
+    const csvs = csvSummaries?.summaries.filter((s) => s.competitorId === competitor.id) || [];
+
+    try {
+      const result = await generateForCompetitor(
+        client,
+        competitor,
+        diff,
+        csvs,
+        wristAficionadoPages,
+        diffs?.previousDate || null
+      );
+      const filename = `${TODAY}-${competitor.id}.md`;
+      const outPath = path.join(reportsDir, filename);
+      fs.writeFileSync(outPath, result.markdown);
+      console.log(`  ✓ Saved ${outPath}`);
+      console.log(`    Tokens: input ${result.inputTokens}, output ${result.outputTokens}`);
+      totalInput += result.inputTokens;
+      totalOutput += result.outputTokens;
+      succeeded.push(competitor.name);
+    } catch (err) {
+      console.error(`  ✗ Failed: ${(err as Error).message}`);
+      failed.push(competitor.name);
+    }
+  }
+
+  console.log(`\n=== Summary ===`);
+  console.log(`Succeeded: ${succeeded.length} (${succeeded.join(', ') || 'none'})`);
+  console.log(`Failed: ${failed.length} (${failed.join(', ') || 'none'})`);
+  console.log(`Total tokens: input ${totalInput}, output ${totalOutput}`);
+
+  if (succeeded.length === 0) {
+    console.error('All competitor reports failed.');
+    process.exit(1);
+  }
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

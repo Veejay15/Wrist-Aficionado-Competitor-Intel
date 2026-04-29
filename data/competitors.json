@@ -1,0 +1,44 @@
+{
+  "competitors": [
+    {
+      "id": "bobswatches-com",
+      "name": "Bob's Watches",
+      "domain": "bobswatches.com",
+      "sitemapUrl": "https://www.bobswatches.com/sitemap.xml",
+      "addedAt": "2026-04-29",
+      "active": true
+    },
+    {
+      "id": "crownandcaliber-com",
+      "name": "Crown & Caliber",
+      "domain": "crownandcaliber.com",
+      "sitemapUrl": "https://www.crownandcaliber.com/sitemap.xml",
+      "addedAt": "2026-04-29",
+      "active": true
+    },
+    {
+      "id": "watchbox-com",
+      "name": "WatchBox",
+      "domain": "watchbox.com",
+      "sitemapUrl": "https://www.watchbox.com/sitemap.xml",
+      "addedAt": "2026-04-29",
+      "active": true
+    },
+    {
+      "id": "hodinkee-com",
+      "name": "Hodinkee",
+      "domain": "hodinkee.com",
+      "sitemapUrl": "https://www.hodinkee.com/sitemap.xml",
+      "addedAt": "2026-04-29",
+      "active": true
+    },
+    {
+      "id": "europeanwatch-com",
+      "name": "European Watch Company",
+      "domain": "europeanwatch.com",
+      "sitemapUrl": "https://europeanwatch.com/sitemap.xml",
+      "addedAt": "2026-04-29",
+      "active": true
+    }
+  ]
+}
