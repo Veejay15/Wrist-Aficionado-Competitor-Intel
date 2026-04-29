@@ -11,9 +11,9 @@
 
 ---
 
-## 2. New Pages Built by Bob's Watches
+## 2. Bob's Watches Content Footprint (Baseline Snapshot)
 
-Note: this is a baseline snapshot, not a delta. The pages below represent Bob's Watches's current indexed content footprint, sampled to the most strategically relevant entries for Wrist Aficionado. Individual SKU pages are excluded.
+This is the first sitemap capture for Bob's Watches, so the pages below are not new this week — they represent the existing indexed content footprint, sampled to the most strategically relevant entries for Wrist Aficionado. Brand hubs like Rolex, Cartier, and Breitling are long-standing primary collections, not new builds. Individual SKU pages are excluded. Future weekly reports will diff against this baseline to surface genuinely new pages.
 
 ### Brand Hub Pages
 Bob's Watches operates a primary brand hub architecture at the root domain level (e.g., `bobswatches.com/rolex/`, `bobswatches.com/cartier/`). These are the top-level pages driving their high-volume commercial rankings.
@@ -212,11 +212,11 @@ Wrist Aficionado has `/blogs/news/rolex-daytona-116508-collector-s-guide` and `/
 
 **Action:** Internally link both existing Daytona blog posts directly into the `/collections/rolex-daytona` collection page. Add a brief editorial summary at the top of that collection page connecting buyer intent to collector context. The goal is to consolidate the editorial authority already earned by the blog posts into the commercial landing page, narrowing the gap with Bob's position 2 ranking.
 
-### Priority 3: Build a Rolex Datejust Collection Page or Strengthen Existing Rolex Collection Coverage
+### Priority 3: Strengthen the Existing Rolex Datejust Collection Page for "Used" and "Pre-Owned" Intent
 
-Wrist Aficionado has `/collections/rolex` and individual model pages for Submariner, Daytona, and GMT but does not appear to have a dedicated `/collections/rolex-datejust` page. Bob's Watches holds position 1 for "used rolex datejust" (9,900 monthly searches) with a dedicated Datejust hub. "Used rolex datejust" is a genuine content gap.
+Wrist Aficionado already has `/collections/rolex-datejust` (and the sub-collection `/collections/rolex-datejust-two-tone`). Bob's Watches holds position 1 for "used rolex datejust" (9,900 monthly searches) with a dedicated Datejust hub at `bobswatches.com/rolex-datejust-1.html`. The opportunity is not a new build, it is closing the SERP gap on existing real estate.
 
-**Action:** Build `/collections/rolex-datejust` as a dedicated commercial landing page targeting "used Rolex Datejust," "pre-owned Rolex Datejust," and "Rolex Datejust for sale." Include a short buying guide section covering size variants (36mm vs 41mm), bezel types, and two-tone vs steel considerations. Note that Wrist Aficionado already has `/collections/rolex-datejust-two-tone` which can be cross-linked as a sub-collection.
+**Action:** Audit `/collections/rolex-datejust` for the same pre-owned and used commercial intent gap identified in Priority 1. Specifically: ensure the title tag and H1 explicitly target "used Rolex Datejust," "pre-owned Rolex Datejust," and "Rolex Datejust for sale." Add a short buying guide section above the product grid covering size variants (36mm vs 41mm), bezel types (smooth, fluted, diamond), and two-tone vs steel considerations. Cross-link `/collections/rolex-datejust-two-tone` as a sub-collection from the main page. Internally link any existing Datejust blog content into this page to consolidate topical authority.
 
 ### Priority 4: Build Cartier Model-Level Pages as a Genuine Content Gap
 
