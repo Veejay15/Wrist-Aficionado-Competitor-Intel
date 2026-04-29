@@ -218,19 +218,21 @@ Wrist Aficionado already has `/collections/rolex-datejust` (and the sub-collecti
 
 **Action:** Audit `/collections/rolex-datejust` for the same pre-owned and used commercial intent gap identified in Priority 1. Specifically: ensure the title tag and H1 explicitly target "used Rolex Datejust," "pre-owned Rolex Datejust," and "Rolex Datejust for sale." Add a short buying guide section above the product grid covering size variants (36mm vs 41mm), bezel types (smooth, fluted, diamond), and two-tone vs steel considerations. Cross-link `/collections/rolex-datejust-two-tone` as a sub-collection from the main page. Internally link any existing Datejust blog content into this page to consolidate topical authority.
 
-### Priority 4: Build Cartier Model-Level Pages as a Genuine Content Gap
+### Priority 4: Build Out Cartier Tank Sub-Variants and Roadster as Genuine Content Gaps
 
-Wrist Aficionado has `/collections/cartier`, `/collections/cartier-tank`, `/collections/cartier-santos`, `/collections/cartier-ballon-bleu`, `/collections/cartier-crash`, and a few others. Bob's Watches has built at least 20 Cartier model sub-pages covering Tank variants (Louis, Francaise, Americaine, Must, Solo), Santos variants (Santos de Cartier, 100, Dumont, Galbee), Pasha, Panthere, Roadster, Baignoire, Calibre, Rotonde, and vintage.
+Wrist Aficionado has 11 Cartier collection pages: `/collections/cartier`, `/collections/cartier-tank` (parent only), `/collections/cartier-santos`, `/collections/cartier-ballon-bleu`, `/collections/cartier-baignoire`, `/collections/cartier-crash`, `/collections/panthere-de-cartier`, `/collections/pasha-de-cartier`, plus three location-tagged pages (Beverly Hills, Miami, New York City).
 
-Wrist Aficionado is missing dedicated pages for:
+Bob's Watches has built dedicated sub-pages for every Tank variant (Louis, Francaise, Americaine, Must, Solo) and other models (Roadster, Calibre, Rotonde, vintage). Wrist Aficionado is genuinely missing dedicated collection pages for:
 - Cartier Tank Francaise
 - Cartier Tank Americaine
 - Cartier Tank Louis Cartier
-- Cartier Pasha de Cartier (note: `/collections/pasha-de-cartier` exists, check this is not just a product filter)
+- Cartier Tank Must
+- Cartier Tank Solo
 - Cartier Roadster
-- Cartier Baignoire (note: `/collections/cartier-baignoire` exists, confirm it has editorial content)
 
-**Action:** Audit the existing Cartier collection pages for editorial depth. For any page that is currently a bare product grid with no copy, add 150 to 250 words of model context. For Tank Francaise and Tank Americaine specifically, where Wrist Aficionado has no equivalent, build dedicated collection pages targeting "Cartier Tank Francaise for sale" and "Cartier Tank Americaine pre-owned."
+**Action (build new):** Create dedicated collection pages for Tank Francaise and Tank Americaine first, since these are the highest-volume Tank sub-variants in commercial search ("Cartier Tank Francaise for sale," "Cartier Tank Americaine pre-owned"). Tank Louis Cartier is the next priority for collector-tier traffic. Roadster is a smaller win but a clear gap.
+
+**Action (strengthen existing):** Audit `/collections/cartier-tank`, `/collections/cartier-santos`, `/collections/cartier-baignoire`, `/collections/pasha-de-cartier`, and the other existing Cartier pages for editorial depth. For any page that is currently a bare product grid, add 150 to 250 words of model context (history, reference numbers, sizing, what to look for in pre-owned).
 
 ### Priority 5: Create a Rolex Serial Numbers Resource Page
 
