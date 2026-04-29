@@ -79,6 +79,48 @@ async function fetchWristAficionadoPages(): Promise<string[]> {
   }
 }
 
+// Caps to keep the prompt under Claude's 1M-token limit. The first weekly run
+// has no previous snapshot, so every URL becomes a "new" URL and competitors
+// like Hodinkee or WatchBox produce 10k+ entries on their own.
+const MAX_NEW_URLS = 150;
+const MAX_UPDATED_URLS = 75;
+const MAX_REMOVED_URLS = 75;
+const MAX_CSV_ROWS = 15;
+// SEMrush backlinks "Text" column can carry kilobytes of scraped HTML per row.
+// Drop fields that bloat the payload without helping the analysis.
+const CSV_FIELDS_TO_DROP = new Set(['Text', 'Frame', 'Form', 'Image', 'Sitewide']);
+
+function trimDiff(diff: CompetitorDiff | null): { trimmed: CompetitorDiff; meta: Record<string, number> } {
+  const empty = { newUrls: [], removedUrls: [], updatedUrls: [] };
+  if (!diff) return { trimmed: { competitorId: '', ...empty }, meta: {} };
+  return {
+    trimmed: {
+      competitorId: diff.competitorId,
+      newUrls: diff.newUrls.slice(0, MAX_NEW_URLS),
+      updatedUrls: diff.updatedUrls.slice(0, MAX_UPDATED_URLS),
+      removedUrls: diff.removedUrls.slice(0, MAX_REMOVED_URLS),
+    },
+    meta: {
+      totalNewUrls: diff.newUrls.length,
+      totalUpdatedUrls: diff.updatedUrls.length,
+      totalRemovedUrls: diff.removedUrls.length,
+    },
+  };
+}
+
+function trimCsvs(csvs: CsvSummary[]): CsvSummary[] {
+  return csvs.map((c) => ({
+    ...c,
+    topRows: c.topRows.slice(0, MAX_CSV_ROWS).map((row) => {
+      const trimmed: Record<string, string> = {};
+      for (const [k, v] of Object.entries(row)) {
+        if (!CSV_FIELDS_TO_DROP.has(k)) trimmed[k] = v;
+      }
+      return trimmed;
+    }),
+  }));
+}
+
 async function generateForCompetitor(
   client: Anthropic,
   competitor: Competitor,
@@ -87,6 +129,7 @@ async function generateForCompetitor(
   wristAficionadoPages: string[],
   previousDate: string | null
 ): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
+  const { trimmed, meta } = trimDiff(diff);
   const dataPayload = {
     date: TODAY,
     previousDate,
@@ -96,8 +139,9 @@ async function generateForCompetitor(
       domain: competitor.domain,
     },
     wristAficionadoExistingPages: wristAficionadoPages,
-    sitemapDiff: diff || { newUrls: [], removedUrls: [], updatedUrls: [] },
-    csvData: csvs,
+    sitemapDiff: diff ? trimmed : { newUrls: [], removedUrls: [], updatedUrls: [] },
+    sitemapDiffTotals: diff ? meta : null,
+    csvData: trimCsvs(csvs),
   };
 
   const systemPrompt = `You are a senior SEO analyst preparing a focused weekly competitor intelligence report for Wrist Aficionado, a luxury watch e-commerce and reseller platform.
@@ -127,9 +171,15 @@ Ignore individual product listings (single SKU pages or specific watch reference
 
 Skip sections where there is no data. Do not invent data. Never recommend a page Wrist Aficionado already has. Keep this report focused and specific to ${competitor.name} only, do not discuss other competitors.`;
 
+  const isBaselineRun = diff !== null && previousDate === null;
+  const baselineNote = isBaselineRun
+    ? `(This is a baseline run with no previous sitemap snapshot, so every indexed URL appears as "new". Treat the sitemapDiff as a snapshot of ${competitor.name}'s current content footprint, not as activity from the last week. The "sitemapDiffTotals" object shows full counts; the URL arrays are sampled to the most relevant entries.)`
+    : '';
+
   const userPrompt = `Here is this week's data for ${competitor.name} for the report dated ${TODAY}.
 
 ${diff ? '' : '(No sitemap diff available for this competitor this week.)'}
+${baselineNote}
 ${csvs.length === 0 ? '(No SEMrush CSV data uploaded for this competitor this week.)' : ''}
 ${wristAficionadoPages.length === 0 ? '(Warning: could not fetch Wrist Aficionado existing pages this run. Be extra careful recommending new pages.)' : `(Wrist Aficionado's existing ${wristAficionadoPages.length} content pages are listed in "wristAficionadoExistingPages" for cross-reference.)`}
 
