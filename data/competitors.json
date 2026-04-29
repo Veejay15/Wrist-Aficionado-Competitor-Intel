@@ -7,6 +7,14 @@
       "sitemapUrl": "https://www.bobswatches.com/sitemap.xml",
       "addedAt": "2026-04-29",
       "active": true
+    },
+    {
+      "id": "watchesoff5th-com",
+      "name": "Watches Off 5th",
+      "domain": "https://watchesoff5th.com",
+      "sitemapUrl": "https://watchesoff5th.com/sitemap.xml",
+      "addedAt": "2026-04-29",
+      "active": true
     }
   ]
 }
