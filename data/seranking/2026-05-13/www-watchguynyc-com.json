@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-13T14:38:24.874Z",
+  "fetchedAt": "2026-05-13T14:42:13.539Z",
   "competitorId": "www-watchguynyc-com",
   "domain": "https://www.watchguynyc.com/",
   "topKeywords": [
@@ -1693,8 +1693,8 @@
     {
       "new_lost_date": "2026-05-06",
       "new_lost_type": "new",
-      "url_from": "https://watchguyny.myshopify.com/collections/vendors?constraint=fluted-bezel&page=2&q=Rolex",
-      "url_to": "https://www.watchguynyc.com/collections/vendors?page=2&q=rolex&constraint=fluted-bezel",
+      "url_from": "https://watchguyny.myshopify.com/collections/vendors?constraint=rolex-datejust-31mm&q=Rolex",
+      "url_to": "https://www.watchguynyc.com/collections/vendors?q=rolex&constraint=rolex-datejust-31mm",
       "title": null,
       "anchor": null,
       "alt": null,
@@ -1712,8 +1712,8 @@
     {
       "new_lost_date": "2026-05-06",
       "new_lost_type": "new",
-      "url_from": "https://watchguyny.myshopify.com/collections/vendors?constraint=rolex-datejust-31mm&q=Rolex",
-      "url_to": "https://www.watchguynyc.com/collections/vendors?q=rolex&constraint=rolex-datejust-31mm",
+      "url_from": "https://watchguyny.myshopify.com/collections/vendors?constraint=fluted-bezel&page=2&q=Rolex",
+      "url_to": "https://www.watchguynyc.com/collections/vendors?page=2&q=rolex&constraint=fluted-bezel",
       "title": null,
       "anchor": null,
       "alt": null,
