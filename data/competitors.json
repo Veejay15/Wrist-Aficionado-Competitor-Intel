@@ -31,6 +31,14 @@
       "sitemapUrl": "https://luxurytimenyc.com/sitemap.xml",
       "addedAt": "2026-05-13",
       "active": true
+    },
+    {
+      "id": "www-watchguynyc-com",
+      "name": "Watch Guy NYC",
+      "domain": "https://www.watchguynyc.com/",
+      "sitemapUrl": "https://www.watchguynyc.com/sitemap.xml",
+      "addedAt": "2026-05-13",
+      "active": true
     }
   ]
 }
