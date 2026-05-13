@@ -23,6 +23,14 @@
       "sitemapUrl": "https://www.aviandco.com/sitemap.xml",
       "addedAt": "2026-05-13",
       "active": true
+    },
+    {
+      "id": "luxurytimenyc-com",
+      "name": "Luxtury Time",
+      "domain": "https://luxurytimenyc.com/",
+      "sitemapUrl": "https://luxurytimenyc.com/sitemap.xml",
+      "addedAt": "2026-05-13",
+      "active": true
     }
   ]
 }
