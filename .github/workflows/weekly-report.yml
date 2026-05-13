@@ -60,6 +60,12 @@ jobs:
         if: steps.check.outputs.skip != 'true'
         run: npm run process:csvs
 
+      - name: Fetch SE Ranking data
+        if: steps.check.outputs.skip != 'true'
+        env:
+          SE_RANKING_API_KEY: ${{ secrets.SE_RANKING_API_KEY }}
+        run: npm run fetch:seranking
+
       - name: Generate report with Claude
         if: steps.check.outputs.skip != 'true'
         env:

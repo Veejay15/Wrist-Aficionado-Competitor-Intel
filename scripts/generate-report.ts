@@ -3,6 +3,7 @@ import path from 'path';
 import Anthropic from '@anthropic-ai/sdk';
 import { Competitor, CompetitorsData } from '../lib/types';
 import { fetchSitemap, isListingNoise } from '../lib/sitemap';
+import type { SeRankingSnapshot } from './fetch-seranking';
 
 const ROOT = process.cwd();
 const TODAY = new Date().toISOString().split('T')[0];
@@ -47,6 +48,35 @@ function loadCsvSummaries(): CsvSummariesData | null {
   const p = path.join(ROOT, 'data', 'csv-summaries', `${TODAY}.json`);
   if (!fs.existsSync(p)) return null;
   return JSON.parse(fs.readFileSync(p, 'utf-8'));
+}
+
+function loadSeRanking(competitorId: string): SeRankingSnapshot | null {
+  const p = path.join(ROOT, 'data', 'seranking', TODAY, `${competitorId}.json`);
+  if (!fs.existsSync(p)) return null;
+  try {
+    return JSON.parse(fs.readFileSync(p, 'utf-8'));
+  } catch {
+    return null;
+  }
+}
+
+// Cap SE Ranking arrays to keep the prompt compact. Backlinks summary fields
+// are already small; we mainly need to trim the new-backlinks list, which can
+// reach hundreds of entries per competitor.
+const MAX_SERANKING_KEYWORDS = 50;
+const MAX_SERANKING_NEW_BACKLINKS = 40;
+
+function trimSeRanking(snap: SeRankingSnapshot | null): SeRankingSnapshot | null {
+  if (!snap) return null;
+  return {
+    ...snap,
+    topKeywords: snap.topKeywords.slice(0, MAX_SERANKING_KEYWORDS),
+    newBacklinks: snap.newBacklinks.slice(0, MAX_SERANKING_NEW_BACKLINKS).map((b) => ({
+      ...b,
+      title: b.title?.slice(0, 120) || null,
+      anchor: b.anchor?.slice(0, 120) || null,
+    })),
+  };
 }
 
 function loadCompetitors(): Competitor[] {
@@ -126,6 +156,7 @@ async function generateForCompetitor(
   competitor: Competitor,
   diff: CompetitorDiff | null,
   csvs: CsvSummary[],
+  seRanking: SeRankingSnapshot | null,
   wristAficionadoPages: string[],
   previousDate: string | null
 ): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
@@ -142,7 +173,10 @@ async function generateForCompetitor(
     sitemapDiff: diff ? trimmed : { newUrls: [], removedUrls: [], updatedUrls: [] },
     sitemapDiffTotals: diff ? meta : null,
     csvData: trimCsvs(csvs),
+    seRanking: trimSeRanking(seRanking),
   };
+
+  const hasSeRanking = !!seRanking && (seRanking.topKeywords.length > 0 || seRanking.newBacklinks.length > 0 || !!seRanking.backlinksSummary);
 
   const systemPrompt = `You are a senior SEO analyst preparing a focused weekly competitor intelligence report for Wrist Aficionado, a luxury watch e-commerce and reseller platform.
 
@@ -153,8 +187,8 @@ Tone: confident, direct, no fluff. No emojis. No em dashes (use periods, commas,
 Structure:
 1. Executive Summary (2 to 4 bullet points, what this competitor did this week and what to do about it)
 2. New Pages Built by ${competitor.name} (list URLs and infer what they're targeting based on URL slugs, e.g. brand pages, model reference guides, buying guides, collection landing pages)
-3. Backlink Movements (only if CSV data is provided for this competitor)
-4. Keyword and Ranking Changes (only if CSV data is provided for this competitor)
+3. Backlink Movements (use the seRanking.backlinksSummary for overall scale, seRanking.newBacklinks for recently acquired links, and any CSV data provided. Call out high-authority new links by domain_inlink_rank.)
+4. Keyword and Ranking Changes (use seRanking.topKeywords for the competitor's current organic footprint in the US, called out by traffic, position, and search intent. Compare position vs prev_pos to flag movement. Combine with any CSV data provided.)
 5. Recommended Actions for Wrist Aficionado (numbered list, specific moves to make this week in response to ${competitor.name}'s activity)
 
 CRITICAL RULE FOR RECOMMENDATIONS:
@@ -181,6 +215,7 @@ Skip sections where there is no data. Do not invent data. Never recommend a page
 ${diff ? '' : '(No sitemap diff available for this competitor this week.)'}
 ${baselineNote}
 ${csvs.length === 0 ? '(No SEMrush CSV data uploaded for this competitor this week.)' : ''}
+${hasSeRanking ? '(SE Ranking API data is included: seRanking.topKeywords shows top 50 organic keywords in the US database by estimated traffic; seRanking.backlinksSummary gives total link/domain counts and top anchors/pages; seRanking.newBacklinks lists up to 40 backlinks first seen in the last 7 days.)' : '(No SE Ranking data available for this competitor this week.)'}
 ${wristAficionadoPages.length === 0 ? '(Warning: could not fetch Wrist Aficionado existing pages this run. Be extra careful recommending new pages.)' : `(Wrist Aficionado's existing ${wristAficionadoPages.length} content pages are listed in "wristAficionadoExistingPages" for cross-reference.)`}
 
 DATA:
@@ -223,8 +258,10 @@ async function main() {
   const csvSummaries = loadCsvSummaries();
   const wristAficionadoPages = await fetchWristAficionadoPages();
 
-  if (!diffs && !csvSummaries) {
-    console.log('No data to report on. Run fetch-sitemaps and process-csvs first.');
+  const hasAnySeRanking = competitors.some((c) => loadSeRanking(c.id));
+
+  if (!diffs && !csvSummaries && !hasAnySeRanking) {
+    console.log('No data to report on. Run fetch-sitemaps, process-csvs, or fetch-seranking first.');
     process.exit(0);
   }
 
@@ -241,6 +278,7 @@ async function main() {
     console.log(`\nGenerating report for ${competitor.name}...`);
     const diff = diffs?.diffs.find((d) => d.competitorId === competitor.id) || null;
     const csvs = csvSummaries?.summaries.filter((s) => s.competitorId === competitor.id) || [];
+    const seRanking = loadSeRanking(competitor.id);
 
     try {
       const result = await generateForCompetitor(
@@ -248,6 +286,7 @@ async function main() {
         competitor,
         diff,
         csvs,
+        seRanking,
         wristAficionadoPages,
         diffs?.previousDate || null
       );
