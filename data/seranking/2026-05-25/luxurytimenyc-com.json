@@ -1,0 +1,1698 @@
+{
+  "fetchedAt": "2026-05-25T12:22:31.683Z",
+  "competitorId": "luxurytimenyc-com",
+  "domain": "https://luxurytimenyc.com/",
+  "topKeywords": [
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "royal oak",
+      "position": 3,
+      "prev_pos": 5,
+      "volume": 74000,
+      "cpc": 0.44,
+      "competition": 0.3,
+      "url": "https://luxurytimenyc.com/collections/royal-oak/audemars-piguet",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 820,
+      "traffic_percent": 9.21,
+      "price": 360.8,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "knowledge_graph",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex datejust 41",
+      "position": 3,
+      "prev_pos": 2,
+      "volume": 19100,
+      "cpc": 1.42,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/41-mm",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 462,
+      "traffic_percent": 5.19,
+      "price": 656.04,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "shopping_results",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "rolex near me",
+      "position": 7,
+      "prev_pos": 8,
+      "volume": 33100,
+      "cpc": 0.79,
+      "competition": 0.68,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 55,
+      "total_sites": null,
+      "traffic": 455,
+      "traffic_percent": 5.11,
+      "price": 359.45,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 17,
+      "keyword": "watch store near me",
+      "position": 16,
+      "prev_pos": 15,
+      "volume": 47500,
+      "cpc": 0.85,
+      "competition": 0.98,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 66,
+      "total_sites": null,
+      "traffic": 239,
+      "traffic_percent": 2.69,
+      "price": 203.15,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "audemar piguet",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 5700,
+      "cpc": 0.79,
+      "competition": 0.92,
+      "url": "https://luxurytimenyc.com/collections/audemars-piguet",
+      "difficulty": 50,
+      "total_sites": null,
+      "traffic": 221,
+      "traffic_percent": 2.48,
+      "price": 174.59,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "see_results_about"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "datejust 41",
+      "position": 2,
+      "prev_pos": 10,
+      "volume": 5700,
+      "cpc": 1.42,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/41-mm",
+      "difficulty": 50,
+      "total_sites": null,
+      "traffic": 174,
+      "traffic_percent": 1.96,
+      "price": 247.08,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 17,
+      "keyword": "watches near me",
+      "position": 16,
+      "prev_pos": 18,
+      "volume": 19100,
+      "cpc": 0.4,
+      "competition": 0.99,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 63,
+      "total_sites": null,
+      "traffic": 128,
+      "traffic_percent": 1.44,
+      "price": 51.2,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "watch store",
+      "position": 12,
+      "prev_pos": 8,
+      "volume": 33100,
+      "cpc": 0.49,
+      "competition": 0.64,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 127,
+      "traffic_percent": 1.43,
+      "price": 62.23,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "rolex authorized dealer",
+      "position": 18,
+      "prev_pos": 6,
+      "volume": 6600,
+      "cpc": 1.57,
+      "competition": 0.44,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 60,
+      "total_sites": null,
+      "traffic": 116,
+      "traffic_percent": 1.3,
+      "price": 182.12,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "jubilee bracelet",
+      "position": 3,
+      "prev_pos": null,
+      "volume": 5400,
+      "cpc": 0.23,
+      "competition": 0.78,
+      "url": "https://luxurytimenyc.com/collections/jubilee-bracelet",
+      "difficulty": 54,
+      "total_sites": null,
+      "traffic": 112,
+      "traffic_percent": 1.26,
+      "price": 25.76,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 21,
+      "keyword": "rolex for sale",
+      "position": 18,
+      "prev_pos": 19,
+      "volume": 22200,
+      "cpc": 0.16,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 112,
+      "traffic_percent": 1.26,
+      "price": 17.92,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "omega seamaster",
+      "position": 12,
+      "prev_pos": null,
+      "volume": 74000,
+      "cpc": 0.07,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/omega-seamaster",
+      "difficulty": 78,
+      "total_sites": null,
+      "traffic": 101,
+      "traffic_percent": 1.13,
+      "price": 7.07,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": "gmb",
+      "block_position": 99,
+      "keyword": "luxury time watch",
+      "position": 81,
+      "prev_pos": 79,
+      "volume": 590,
+      "cpc": 0.86,
+      "competition": 1,
+      "url": "http://www.luxurytimenyc.com/",
+      "difficulty": 26,
+      "total_sites": null,
+      "traffic": 96,
+      "traffic_percent": 1.08,
+      "price": 82.56,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "rolex dealer",
+      "position": 7,
+      "prev_pos": 6,
+      "volume": 6600,
+      "cpc": 0.84,
+      "competition": 0.87,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 44,
+      "total_sites": null,
+      "traffic": 87,
+      "traffic_percent": 0.98,
+      "price": 73.08,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 29,
+      "keyword": "rolex men",
+      "position": 22,
+      "prev_pos": 23,
+      "volume": 74000,
+      "cpc": 1.56,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 72,
+      "total_sites": null,
+      "traffic": 72,
+      "traffic_percent": 0.81,
+      "price": 112.32,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "rolex store",
+      "position": 5,
+      "prev_pos": 7,
+      "volume": 5700,
+      "cpc": 0.75,
+      "competition": 0.63,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 69,
+      "traffic_percent": 0.78,
+      "price": 51.75,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "rolex datejust 41mm",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 1900,
+      "cpc": 0.25,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/41-mm",
+      "difficulty": 51,
+      "total_sites": null,
+      "traffic": 68,
+      "traffic_percent": 0.76,
+      "price": 17,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 15,
+      "keyword": "watch stores",
+      "position": 14,
+      "prev_pos": 7,
+      "volume": 12100,
+      "cpc": 0.49,
+      "competition": 0.64,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 49,
+      "total_sites": null,
+      "traffic": 66,
+      "traffic_percent": 0.74,
+      "price": 32.34,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex blue",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 5400,
+      "cpc": 1.92,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex/blue",
+      "difficulty": 47,
+      "total_sites": null,
+      "traffic": 65,
+      "traffic_percent": 0.73,
+      "price": 124.8,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "luxury watch retailer",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 1900,
+      "cpc": 0.66,
+      "competition": 0.03,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 47,
+      "total_sites": null,
+      "traffic": 62,
+      "traffic_percent": 0.7,
+      "price": 40.92,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "watch stores near me",
+      "position": 17,
+      "prev_pos": 15,
+      "volume": 12100,
+      "cpc": 0.85,
+      "competition": 0.98,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 56,
+      "traffic_percent": 0.63,
+      "price": 47.6,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "blue rolex",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 4400,
+      "cpc": 1.92,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex/blue",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 53,
+      "traffic_percent": 0.6,
+      "price": 101.76,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 27,
+      "keyword": "watch near me",
+      "position": 26,
+      "prev_pos": 12,
+      "volume": 10800,
+      "cpc": 0.41,
+      "competition": 0.94,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 67,
+      "total_sites": null,
+      "traffic": 49,
+      "traffic_percent": 0.55,
+      "price": 20.09,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 11,
+      "keyword": "rolex dealer near me",
+      "position": 11,
+      "prev_pos": null,
+      "volume": 6600,
+      "cpc": 1.26,
+      "competition": 0.98,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 45,
+      "total_sites": null,
+      "traffic": 46,
+      "traffic_percent": 0.52,
+      "price": 57.96,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "watches diamond bezel",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 590,
+      "cpc": 0.48,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/diamonds-bezel",
+      "difficulty": 10,
+      "total_sites": null,
+      "traffic": 46,
+      "traffic_percent": 0.52,
+      "price": 22.08,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 17,
+      "keyword": "luxury watches for men",
+      "position": 14,
+      "prev_pos": 21,
+      "volume": 33100,
+      "cpc": 0.83,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 70,
+      "total_sites": null,
+      "traffic": 43,
+      "traffic_percent": 0.48,
+      "price": 35.69,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "bezel diamond watches",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 590,
+      "cpc": 0.48,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/diamonds-bezel",
+      "difficulty": 9,
+      "total_sites": null,
+      "traffic": 39,
+      "traffic_percent": 0.44,
+      "price": 18.72,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "bezel diamond watch",
+      "position": 1,
+      "prev_pos": 3,
+      "volume": 590,
+      "cpc": 0.48,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/diamonds-bezel",
+      "difficulty": 11,
+      "total_sites": null,
+      "traffic": 38,
+      "traffic_percent": 0.43,
+      "price": 18.24,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "rolex dealers",
+      "position": 8,
+      "prev_pos": 15,
+      "volume": 3100,
+      "cpc": 0.84,
+      "competition": 0.87,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 42,
+      "total_sites": null,
+      "traffic": 37,
+      "traffic_percent": 0.42,
+      "price": 31.08,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "diamond bezel watch",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 590,
+      "cpc": 0.48,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/diamonds-bezel",
+      "difficulty": 10,
+      "total_sites": null,
+      "traffic": 36,
+      "traffic_percent": 0.4,
+      "price": 17.28,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 29,
+      "keyword": "rolex batgirl",
+      "position": 26,
+      "prev_pos": 25,
+      "volume": 9900,
+      "cpc": 1.78,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/products/rolex-gmt-master-ii-batgirl-steel-black-dial-blue-black-ceramic-bezel-jubilee-bracelet-126710blnr",
+      "difficulty": 53,
+      "total_sites": null,
+      "traffic": 35,
+      "traffic_percent": 0.39,
+      "price": 62.3,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "watches with diamond bezel",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 590,
+      "cpc": 0.48,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/diamonds-bezel",
+      "difficulty": 15,
+      "total_sites": null,
+      "traffic": 35,
+      "traffic_percent": 0.39,
+      "price": 16.8,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 19,
+      "keyword": "watch shop near me",
+      "position": 18,
+      "prev_pos": 15,
+      "volume": 5700,
+      "cpc": 0.95,
+      "competition": 0.96,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 53,
+      "total_sites": null,
+      "traffic": 32,
+      "traffic_percent": 0.36,
+      "price": 30.4,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 13,
+      "keyword": "rolex boutique",
+      "position": 13,
+      "prev_pos": null,
+      "volume": 4400,
+      "cpc": 1.02,
+      "competition": 0.2,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 30,
+      "traffic_percent": 0.34,
+      "price": 30.6,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": "gmb",
+      "block_position": 92,
+      "keyword": "luxury time",
+      "position": 91,
+      "prev_pos": 91,
+      "volume": 210,
+      "cpc": 1.16,
+      "competition": 0.43,
+      "url": "http://www.luxurytimenyc.com/",
+      "difficulty": 13,
+      "total_sites": null,
+      "traffic": 28,
+      "traffic_percent": 0.31,
+      "price": 32.48,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 19,
+      "keyword": "rolex presidential",
+      "position": 16,
+      "prev_pos": 9,
+      "volume": 33100,
+      "cpc": 1.56,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/day-date/president-bracelet",
+      "difficulty": 77,
+      "total_sites": null,
+      "traffic": 28,
+      "traffic_percent": 0.31,
+      "price": 43.68,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": "sitelinks",
+      "block_position": 3,
+      "keyword": "omega lady constellation",
+      "position": 3,
+      "prev_pos": null,
+      "volume": 480,
+      "cpc": 0.05,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/omega-constellation",
+      "difficulty": 20,
+      "total_sites": null,
+      "traffic": 28,
+      "traffic_percent": 0.31,
+      "price": 1.4,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "shopping_results",
+        "related_searches",
+        "image_in_block"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "datejust 41mm",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 880,
+      "cpc": 0.18,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/41-mm",
+      "difficulty": 16,
+      "total_sites": null,
+      "traffic": 27,
+      "traffic_percent": 0.3,
+      "price": 4.86,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "luxury times",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 210,
+      "cpc": 1.16,
+      "competition": 0.43,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 12,
+      "total_sites": null,
+      "traffic": 27,
+      "traffic_percent": 0.3,
+      "price": 31.32,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "luxury time",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 210,
+      "cpc": 1.16,
+      "competition": 0.43,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 13,
+      "total_sites": null,
+      "traffic": 26,
+      "traffic_percent": 0.29,
+      "price": 30.16,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "rolex datejust jubilee",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 660,
+      "cpc": 0.32,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/jubilee-bracelet",
+      "difficulty": 11,
+      "total_sites": null,
+      "traffic": 24,
+      "traffic_percent": 0.27,
+      "price": 7.68,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "buy rolex",
+      "position": 15,
+      "prev_pos": 18,
+      "volume": 4400,
+      "cpc": 0.86,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 60,
+      "total_sites": null,
+      "traffic": 23,
+      "traffic_percent": 0.26,
+      "price": 19.78,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "rolex oyster bracelet",
+      "position": 4,
+      "prev_pos": 2,
+      "volume": 2400,
+      "cpc": 0.5,
+      "competition": 0.55,
+      "url": "https://luxurytimenyc.com/collections/oyster-bracelet",
+      "difficulty": 58,
+      "total_sites": null,
+      "traffic": 23,
+      "traffic_percent": 0.26,
+      "price": 11.5,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "find_results_on",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 16,
+      "keyword": "buy a rolex",
+      "position": 14,
+      "prev_pos": 14,
+      "volume": 3600,
+      "cpc": 0.86,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 57,
+      "total_sites": null,
+      "traffic": 21,
+      "traffic_percent": 0.24,
+      "price": 18.06,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "expensive watches",
+      "position": 3,
+      "prev_pos": 11,
+      "volume": 1800,
+      "cpc": 0.89,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 55,
+      "total_sites": null,
+      "traffic": 21,
+      "traffic_percent": 0.24,
+      "price": 18.69,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 12,
+      "keyword": "rolex prices",
+      "position": 10,
+      "prev_pos": 23,
+      "volume": 5700,
+      "cpc": 1.33,
+      "competition": 0.84,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 20,
+      "traffic_percent": 0.22,
+      "price": 26.6,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "datejust",
+      "position": 6,
+      "prev_pos": 3,
+      "volume": 14800,
+      "cpc": 1.56,
+      "competition": 0.95,
+      "url": "https://luxurytimenyc.com/collections/datejust",
+      "difficulty": 72,
+      "total_sites": null,
+      "traffic": 19,
+      "traffic_percent": 0.21,
+      "price": 29.64,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "rolex datejust white gold",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 480,
+      "cpc": 1.2,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/white-gold-two-tone",
+      "difficulty": 5,
+      "total_sites": null,
+      "traffic": 19,
+      "traffic_percent": 0.21,
+      "price": 22.8,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 11,
+      "keyword": "expensive watch",
+      "position": 6,
+      "prev_pos": 5,
+      "volume": 3600,
+      "cpc": 0.89,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 18,
+      "traffic_percent": 0.2,
+      "price": 16.02,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "jubilee bracelet",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 5400,
+      "cpc": 0.23,
+      "competition": 0.78,
+      "url": "https://luxurytimenyc.com/collections/jubilee-bracelet",
+      "difficulty": 54,
+      "total_sites": null,
+      "traffic": 18,
+      "traffic_percent": 0.2,
+      "price": 4.14,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "shopping_results",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "C"
+      ]
+    }
+  ],
+  "backlinksSummary": {
+    "target": "luxurytimenyc.com",
+    "backlinks": 140612,
+    "refdomains": 2965,
+    "subnets": 1340,
+    "ips": 2183,
+    "nofollow_backlinks": 270,
+    "dofollow_backlinks": 140342,
+    "edu_backlinks": 860,
+    "gov_backlinks": 2,
+    "inlink_rank": 5,
+    "domain_inlink_rank": 24,
+    "from_home_page_backlinks": 0,
+    "dofollow_from_home_page_backlinks": 0,
+    "text_backlinks": 391,
+    "dofollow_refdomains": 2777,
+    "from_home_page_refdomains": 0,
+    "edu_refdomains": 19,
+    "gov_refdomains": 2,
+    "anchors": 62229,
+    "dofollow_anchors": 62216,
+    "pages_with_backlinks": 4251,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "100 Authentic Audemars Piguet Watches Luxury Time NYC",
+        "backlinks": 1540
+      },
+      {
+        "anchor": "Audemars Piguet 50th Anniversary Watches",
+        "backlinks": 988
+      },
+      {
+        "anchor": "Audemars Piguet 50TH Anniversary Watches Luxury Time NYC",
+        "backlinks": 868
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "100 Authentic Audemars Piguet Watches Luxury Time NYC",
+        "refdomains": 223
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Luxury Time NYC",
+        "refdomains": 163
+      },
+      {
+        "anchor": "Audemars Piguet 50TH Anniversary Watches Luxury Time NYC",
+        "refdomains": 154
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Offshore Luxury Time NYC",
+        "refdomains": 136
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Quartz Luxury Time NYC",
+        "refdomains": 123
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Chronograph Luxury Time NYC",
+        "refdomains": 114
+      },
+      {
+        "anchor": "Rolex Watches For Men Women In USA 100 Authentic Luxury Time NYC",
+        "refdomains": 113
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Offshore Diver Luxury Time NYC",
+        "refdomains": 111
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Offshore Selfwinding Luxury Time NYC",
+        "refdomains": 89
+      },
+      {
+        "anchor": "BLACK SEO LINKS, BACKLINKS, MASS BACKLINKING – TELEGRAM @SEO_LINKK",
+        "refdomains": 82
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/collections/audemars-piguet-497072.jpg",
+        "backlinks": 5067
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-watch-41mm-stainless-steel-black-dial-calibre-3120-black-dial-41mm-15400stoo1220st01-255259_350x.jpg",
+        "backlinks": 3734
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-watch-blue-dial-37mm-15450stoo1256st03-764933_400x400.jpg",
+        "backlinks": 3248
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-chronograph-limited-edition-of-400-watch-blue-dial-42mm-26703stooa027ca01-686709_350x.jpg",
+        "backlinks": 1500
+      },
+      {
+        "url": "http://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-watch-black-dial-42mm-15710stooa002ca01-263201_1200x1200.jpg",
+        "backlinks": 1419
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-quartz-watch-blue-dial-33mm-67651orzz1261or02-804131_350x.jpg",
+        "backlinks": 1373
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/collections/rolex-247780.jpg",
+        "backlinks": 1343
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-ladies-collection-royal-oak-quartz-watch-silver-dial-33mm-67651stzz1261st01-237474_350x.jpg",
+        "backlinks": 1245
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-chronograph-watch-green-dial-42mm-26703stooa038ca01-600796_350x.jpg",
+        "backlinks": 1133
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-rose-gold-41mm-white-dial-26240oroo1320or03-663938_1000x.jpg",
+        "backlinks": 1076
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/collections/audemars-piguet-497072.jpg",
+        "refdomains": 808
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-watch-blue-dial-37mm-15450stoo1256st03-764933_400x400.jpg",
+        "refdomains": 622
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/collections/rolex-247780.jpg",
+        "refdomains": 615
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-watch-41mm-stainless-steel-black-dial-calibre-3120-black-dial-41mm-15400stoo1220st01-255259_350x.jpg",
+        "refdomains": 500
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-special-edition-watch-orange-dial-42mm-15710stooa070ca01-288623_350x.jpg",
+        "refdomains": 337
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-ladies-collection-royal-oak-quartz-watch-silver-dial-33mm-67651orzz1261or01-218426_400x400.jpg",
+        "refdomains": 310
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-chronograph-watch-blue-dial-42mm-26470stooa027ca01-650137_400x400.jpg",
+        "refdomains": 307
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/rolex-submariner-no-date-stainless-steel-black-dial-ceramic-bezel-oyster-bracelet-114060-952312_1024x1024.jpg",
+        "refdomains": 303
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-chronograph-limited-edition-of-400-watch-blue-dial-42mm-26703stooa027ca01-686709_350x.jpg",
+        "refdomains": 301
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-quartz-watch-blue-dial-33mm-67651orzz1261or02-804131_350x.jpg",
+        "refdomains": 299
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1455
+      },
+      {
+        "tld": "org",
+        "count": 105
+      },
+      {
+        "tld": "com.br",
+        "count": 86
+      },
+      {
+        "tld": "net",
+        "count": 82
+      },
+      {
+        "tld": "co.uk",
+        "count": 47
+      },
+      {
+        "tld": "in",
+        "count": 36
+      },
+      {
+        "tld": "de",
+        "count": 27
+      },
+      {
+        "tld": "pl",
+        "count": 23
+      },
+      {
+        "tld": "nl",
+        "count": 21
+      },
+      {
+        "tld": "ca",
+        "count": 20
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1432
+      },
+      {
+        "country": "de",
+        "count": 182
+      },
+      {
+        "country": "fr",
+        "count": 129
+      },
+      {
+        "country": "co",
+        "count": 84
+      },
+      {
+        "country": "gb",
+        "count": 74
+      },
+      {
+        "country": "nl",
+        "count": 62
+      },
+      {
+        "country": "ua",
+        "count": 53
+      },
+      {
+        "country": "ca",
+        "count": 45
+      },
+      {
+        "country": "ir",
+        "count": 43
+      },
+      {
+        "country": "fi",
+        "count": 42
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-05-21",
+      "new_lost_type": "new",
+      "url_from": "https://watchscout.com.au/brands/patek-philippe",
+      "url_to": "https://luxurytimenyc.com/blogs/news/a-complete-beginner-s-guide-to-patek-philippe-watch-models",
+      "title": "Patek Philippe History & Heritage | Watch Scout",
+      "anchor": "luxurytimenyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 0,
+      "first_seen": "2026-05-21"
+    },
+    {
+      "new_lost_date": "2026-05-19",
+      "new_lost_type": "new",
+      "url_from": "http://knows.sbs/domain/domain/part/145856",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "seo domain research",
+      "anchor": "luxurytimenyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 54,
+      "first_seen": "2026-05-19"
+    },
+    {
+      "new_lost_date": "2026-05-18",
+      "new_lost_type": "new",
+      "url_from": "http://blinks.monster/domain/domain/part/145856",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "seo domain research",
+      "anchor": "luxurytimenyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 50,
+      "first_seen": "2026-05-18"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-05-18",
+    "to": "2026-05-25"
+  },
+  "errors": []
+}
