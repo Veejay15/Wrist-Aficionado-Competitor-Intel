@@ -1,0 +1,216 @@
+{
+  "fetchedAt": "2026-06-08T13:01:28.165Z",
+  "competitorId": "watchesoff5th-com",
+  "domain": "https://watchesoff5th.com",
+  "topKeywords": [],
+  "backlinksSummary": {
+    "target": "watchesoff5th.com",
+    "backlinks": 135336,
+    "refdomains": 2391,
+    "subnets": 1121,
+    "ips": 1844,
+    "nofollow_backlinks": 3492,
+    "dofollow_backlinks": 131844,
+    "edu_backlinks": 727,
+    "gov_backlinks": 19,
+    "inlink_rank": 5,
+    "domain_inlink_rank": 28,
+    "from_home_page_backlinks": 1,
+    "dofollow_from_home_page_backlinks": 1,
+    "text_backlinks": 3691,
+    "dofollow_refdomains": 2329,
+    "from_home_page_refdomains": 1,
+    "edu_refdomains": 25,
+    "gov_refdomains": 5,
+    "anchors": 55041,
+    "dofollow_anchors": 55020,
+    "pages_with_backlinks": 4652,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "",
+        "backlinks": 3702
+      },
+      {
+        "anchor": "WatchesOff5th",
+        "backlinks": 1480
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Chronograph Rose Gold",
+        "refdomains": 69
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Double Balance Wheel Openwork Stainless",
+        "refdomains": 60
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 37mm Skeleton Rose Gold Double",
+        "refdomains": 58
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Jumbo Men s Audemars Piguet",
+        "refdomains": 57
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Chronograph Rose Gold Chocolat WatchesOff5th",
+        "refdomains": 57
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Men s Watches Royal Oak WatchesOff5th",
+        "refdomains": 56
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Rose Gold Black Dial",
+        "refdomains": 56
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 37mm Skeleton Rose Gold Double Balance W WatchesOff5th",
+        "refdomains": 56
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Chronograph 41mm Rose Gold Green Dial",
+        "refdomains": 53
+      },
+      {
+        "anchor": "Royal Oak Men s Watches Royal Oak Chronograph Audemars Piguet Store Near Me WatchesOff5th",
+        "refdomains": 52
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "http://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-chronograph-41-mm-blue-dial-ref-26240oroo1320or05-927482.jpg",
+        "backlinks": 2129
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-stainless-steel-blue-dial-ref15500stoo1220st01-141830_800x.jpg",
+        "backlinks": 1998
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-18k-rose-gold-brown-dial-rose-gold-sub-dials-ref26331oroo1220or02-989987_800x.jpg",
+        "backlinks": 1802
+      },
+      {
+        "url": "https://watchesoff5th.com/",
+        "backlinks": 1656
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-rose-gold-and-steel-white-dial-37mm-ladies-watch-reference-15450sroo1256sr01-266772_800x.jpg",
+        "backlinks": 1517
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-rose-gold-chocolate-dial-rose-gold-sub-dials-ref26331orood821cr01-823004_800x.jpg",
+        "refdomains": 387
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-stainless-steel-blue-dial-ref15500stoo1220st01-141830_800x.jpg",
+        "refdomains": 326
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-rose-gold-and-steel-white-dial-37mm-ladies-watch-reference-15450sroo1256sr01-266772_800x.jpg",
+        "refdomains": 325
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-18k-rose-gold-brown-dial-rose-gold-sub-dials-ref26331oroo1220or02-989987_800x.jpg",
+        "refdomains": 301
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-41mm-stainless-steel-blue-dial-15510stoo1320st06-910454_800x.jpg",
+        "refdomains": 290
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1116
+      },
+      {
+        "tld": "org",
+        "count": 93
+      },
+      {
+        "tld": "com.br",
+        "count": 63
+      },
+      {
+        "tld": "net",
+        "count": 60
+      },
+      {
+        "tld": "co.uk",
+        "count": 40
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1152
+      },
+      {
+        "country": "de",
+        "count": 150
+      },
+      {
+        "country": "fr",
+        "count": 92
+      },
+      {
+        "country": "co",
+        "count": 66
+      },
+      {
+        "country": "gb",
+        "count": 65
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-06-02",
+      "new_lost_type": "new",
+      "url_from": "https://askai.glarity.app/search/What-can-you-tell-me-about-the-Audemars-Piguet-x-Swatch-collaboration",
+      "url_to": "https://watchesoff5th.com/blogs/news/swatch-audemars-piguet-royal-pop?srsltid=AfmBOopGdTbUjQyfa-8XJ10_hZJzxSt9K_eXCbESpAuslx26kLDHMr7C",
+      "title": "What can you tell me about the Audemars Piguet x Swatch collaboration? - Ask and Answer - Glarity",
+      "anchor": "[2",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 69,
+      "first_seen": "2026-06-02"
+    },
+    {
+      "new_lost_date": "2026-06-02",
+      "new_lost_type": "new",
+      "url_from": "https://askai.glarity.app/search/What-can-you-tell-me-about-the-Audemars-Piguet-x-Swatch-collaboration",
+      "url_to": "https://watchesoff5th.com/blogs/news/swatch-audemars-piguet-royal-pop?srsltid=AfmBOopGdTbUjQyfa-8XJ10_hZJzxSt9K_eXCbESpAuslx26kLDHMr7C",
+      "title": "What can you tell me about the Audemars Piguet x Swatch collaboration? - Ask and Answer - Glarity",
+      "anchor": "Swatch x Audemars Piguet 'Royal Pop': May 16 Drop Guide watchesoff5th.com 2",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 69,
+      "first_seen": "2026-06-02"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-06-01",
+    "to": "2026-06-08"
+  },
+  "errors": [
+    "keywords: SE Ranking /v1/domain/keywords failed (429): {\"message\":\"too many requests\"}"
+  ]
+}
