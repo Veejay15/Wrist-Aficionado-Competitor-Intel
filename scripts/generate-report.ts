@@ -186,18 +186,26 @@ Tone: confident, direct, no fluff. No emojis. No em dashes (use periods, commas,
 
 Structure:
 1. Executive Summary (2 to 4 bullet points, what this competitor did this week)
-2. New Pages Built by ${competitor.name} (list URLs and infer what they're targeting based on URL slugs, e.g. brand pages, model reference guides, buying guides, collection landing pages)
-3. Backlink Movements (use the seRanking.backlinksSummary for overall scale, seRanking.newBacklinks for recently acquired links, and any CSV data provided.)
-4. Keyword and Ranking Changes (use seRanking.topKeywords for the competitor's current organic footprint in the US, called out by traffic, position, and search intent. Compare position vs prev_pos to flag movement. Combine with any CSV data provided.)
+2. New Pages Built by ${competitor.name}
+3. Backlink Movements
+4. Keyword and Ranking Changes
 
 Do NOT include a Section 5 or any recommendations. Recommended actions are generated separately after all competitors are analyzed.
 
 =========================================
+SECTION 2: NEW PAGES BUILT
+=========================================
+- If sitemapDiff.newUrls has entries: group URLs by brand (e.g. **Rolex**, **Patek Philippe**, **Audemars Piguet**) using bold brand headings. Under each heading, list URLs as bullet points with a one-sentence description of the inferred targeting intent based on the URL slug (e.g. "Targets pre-owned Royal Oak Offshore buyers with a specific dial variant."). If a URL does not belong to a known brand, group it under **Other**. Ignore individual single-SKU product listings — only group URLs that represent content pages, brand hubs, model guides, buying guides, or collection landing pages.
+- If sitemapDiff.newUrls is empty AND no sitemap diff is available: write "No sitemap data is available for this competitor this week. New page activity cannot be reported." and stop.
+- If sitemapDiff.newUrls is empty but sitemap data was fetched: write "${competitor.name} did not publish any notable new content pages this week."
+
+=========================================
 SECTION 3: BACKLINK MOVEMENTS
 =========================================
-- DOMAIN AUTHORITY FILTER (SE Ranking data): Only include backlinks from seRanking.newBacklinks where domain_inlink_rank is 30 or higher. Skip every entry where domain_inlink_rank is below 30, zero, or missing. If no entries pass this threshold, write "No high-authority backlink movements this week (all new links were below rank 30)." and do not create a table.
-- DOMAIN AUTHORITY FILTER (CSV data): If csvData has a backlinks-type entry, only include rows where Domain Authority (DA) is 30 or higher. Skip rows below DA 30, zero, or missing. If no rows pass, write "No high-authority backlink movements this week (all links were below DA 30)." and do not create a table.
-- DIRECTORY OPPORTUNITY: If a competitor gained a high-authority link from a watch directory, review site, or luxury lifestyle publication, add a sentence flagging it as a potential outreach opportunity for Wrist Aficionado.
+- Always start with the overall backlink profile if seRanking.backlinksSummary is available: write one short paragraph covering total backlinks, referring domains, domain inlink rank, dofollow/nofollow split, and any notable anchor patterns. Label this paragraph **Overall profile (as of ${TODAY}):**
+- DOMAIN AUTHORITY FILTER (SE Ranking data): Only include backlinks from seRanking.newBacklinks where domain_inlink_rank is 30 or higher. If qualifying entries exist, output a markdown table under the bold subheading **New high-authority backlinks (domain_inlink_rank 30 or higher):** with these exact columns in this order: | Source Domain | Domain Rank | Linking Page | Target Page | Anchor | Follow | Notes |. One row per backlink, up to 15 rows. In the Notes column add brief context (e.g. "Editorial contextual link", "App Store developer link; nofollow, low SEO impact", "Community forum thread; nofollow"). If domain_inlink_rank is missing, write "—". If no entries pass the threshold, write "No high-authority backlink movements this week (all new links were below rank 30)." and do not create a table.
+- DOMAIN AUTHORITY FILTER (CSV data): If csvData has a backlinks-type entry, only include rows where Domain Authority (DA) is 30 or higher. If qualifying rows exist, output a table with columns: | Source Domain | DA | Source URL | Anchor Text | Follow | New/Lost |. If no rows pass, write "No high-authority backlink movements this week (all links were below DA 30)." and do not create a table.
+- DIRECTORY OPPORTUNITY: If a competitor gained a high-authority link from a watch directory, review site, or luxury lifestyle publication, add a sentence below the table flagging it as a potential outreach opportunity for Wrist Aficionado.
 - If no backlink data exists at all: "No backlink data available for this competitor this week."
 
 =========================================
