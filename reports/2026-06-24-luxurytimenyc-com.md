@@ -1,69 +1,77 @@
 # Luxtury Time: Week of 2026-06-24
 
+---
+
 ## 1. Executive Summary
 
-- Luxtury Time published four new blog posts on June 23, targeting GMT-Master II comparison content, Rolex collector demand, women's luxury watches, and Audemars Piguet daily-wear positioning. This represents a concentrated editorial push around high-intent, mid-funnel topics.
-- A broad sitemap update touched 54 existing collection pages simultaneously, suggesting a sitewide inventory refresh or template-level change rather than isolated edits.
-- On the keyword side, Luxtury Time recorded meaningful ranking gains across several high-value Rolex buying-intent terms, including "buy a rolex" (pos. 14 to 3), "rolex gmt" (pos. 20 to 10), and "rolex day date bracelet" (pos. 19 to 1), signaling improved organic visibility in transactional segments.
-- No new high-authority backlinks were acquired this week.
+- Luxtury Time published four new blog posts on June 23, all targeting high-intent luxury watch research queries, with a clear focus on Rolex GMT-Master II variants, Audemars Piguet daily wearability, and broad collector-facing content.
+- Multiple Rolex buying-intent keywords gained significant ground this week, including "buy a rolex" (position 14 to 3), "buy rolex" (position 15 to 4), and "rolex gmt" (position 20 to 10).
+- The "royal oak" keyword suffered a notable drop, falling from position 3 to 13, representing a meaningful loss of visibility on one of the highest-traffic AP terms in the dataset.
+- No new high-authority backlinks were recorded this week. The existing backlink profile shows a heavy concentration around Audemars Piguet product image links and a flagged spam anchor pattern that warrants attention.
 
 ---
 
 ## 2. New Pages Built by Luxtury Time
 
-All four new URLs are blog posts published under `/blogs/news/` on June 23, 2026.
+**Rolex**
 
-| URL | Inferred Target |
-|-----|----------------|
-| `/blogs/news/batman-vs-pepsi-vs-root-beer-which-rolex-gmt-master-ii-should-you-buy` | GMT-Master II variant comparison guide targeting buyers deciding between the Batman (126710BLNR), Pepsi (126710BLRO), and Root Beer (126711CHNR) colorways. High buying-intent, model-specific content. |
-| `/blogs/news/the-most-sought-after-rolex-watches-and-why-collectors-love-them` | Rolex demand and collector interest guide. Targets informational and mid-funnel queries around desirability, waitlists, and investment value of flagship Rolex references. |
-| `/blogs/news/the-connoisseur-s-guide-to-luxury-watches-for-women-2026-edition` | Women's luxury watch buying guide for 2026. Targets category-level search intent around female-oriented luxury watch purchases, likely supporting the `/collections/luxury-watches-for-women` collection. |
-| `/blogs/news/can-you-daily-wear-an-audemars-piguet-the-connoisseur-s-guide-to-everyday-elegance` | Audemars Piguet lifestyle and wearability guide. Targets consideration-phase queries from buyers evaluating AP as an everyday watch, with likely internal linking to Royal Oak and Royal Oak Offshore collection pages. |
+- `https://luxurytimenyc.com/blogs/news/batman-vs-pepsi-vs-root-beer-which-rolex-gmt-master-ii-should-you-buy`
+  Targets GMT-Master II buyers comparing the three most collectible bezel variants, capturing mid-funnel purchase-decision queries.
 
-**Note on updated pages:** The 54 updated collection pages (including `/collections/rolex`, `/collections/daytona`, `/collections/royal-oak`, `/collections/nautilus`, `/collections/patek-philippe`, `/collections/audemars-piguet`, and multiple price-range and material filter collections) were refreshed within the same two-hour window on June 23, consistent with a bulk inventory or metadata update rather than individual content changes.
+- `https://luxurytimenyc.com/blogs/news/the-most-sought-after-rolex-watches-and-why-collectors-love-them`
+  Broad collector-intent content targeting searches around desirable and investment-grade Rolex references.
+
+**Audemars Piguet**
+
+- `https://luxurytimenyc.com/blogs/news/can-you-daily-wear-an-audemars-piguet-the-connoisseur-s-guide-to-everyday-elegance`
+  Targets ownership and lifestyle queries around wearing an AP daily, likely to capture prospective buyers researching practicality before purchase.
+
+**Other**
+
+- `https://luxurytimenyc.com/blogs/news/the-connoisseur-s-guide-to-luxury-watches-for-women-2026-edition`
+  Targets female luxury watch buyers with a 2026 buying guide format, aimed at capturing seasonal informational and commercial-investigation traffic.
 
 ---
 
 ## 3. Backlink Movements
 
-**Overall backlink profile (as of 2026-06-24):** 140,240 total backlinks across 2,855 referring domains. The profile is heavily dofollow (139,979 dofollow vs. 261 nofollow). Domain-level inlink rank sits at 24, which is modest for a site of this link volume and suggests the referring domain base skews toward lower-authority sources. The top anchor clusters are dominated by Audemars Piguet product and collection language, with the presence of "BLACK SEO LINKS, BACKLINKS, MASS BACKLINKING" as a top anchor by referring domains flagging an evident low-quality link scheme in the profile.
+**Overall profile (as of 2026-06-24):**
 
-**New backlinks this week:** No high-authority backlink movements this week (all new links were below rank 30).
+Luxtury Time carries 140,240 total backlinks across 2,855 referring domains, with a domain inlink rank of 24. The profile is overwhelmingly dofollow (139,979 dofollow vs. 261 nofollow), which is an unusually high dofollow ratio that may reflect unnatural link patterns. The top anchors by referring domain are dominated by Audemars Piguet product and collection titles, indicating the bulk of the link equity is concentrated around AP inventory pages rather than the domain broadly. Notably, one of the top 10 anchors by referring domain reads "BLACK SEO LINKS, BACKLINKS, MASS BACKLINKING – TELEGRAM @SEO_LINKK" across 82 referring domains, which is a clear spam signal embedded in the profile. Top linked pages are almost exclusively CDN-hosted product and collection images, not indexable content, limiting the SEO value of a large portion of these links.
+
+No high-authority backlink movements this week (all new links were below rank 30).
 
 ---
 
 ## 4. Keyword and Ranking Changes
 
-All positions are US organic. Movement is calculated from `prev_pos` to current `position`. Keywords with `prev_pos: null` are newly tracked and excluded from the gains/declines tables, as no directional movement can be confirmed.
-
 **Notable ranking gains**
 
 | Keyword | Previous Position | Current Position | Change | Search Volume | Landing Page |
-|---------|:-----------------:|:----------------:|:------:|:-------------:|--------------|
-| buy a rolex | 14 | 3 | +11 | 3,600 | `/collections/rolex` |
-| rolex gmt | 20 | 10 | +10 | 14,800 | `/collections/gmt-master-ii` |
-| rolex day date bracelet | 19 | 1 | +18 | 390 | `/collections/day-date/president-bracelet` |
-| buy rolex | 15 | 4 | +11 | 4,400 | `/collections/rolex` |
-| rolex for sale | 18 | 13 | +5 | 20,100 | `/collections/rolex` |
-| rolex president | 20 | 14 | +6 | 14,800 | `/collections/day-date/president-bracelet` |
-| omega speedmaster | 45 | 21 | +24 | 60,500 | `/collections/omega-speedmaster` |
-| cartier santos watch | 30 | 22 | +8 | 33,100 | `/collections/cartier-santos` |
-| rolex submariner price | 27 | 20 | +7 | 14,800 | `/collections/submariner` |
-| audemars piguet royal oak | 26 | 25 | +1 | 20,100 | `/collections/audemars-piguet/royal-oak` |
-| rolex datejust 41 | 3 | 2 | +1 | 10,800 | `/collections/datejust/41-mm` |
-| rolex 41mm | 3 | 1 | +2 | 1,300 | `/collections/datejust/41-mm` |
+|---|---|---|---|---|---|
+| buy a rolex | 14 | 3 | +11 | 3,600 | /collections/rolex |
+| rolex gmt | 20 | 10 | +10 | 14,800 | /collections/gmt-master-ii |
+| buy rolex | 15 | 4 | +11 | 4,400 | /collections/rolex |
+| rolex day date bracelet | 19 | 1 | +18 | 390 | /collections/day-date/president-bracelet |
+| rolex for sale | 18 | 13 | +5 | 20,100 | /collections/rolex |
+| rolex president | 20 | 14 | +6 | 14,800 | /collections/day-date/president-bracelet |
+| omega speedmaster | 45 | 21 | +24 | 60,500 | /collections/omega-speedmaster |
+| cartier santos watch | 30 | 22 | +8 | 33,100 | /collections/cartier-santos |
+| rolex submariner price | 27 | 20 | +7 | 14,800 | /collections/submariner |
+| luxury watches | 40 | 25 | +15 | 201,000 | / |
+| watch store | 12 | 4 | +8 | 33,100 | / |
+| audemars piguet royal oak | 26 | 25 | +1 | 20,100 | /collections/audemars-piguet/royal-oak |
 
 **Notable ranking declines**
 
 | Keyword | Previous Position | Current Position | Change | Search Volume | Landing Page |
-|---------|:-----------------:|:----------------:|:------:|:-------------:|--------------|
-| royal oak | 3 | 13 | -10 | 74,000 | `/collections/royal-oak/audemars-piguet` |
-| omega seamaster | 12 | 19 | -7 | 60,500 | `/collections/omega-seamaster` |
-| rolex blue | 2 | 3 | -1 | 5,400 | `/collections/rolex/blue` |
-| rolex men | 22 | 26 | -4 | 74,000 | `/collections/rolex` |
-| rolex authorized dealer | 18 | 20 | -2 | 8,000 | `/collections/rolex` |
-
-The "royal oak" decline (position 3 to 13) is the most significant movement this week, representing a loss of visibility on a 74,000-volume term where Luxtury Time had previously held strong placement. The "omega seamaster" drop follows a similar pattern on an equally high-volume keyword.
+|---|---|---|---|---|---|
+| royal oak | 3 | 13 | -10 | 74,000 | /collections/royal-oak/audemars-piguet |
+| omega seamaster | 12 | 19 | -7 | 60,500 | /collections/omega-seamaster |
+| rolex datejust 41 | 3 | 2 | -1 | 10,800 | /collections/datejust/41-mm |
+| rolex blue | 2 | 3 | -1 | 5,400 | /collections/rolex/blue |
+| rolex men | 22 | 26 | -4 | 74,000 | /collections/rolex |
+| rolex authorized dealer | 18 | 20 | -2 | 8,000 | /collections/rolex |
 
 ---
 
@@ -71,10 +79,10 @@ The "royal oak" decline (position 3 to 13) is the most significant movement this
 
 *These are combined recommended actions based on a review of all 5 competitor(s) monitored this week.*
 
-1. Build a GMT-Master II variant comparison guide. Trigger: Luxtury Time published a dedicated Batman vs. Pepsi vs. Root Beer buying guide this week, directly targeting the decision-stage buyer choosing between the three most sought-after GMT-Master II colorways. Proposed URL: `/blogs/news/rolex-gmt-master-ii-batman-vs-pepsi-vs-root-beer`. This page does not exist on Wrist Aficionado's site. The existing GMT-Master II buyer's guide and individual Pepsi, Batman, Root Beer, and Sprite collection pages provide strong internal linking structure to support it. Why this fits Wrist Aficionado: the GMT-Master II is one of Wrist Aficionado's strongest model areas with dedicated collection pages for each colorway and a pre-existing buyer's guide. A comparison article bridges those assets directly to a high-converting, mid-funnel query segment where Wrist Aficionado has inventory depth but no comparison-specific content.
+1. **Build a GMT-Master II variant comparison guide targeting Batman vs. Pepsi vs. Root Beer purchase decisions.** Trigger: Luxtury Time published a direct comparison post on all three GMT-Master II bezel variants this week, going after mid-funnel buyers who are close to a decision. Why this fits Wrist Aficionado: Wrist Aficionado has strong individual GMT-Master II collection pages and a Pepsi buyer's guide already, but no single page that puts all three variants head-to-head for a buyer weighing options. This format captures one of the highest-conversion intents in the GMT category and strengthens the existing GMT hub. Proposed URL: `/blogs/news/batman-vs-pepsi-vs-root-beer-rolex-gmt-master-ii-buyers-guide`. Confirmed this topic does not exist on the site.
 
-2. Build an F.P. Journe Resonance collector and investment guide. Trigger: Watches Off 5th published a new editorial page this week targeting the F.P. Journe Resonance's record auction sale, going directly after investment and valuation search intent for one of the most technically distinctive F.P. Journe references. Proposed URL: `/blogs/news/fp-journe-resonance-collectors-guide`. This page does not exist on Wrist Aficionado's site. Why this fits Wrist Aficionado: Wrist Aficionado already has a strong F.P. Journe content cluster including Black Label guides, a top 10 collector piece, and the "next must-have brand" editorial, plus a dedicated Resonance collection page under `/collections/f-p-journe-chronometre-a-resonance`. A guide focused on the Resonance's auction performance and why collectors pursue it extends that cluster into investment-intent territory where Wrist Aficionado currently has no coverage and where F.P. Journe commands real high-net-worth buyer attention.
+2. **Build a Patek Philippe Grand Complications buyer's guide.** Trigger: Watches Off 5th published a dedicated Grand Complications guide this week, targeting buyers and researchers investigating this segment of the secondary market. Why this fits Wrist Aficionado: Wrist Aficionado has deep Patek Philippe coverage across Nautilus, Aquanaut, and reference-number guides, but no standalone guide covering the Grand Complications line as a category. This is one of the highest-value segments Wrist Aficionado sells and a natural authority extension off the existing Patek content hub. Proposed URL: `/blogs/news/patek-philippe-grand-complications-buyers-guide`. Confirmed this topic does not exist on the site.
 
-3. Build a Patek Philippe Grand Complications guide. Trigger: Both Watches Off 5th and Watch Guy NYC moved on Patek Grand Complications this week. Watches Off 5th published a new editorial post targeting the category directly, while Watch Guy NYC updated its Grand Complications collection page as part of a focused Patek refresh. Two competitors pointing at the same gap in the same week is a clear signal. Proposed URL: `/blogs/news/patek-philippe-grand-complications-guide`. This page does not exist on Wrist Aficionado's site. Why this fits Wrist Aficionado: Wrist Aficionado has a `/collections/patek-philippe-grand-complications` collection page and deep Patek content across Nautilus, Aquanaut, reference numbers, and discontinued models. A Grand Complications editorial guide connecting minute repeaters, perpetual calendars, and split-seconds chronographs to buying intent and collector rationale gives the existing collection page a high-authority editorial anchor it currently lacks.
+3. **Build an F.P. Journe auction records and investment value guide.** Trigger: Watches Off 5th published a piece this week on the F.P. Journe Resonance's $13.9 million auction record, targeting collectors tracking F.P. Journe valuations and investment performance. This follows the same investment-content pattern that drove an editorial backlink to Bob's Watches from a luxury asset investing publication this week, confirming that investment-angle content on independent brands earns real editorial attention right now. Why this fits Wrist Aficionado: Wrist Aficionado already has strong F.P. Journe coverage including a Black Label guide and a top-10 collector list, but nothing that speaks directly to auction performance or investment value. This fills a clear gap in the F.P. Journe content cluster and positions the brand as an authority for collectors making financial decisions. Proposed URL: `/blogs/news/fp-journe-auction-records-investment-value-guide`. Confirmed this topic does not exist on the site.
 
-4. Update the existing Rolex Sky-Dweller collection page. Trigger: Aviandco dropped sharply on "rolex sky dweller" (position 5 to 11) and "rolex sky-dweller" (position 6 to 10) this week, vacating ground on a 27,100-volume term. Watches Off 5th also gained 16 positions on the same term from a lower base, showing the SERP is actively reshuffling. Existing page: `/collections/rolex-sky-dweller`. Why this fits Wrist Aficionado: the Sky-Dweller sits in Wrist Aficionado's inventory and is a natural fit given the existing travel watch and annual calendar content clusters. Refreshing the collection page with expanded on-page content covering the Sky-Dweller's annual calendar and GMT functionality, material variants, and pre-owned value positioning would directly target the opening Aviandco is leaving behind and compete with what Watches Off 5th is building toward.
+4. **Build a dedicated Audemars Piguet daily wear guide.** Trigger: Luxtury Time published a guide this week specifically targeting the question of whether you can wear an AP Royal Oak every day, going after prospective buyers researching practicality before committing to a purchase at this price point. Why this fits Wrist Aficionado: Wrist Aficionado has extensive AP Royal Oak collection and reference pages but no content addressing the ownership and wearability angle. Buyers considering a Royal Oak or Royal Oak Offshore as a first AP purchase frequently search this question, and owning the answer builds trust while supporting the transactional pages already in place. Proposed URL: `/blogs/news/can-you-wear-an-audemars-piguet-royal-oak-every-day`. Confirmed this topic does not exist on the site.
