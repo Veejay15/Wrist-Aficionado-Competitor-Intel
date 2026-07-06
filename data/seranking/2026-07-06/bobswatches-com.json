@@ -1,0 +1,2504 @@
+{
+  "fetchedAt": "2026-07-06T12:40:08.610Z",
+  "competitorId": "bobswatches-com",
+  "domain": "bobswatches.com",
+  "topKeywords": [
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "rolex watch",
+      "position": 2,
+      "prev_pos": 3,
+      "volume": 368000,
+      "cpc": 1.72,
+      "competition": 0.94,
+      "url": "https://www.bobswatches.com/rolex/",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 22927,
+      "traffic_percent": 8.64,
+      "price": 39434.44,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sitelinks",
+      "block_position": 1,
+      "keyword": "bob's watches",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 74000,
+      "cpc": 0.88,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/",
+      "difficulty": 92,
+      "total_sites": null,
+      "traffic": 9252,
+      "traffic_percent": 3.49,
+      "price": 8141.76,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "bads",
+        "find_results_on",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rolex submariner",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 74000,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-submariner-1.html",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 9245,
+      "traffic_percent": 3.48,
+      "price": 15901.4,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "submariner rolex",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 74000,
+      "cpc": 1.72,
+      "competition": 0.95,
+      "url": "https://www.bobswatches.com/rolex-submariner-1.html",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 8412,
+      "traffic_percent": 3.17,
+      "price": 14468.64,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex watches",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 165000,
+      "cpc": 1.72,
+      "competition": 0.94,
+      "url": "https://www.bobswatches.com/rolex/",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 6634,
+      "traffic_percent": 2.5,
+      "price": 11410.48,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rolex air king",
+      "position": 1,
+      "prev_pos": 6,
+      "volume": 27100,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-air-king-1.html",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 4806,
+      "traffic_percent": 1.81,
+      "price": 8266.32,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rolex submariner watch",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 18100,
+      "cpc": 1.72,
+      "competition": 0.95,
+      "url": "https://www.bobswatches.com/rolex-submariner-1.html",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 2685,
+      "traffic_percent": 1.01,
+      "price": 4618.2,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "luxury watch",
+      "position": 13,
+      "prev_pos": null,
+      "volume": 368000,
+      "cpc": 1.54,
+      "competition": 0.24,
+      "url": "https://www.bobswatches.com/rolex-blog/editorial/best-luxury-watch-brands.html",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 2092,
+      "traffic_percent": 0.79,
+      "price": 3221.68,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "twitter",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rolex sea dweller",
+      "position": 1,
+      "prev_pos": 7,
+      "volume": 10800,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-sea-dweller-1.html",
+      "difficulty": 77,
+      "total_sites": null,
+      "traffic": 1848,
+      "traffic_percent": 0.7,
+      "price": 3178.56,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sitelinks",
+      "block_position": 2,
+      "keyword": "bobswatches",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 14800,
+      "cpc": 0.88,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/",
+      "difficulty": 95,
+      "total_sites": null,
+      "traffic": 1788,
+      "traffic_percent": 0.67,
+      "price": 1573.44,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "knowledge_graph",
+        "tads",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "rolex mens",
+      "position": 10,
+      "prev_pos": null,
+      "volume": 135000,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex/watches-mens",
+      "difficulty": 63,
+      "total_sites": null,
+      "traffic": 1681,
+      "traffic_percent": 0.63,
+      "price": 2891.32,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 11,
+      "keyword": "cartier watch",
+      "position": 11,
+      "prev_pos": 17,
+      "volume": 246000,
+      "cpc": 0.31,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/cartier/",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 1511,
+      "traffic_percent": 0.57,
+      "price": 468.41,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "womens rolex",
+      "position": 7,
+      "prev_pos": 4,
+      "volume": 90500,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex/watches-womens",
+      "difficulty": 68,
+      "total_sites": null,
+      "traffic": 1364,
+      "traffic_percent": 0.51,
+      "price": 2346.08,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "women's rolex",
+      "position": 8,
+      "prev_pos": 8,
+      "volume": 74000,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex/watches-womens",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 1317,
+      "traffic_percent": 0.5,
+      "price": 2265.24,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "tissot watches",
+      "position": 7,
+      "prev_pos": 7,
+      "volume": 110000,
+      "cpc": 0.19,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/tissot/tissot-watches-review",
+      "difficulty": 83,
+      "total_sites": null,
+      "traffic": 1260,
+      "traffic_percent": 0.47,
+      "price": 239.4,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "rolex daytona",
+      "position": 2,
+      "prev_pos": 7,
+      "volume": 74000,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-daytona-1.html",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 1170,
+      "traffic_percent": 0.44,
+      "price": 2012.4,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": "sitelinks",
+      "block_position": 1,
+      "keyword": "bob's watches",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 74000,
+      "cpc": 0.88,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex/watches-mens?srsltid=AfmBOoqSCq5DRmTBEBlFVMqD6To62ef5NrJKwYMIzOAYXMVlTtx6uzBm",
+      "difficulty": 92,
+      "total_sites": null,
+      "traffic": 1083,
+      "traffic_percent": 0.41,
+      "price": 953.04,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "bads",
+        "find_results_on",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 11,
+      "keyword": "omega watch",
+      "position": 11,
+      "prev_pos": 12,
+      "volume": 135000,
+      "cpc": 0.15,
+      "competition": 0.98,
+      "url": "https://www.bobswatches.com/omega/",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 1003,
+      "traffic_percent": 0.38,
+      "price": 150.45,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 16,
+      "keyword": "tissot watches",
+      "position": 16,
+      "prev_pos": 44,
+      "volume": 110000,
+      "cpc": 0.19,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/tissot/",
+      "difficulty": 83,
+      "total_sites": null,
+      "traffic": 991,
+      "traffic_percent": 0.37,
+      "price": 188.29,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "presidential rolex",
+      "position": 1,
+      "prev_pos": 6,
+      "volume": 27100,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-president-1.html",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 912,
+      "traffic_percent": 0.34,
+      "price": 1568.64,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "find_results_on",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "tudor watches",
+      "position": 18,
+      "prev_pos": null,
+      "volume": 74000,
+      "cpc": 0.07,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/tudor/",
+      "difficulty": 74,
+      "total_sites": null,
+      "traffic": 755,
+      "traffic_percent": 0.28,
+      "price": 52.85,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "rolex day date",
+      "position": 4,
+      "prev_pos": 7,
+      "volume": 40500,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-day-date-1.html",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 749,
+      "traffic_percent": 0.28,
+      "price": 1288.28,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rolex sea-dweller",
+      "position": 1,
+      "prev_pos": 5,
+      "volume": 3600,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-sea-dweller-1.html",
+      "difficulty": 57,
+      "total_sites": null,
+      "traffic": 723,
+      "traffic_percent": 0.27,
+      "price": 1243.56,
+      "serp_features": [
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "tissot watch",
+      "position": 8,
+      "prev_pos": 7,
+      "volume": 40500,
+      "cpc": 0.19,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/tissot/tissot-watches-review",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 718,
+      "traffic_percent": 0.27,
+      "price": 136.42,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "omega speedmaster",
+      "position": 4,
+      "prev_pos": null,
+      "volume": 60500,
+      "cpc": 0.05,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/omega/speedmaster-1.html",
+      "difficulty": 82,
+      "total_sites": null,
+      "traffic": 714,
+      "traffic_percent": 0.27,
+      "price": 35.7,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "used rolex",
+      "position": 3,
+      "prev_pos": 2,
+      "volume": 18100,
+      "cpc": 1.25,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex/",
+      "difficulty": 67,
+      "total_sites": null,
+      "traffic": 693,
+      "traffic_percent": 0.26,
+      "price": 866.25,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "rolex datejust",
+      "position": 5,
+      "prev_pos": null,
+      "volume": 40500,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-datejust-1.html",
+      "difficulty": 74,
+      "total_sites": null,
+      "traffic": 630,
+      "traffic_percent": 0.24,
+      "price": 1083.6,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "how much is a rolex",
+      "position": 2,
+      "prev_pos": 4,
+      "volume": 8100,
+      "cpc": 1.39,
+      "competition": 0.43,
+      "url": "https://www.bobswatches.com/rolex/how-much-is-a-rolex",
+      "difficulty": 48,
+      "total_sites": null,
+      "traffic": 556,
+      "traffic_percent": 0.21,
+      "price": 772.84,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "people_also_ask",
+      "block_position": 2,
+      "keyword": "oris watches",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 33100,
+      "cpc": 0.54,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/oris/is-oris-a-good-watch",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 553,
+      "traffic_percent": 0.21,
+      "price": 298.62,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "rolex for sale",
+      "position": 5,
+      "prev_pos": 12,
+      "volume": 22200,
+      "cpc": 0.13,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex/",
+      "difficulty": 64,
+      "total_sites": null,
+      "traffic": 534,
+      "traffic_percent": 0.2,
+      "price": 69.42,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "used watches",
+      "position": 2,
+      "prev_pos": 5,
+      "volume": 8000,
+      "cpc": 0.18,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/",
+      "difficulty": 61,
+      "total_sites": null,
+      "traffic": 532,
+      "traffic_percent": 0.2,
+      "price": 95.76,
+      "serp_features": [
+        "reviews",
+        "video",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "omegas",
+      "position": 5,
+      "prev_pos": 5,
+      "volume": 165000,
+      "cpc": 0.2,
+      "competition": 0.53,
+      "url": "https://www.bobswatches.com/omega/",
+      "difficulty": 85,
+      "total_sites": null,
+      "traffic": 530,
+      "traffic_percent": 0.2,
+      "price": 106,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "rolex day-date",
+      "position": 4,
+      "prev_pos": 7,
+      "volume": 27100,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-day-date-1.html",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 529,
+      "traffic_percent": 0.2,
+      "price": 909.88,
+      "serp_features": [
+        "reviews",
+        "video",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "watches",
+      "position": 7,
+      "prev_pos": 6,
+      "volume": 40500,
+      "cpc": 0.44,
+      "competition": 0.96,
+      "url": "https://www.bobswatches.com/luxury-watches/",
+      "difficulty": 77,
+      "total_sites": null,
+      "traffic": 526,
+      "traffic_percent": 0.2,
+      "price": 231.44,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "twitter",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex president",
+      "position": 3,
+      "prev_pos": 2,
+      "volume": 14800,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-president-1.html",
+      "difficulty": 65,
+      "total_sites": null,
+      "traffic": 519,
+      "traffic_percent": 0.2,
+      "price": 892.68,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex milgauss",
+      "position": 3,
+      "prev_pos": 4,
+      "volume": 14800,
+      "cpc": 0.17,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-milgauss-1.html",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 483,
+      "traffic_percent": 0.18,
+      "price": 82.11,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "omega watches",
+      "position": 17,
+      "prev_pos": 15,
+      "volume": 201000,
+      "cpc": 0.15,
+      "competition": 0.98,
+      "url": "https://www.bobswatches.com/omega/",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 474,
+      "traffic_percent": 0.18,
+      "price": 71.1,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "knowledge_graph",
+        "tads",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "rolex men's",
+      "position": 2,
+      "prev_pos": 8,
+      "volume": 9900,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex/watches-mens",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 474,
+      "traffic_percent": 0.18,
+      "price": 815.28,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 26,
+      "keyword": "cartier watches",
+      "position": 26,
+      "prev_pos": 25,
+      "volume": 27800,
+      "cpc": 0.31,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/cartier/",
+      "difficulty": 78,
+      "total_sites": null,
+      "traffic": 464,
+      "traffic_percent": 0.17,
+      "price": 143.84,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "luxury watches",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 201000,
+      "cpc": 1.54,
+      "competition": 0.24,
+      "url": "https://www.bobswatches.com/rolex-blog/editorial/best-business-watches-for-the-modern-executive-the-ultimate-guide.html",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 458,
+      "traffic_percent": 0.17,
+      "price": 705.32,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "twitter",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "rolex yacht master",
+      "position": 6,
+      "prev_pos": 11,
+      "volume": 22400,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex-yacht-master-1.html",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 442,
+      "traffic_percent": 0.17,
+      "price": 760.24,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rolex serial number",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 2900,
+      "cpc": 1.09,
+      "competition": 0.03,
+      "url": "https://www.bobswatches.com/rolex-serial-numbers",
+      "difficulty": 39,
+      "total_sites": null,
+      "traffic": 440,
+      "traffic_percent": 0.17,
+      "price": 479.6,
+      "serp_features": [
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "fake rolex",
+      "position": 7,
+      "prev_pos": 3,
+      "volume": 27100,
+      "cpc": 0.36,
+      "competition": 0.01,
+      "url": "https://www.bobswatches.com/rolex-blog/editorial/how-to-spot-a-fake-rolex.html",
+      "difficulty": 83,
+      "total_sites": null,
+      "traffic": 417,
+      "traffic_percent": 0.16,
+      "price": 150.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "mens rolex submariner",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 2900,
+      "cpc": 1.72,
+      "competition": 0.81,
+      "url": "https://www.bobswatches.com/rolex-submariner-1.html",
+      "difficulty": 55,
+      "total_sites": null,
+      "traffic": 403,
+      "traffic_percent": 0.15,
+      "price": 693.16,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sitelinks",
+      "block_position": 1,
+      "keyword": "bob's watches",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 74000,
+      "cpc": 0.88,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/rolex/?srsltid=AfmBOooZnzuaF-xnQrHgXYXfPr0XDeiPz05jlFv2uO2FNfZhZDVs4jAI",
+      "difficulty": 92,
+      "total_sites": null,
+      "traffic": 400,
+      "traffic_percent": 0.15,
+      "price": 352,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "bads",
+        "find_results_on",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "luxury watches",
+      "position": 16,
+      "prev_pos": 7,
+      "volume": 201000,
+      "cpc": 1.54,
+      "competition": 0.24,
+      "url": "https://www.bobswatches.com/rolex-blog/editorial/best-luxury-watch-brands.html",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 395,
+      "traffic_percent": 0.15,
+      "price": 608.3,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "twitter",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 29,
+      "keyword": "rolex for sale",
+      "position": 29,
+      "prev_pos": null,
+      "volume": 22200,
+      "cpc": 0.13,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/",
+      "difficulty": 64,
+      "total_sites": null,
+      "traffic": 379,
+      "traffic_percent": 0.14,
+      "price": 49.27,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "vintage rolex watches",
+      "position": 2,
+      "prev_pos": 1,
+      "volume": 5700,
+      "cpc": 0.24,
+      "competition": 0.96,
+      "url": "https://www.bobswatches.com/vintage-rolex-1.html",
+      "difficulty": 54,
+      "total_sites": null,
+      "traffic": 379,
+      "traffic_percent": 0.14,
+      "price": 90.96,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "oris watches",
+      "position": 18,
+      "prev_pos": 18,
+      "volume": 33100,
+      "cpc": 0.54,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/oris/",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 375,
+      "traffic_percent": 0.14,
+      "price": 202.5,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 16,
+      "keyword": "patek philippe watches",
+      "position": 16,
+      "prev_pos": null,
+      "volume": 90500,
+      "cpc": 0.31,
+      "competition": 1,
+      "url": "https://www.bobswatches.com/patek-philippe/",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 365,
+      "traffic_percent": 0.14,
+      "price": 113.15,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    }
+  ],
+  "backlinksSummary": {
+    "target": "bobswatches.com",
+    "backlinks": 815271,
+    "refdomains": 12256,
+    "subnets": 4321,
+    "ips": 8384,
+    "nofollow_backlinks": 31810,
+    "dofollow_backlinks": 783461,
+    "edu_backlinks": 3969,
+    "gov_backlinks": 159,
+    "inlink_rank": 24,
+    "domain_inlink_rank": 75,
+    "from_home_page_backlinks": 73,
+    "dofollow_from_home_page_backlinks": 57,
+    "text_backlinks": 143236,
+    "dofollow_refdomains": 9098,
+    "from_home_page_refdomains": 49,
+    "edu_refdomains": 101,
+    "gov_refdomains": 17,
+    "anchors": 193113,
+    "dofollow_anchors": 191590,
+    "pages_with_backlinks": 53400,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "Bobs Watches",
+        "backlinks": 183764
+      },
+      {
+        "anchor": "",
+        "backlinks": 43577
+      },
+      {
+        "anchor": "TELEGRAM @SEO_ANOMALY - SEO BACKLINKS, BLACK-LINKS, TRAFFIC BOOST, LINK INDEXING",
+        "backlinks": 6201
+      },
+      {
+        "anchor": "Bob's Watches",
+        "backlinks": 5730
+      },
+      {
+        "anchor": "TG @BHS_LINKS - BEST SEO LINKS - https://t.me/bhs_links",
+        "backlinks": 5709
+      },
+      {
+        "anchor": "www.bobswatches.com",
+        "backlinks": 5639
+      },
+      {
+        "anchor": "TELEGRAM @SEO_ANOMALY - SEO BACKLINKS, PBN, TRAFFIC BOOST, LINK INDEXING",
+        "backlinks": 4101
+      },
+      {
+        "anchor": "BUY",
+        "backlinks": 1740
+      },
+      {
+        "anchor": "Image of ROLEX",
+        "backlinks": 497
+      },
+      {
+        "anchor": "Image of Rolex",
+        "backlinks": 476
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "",
+        "refdomains": 633
+      },
+      {
+        "anchor": "Bob’s Watches",
+        "refdomains": 349
+      },
+      {
+        "anchor": "TELEGRAM @SEO_ANOMALY - SEO BACKLINKS, BLACK-LINKS, TRAFFIC BOOST, LINK INDEXING",
+        "refdomains": 300
+      },
+      {
+        "anchor": "www.bobswatches.com",
+        "refdomains": 272
+      },
+      {
+        "anchor": "bobswatches.com",
+        "refdomains": 265
+      },
+      {
+        "anchor": "TG @LINKS_DEALER | EFFECTIVE SEO LINKS FOR WWW.BOBSWATCHES.COM",
+        "refdomains": 258
+      },
+      {
+        "anchor": "bobswatches",
+        "refdomains": 240
+      },
+      {
+        "anchor": "Bob's Watches",
+        "refdomains": 194
+      },
+      {
+        "anchor": "TG @BHS_LINKS - BEST SEO LINKS - https://t.me/bhs_links",
+        "refdomains": 194
+      },
+      {
+        "anchor": "Waterproof Watches vs. Water Resistant How to Tell the Difference",
+        "refdomains": 159
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "https://www.bobswatches.com/",
+        "backlinks": 235628
+      },
+      {
+        "url": "https://www.bobswatches.com/sell-rolex-watch",
+        "backlinks": 3834
+      },
+      {
+        "url": "https://www.bobswatches.com/rolex-blog/wp-content/uploads/2019/09/20JM9758-2-Edit-2-1-1024x683.jpg",
+        "backlinks": 3203
+      },
+      {
+        "url": "https://www.bobswatches.com/rolex-blog/wp-content/uploads/2021/03/Rolex_Datejust_16013_5D3_0163-Edit-2-1024x683.jpg",
+        "backlinks": 2847
+      },
+      {
+        "url": "https://www.bobswatches.com/rolex-blog/wp-content/uploads/2019/06/OysterPerpetual_114200_5D3_5293-3-Edit-copy-1024x683.jpg",
+        "backlinks": 2183
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://www.bobswatches.com/",
+        "refdomains": 846
+      },
+      {
+        "url": "https://www.bobswatches.com/rolex-blog/wp-content/uploads/2016/01/Rolex-Deepsea-d-blue-dial.jpeg",
+        "refdomains": 748
+      },
+      {
+        "url": "https://www.bobswatches.com/rolex-blog/wp-content/uploads/2020/05/Rolex_Submariner_116610_5D3_5303-2-Edit-1.jpg",
+        "refdomains": 708
+      },
+      {
+        "url": "https://www.bobswatches.com/rolex-blog/wp-content/uploads/2013/09/Green-sub-on-gloves.jpg",
+        "refdomains": 644
+      },
+      {
+        "url": "https://www.bobswatches.com/rolex-blog/wp-content/uploads/2021/03/Rolex_Datejust_ladies_20JM9932-Edit-1.jpg",
+        "refdomains": 528
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 4873
+      },
+      {
+        "tld": "app",
+        "count": 603
+      },
+      {
+        "tld": "org",
+        "count": 349
+      },
+      {
+        "tld": "net",
+        "count": 291
+      },
+      {
+        "tld": "online",
+        "count": 266
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 5842
+      },
+      {
+        "country": "de",
+        "count": 769
+      },
+      {
+        "country": "co",
+        "count": 638
+      },
+      {
+        "country": "fr",
+        "count": 297
+      },
+      {
+        "country": "gb",
+        "count": 227
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-07-05",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2010/02/give-me-that-silly-thing_06.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Give Me That Silly Thing | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-05"
+    },
+    {
+      "new_lost_date": "2026-07-05",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2009/10/leenah-doesnt-know.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Leenah Doesn't Know | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-05"
+    },
+    {
+      "new_lost_date": "2026-07-05",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2010/03/ranch-love-gum-woes.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Ranch, Love-Gum, Woes | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-05"
+    },
+    {
+      "new_lost_date": "2026-07-05",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2010/03/spencer-tunick-says-take-off-your.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Spencer Tunick Says, ‘Take Off Your Tunics!’ | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-05"
+    },
+    {
+      "new_lost_date": "2026-07-04",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2009/10/right-burqa-wrong-lips.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Right Burqa, Wrong Lips | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-04"
+    },
+    {
+      "new_lost_date": "2026-07-04",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2010/01/woman-faces-sex-for-noisy-jail.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Woman Faces Sex For Noisy Jail | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-04"
+    },
+    {
+      "new_lost_date": "2026-07-04",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2014/09/the-rocket-science-of-mr-fardy-part-1.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "The Rocket Science Of Mr Fardy - Part 1 | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-04"
+    },
+    {
+      "new_lost_date": "2026-07-04",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2011/03/yashica-electro-35-making-your-own_28.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Yashica Electro 35: Making Your Own Battery | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-04"
+    },
+    {
+      "new_lost_date": "2026-07-04",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2011/05/pippa-butt-middleton.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Pippa ‘Butt’ Middleton | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-04"
+    },
+    {
+      "new_lost_date": "2026-07-04",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2012/03/speechless-freedom-of-speech.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Speechless Freedom Of Speech | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-04"
+    },
+    {
+      "new_lost_date": "2026-07-03",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2010/05/bill-turns-to-stone.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Bill Turns To Stone | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-03"
+    },
+    {
+      "new_lost_date": "2026-07-03",
+      "new_lost_type": "new",
+      "url_from": "https://writersblocktgh.blogspot.com/2017/07/stone-crows.html",
+      "url_to": "https://www.bobswatches.com/rolex-serial-numbers?srsltid=AfmBOoqDnT426bKh_gZtIXY-EozFDtLZVQOIfksAaH5w4MDQs6ABhoP6",
+      "title": "Stone The Crows | Writer's Block tgh",
+      "anchor": "Bob's watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 18,
+      "first_seen": "2026-07-03"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/293/",
+      "url_to": "http://bobswatches.com/",
+      "title": "women Archives - Page 293 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/293/",
+      "url_to": "http://bobswatches.com/",
+      "title": "women Archives - Page 293 of 775 - Not Just For Men",
+      "anchor": "watch sale",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/13/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "women Archives - Page 13 of 775 - Not Just For Men",
+      "anchor": "luxury resale site Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/357/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "women Archives - Page 357 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/450/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "women Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/494/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "women Archives - Page 494 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/632/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "women Archives - Page 632 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/636/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "women Archives - Page 636 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/293/",
+      "url_to": "https://www.bobswatches.com/about-us/paul-altieri",
+      "title": "women Archives - Page 293 of 775 - Not Just For Men",
+      "anchor": "Paul Altieri",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/632/",
+      "url_to": "https://www.bobswatches.com/auctions",
+      "title": "women Archives - Page 632 of 775 - Not Just For Men",
+      "anchor": "12 Days of Rolex Auction",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/636/",
+      "url_to": "https://www.bobswatches.com/auctions",
+      "title": "women Archives - Page 636 of 775 - Not Just For Men",
+      "anchor": "12 Days of Rolex Auction",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/450/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/resources/history-rolex-gmt-master-2.html",
+      "title": "women Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "GMT-Master",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/450/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/first-rolex-gmt-master-ii-ref-16760.html",
+      "title": "women Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "Coke",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/450/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/gmt-16753.html",
+      "title": "women Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "Root Beer",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/450/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/modern-marvel-rolex-gmt-master-batman.html",
+      "title": "women Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "Batman",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/158/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/rolex-gmt-master-ice.html",
+      "title": "women Archives - Page 158 of 775 - Not Just For Men",
+      "anchor": "details what makes this watch so special",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/158/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/rolex-gmt-master-ice.html",
+      "title": "women Archives - Page 158 of 775 - Not Just For Men",
+      "anchor": "According to Paul Altieri",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-30",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/women-2/page/158/",
+      "url_to": "https://www.bobswatches.com/rolex-watches",
+      "title": "women Archives - Page 158 of 775 - Not Just For Men",
+      "anchor": "Rolex",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/293/",
+      "url_to": "http://bobswatches.com/",
+      "title": "Fashion Archives - Page 293 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/293/",
+      "url_to": "http://bobswatches.com/",
+      "title": "Fashion Archives - Page 293 of 775 - Not Just For Men",
+      "anchor": "watch sale",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://www.urldirectory.net/domain-list-76",
+      "url_to": "http://bobswatches.com/",
+      "title": "urldirectory.net | few of top websites | page no. 76",
+      "anchor": "bobswatches.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 17,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://www.esquire.com/jp/watch-jewelry/watch-news/a39157427/vintage-rolex-price-appreciation/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "ヴィンテージの「ロレックス」は投資の価値がある？｜その価格に関するレポート",
+      "anchor": "Bob's Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 27,
+      "domain_inlink_rank": 91,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/13/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "Fashion Archives - Page 13 of 775 - Not Just For Men",
+      "anchor": "luxury resale site Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/357/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "Fashion Archives - Page 357 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/450/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "Fashion Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/494/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "Fashion Archives - Page 494 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/632/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "Fashion Archives - Page 632 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/636/",
+      "url_to": "https://www.bobswatches.com/",
+      "title": "Fashion Archives - Page 636 of 775 - Not Just For Men",
+      "anchor": "Bob’s Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/293/",
+      "url_to": "https://www.bobswatches.com/about-us/paul-altieri",
+      "title": "Fashion Archives - Page 293 of 775 - Not Just For Men",
+      "anchor": "Paul Altieri",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/632/",
+      "url_to": "https://www.bobswatches.com/auctions",
+      "title": "Fashion Archives - Page 632 of 775 - Not Just For Men",
+      "anchor": "12 Days of Rolex Auction",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/636/",
+      "url_to": "https://www.bobswatches.com/auctions",
+      "title": "Fashion Archives - Page 636 of 775 - Not Just For Men",
+      "anchor": "12 Days of Rolex Auction",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/450/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/resources/history-rolex-gmt-master-2.html",
+      "title": "Fashion Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "GMT-Master",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/450/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/first-rolex-gmt-master-ii-ref-16760.html",
+      "title": "Fashion Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "Coke",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/450/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/gmt-16753.html",
+      "title": "Fashion Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "Root Beer",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/450/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/modern-marvel-rolex-gmt-master-batman.html",
+      "title": "Fashion Archives - Page 450 of 775 - Not Just For Men",
+      "anchor": "Batman",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/158/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/rolex-gmt-master-ice.html",
+      "title": "Fashion Archives - Page 158 of 775 - Not Just For Men",
+      "anchor": "According to Paul Altieri",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/158/",
+      "url_to": "https://www.bobswatches.com/rolex-blog/watch-review/rolex-gmt-master-ice.html",
+      "title": "Fashion Archives - Page 158 of 775 - Not Just For Men",
+      "anchor": "details what makes this watch so special",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://www.esquire.com/jp/watch-jewelry/watch-news/a39157427/vintage-rolex-price-appreciation/",
+      "url_to": "https://www.bobswatches.com/rolex-investments.pdf",
+      "title": "ヴィンテージの「ロレックス」は投資の価値がある？｜その価格に関するレポート",
+      "anchor": "レポート",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 27,
+      "domain_inlink_rank": 91,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "new_lost_date": "2026-06-29",
+      "new_lost_type": "new",
+      "url_from": "https://notjustformen.com/tag/fashion/page/158/",
+      "url_to": "https://www.bobswatches.com/rolex-watches",
+      "title": "Fashion Archives - Page 158 of 775 - Not Just For Men",
+      "anchor": "Rolex",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 29,
+      "first_seen": "2026-06-29"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-06-29",
+    "to": "2026-07-06"
+  },
+  "errors": []
+}
