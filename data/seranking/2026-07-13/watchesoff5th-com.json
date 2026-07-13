@@ -1,0 +1,177 @@
+{
+  "fetchedAt": "2026-07-13T11:55:37.461Z",
+  "competitorId": "watchesoff5th-com",
+  "domain": "https://watchesoff5th.com",
+  "topKeywords": [],
+  "backlinksSummary": {
+    "target": "watchesoff5th.com",
+    "backlinks": 134665,
+    "refdomains": 2292,
+    "subnets": 1047,
+    "ips": 1752,
+    "nofollow_backlinks": 3487,
+    "dofollow_backlinks": 131178,
+    "edu_backlinks": 727,
+    "gov_backlinks": 19,
+    "inlink_rank": 5,
+    "domain_inlink_rank": 28,
+    "from_home_page_backlinks": 1,
+    "dofollow_from_home_page_backlinks": 1,
+    "text_backlinks": 3671,
+    "dofollow_refdomains": 2237,
+    "from_home_page_refdomains": 1,
+    "edu_refdomains": 25,
+    "gov_refdomains": 5,
+    "anchors": 54892,
+    "dofollow_anchors": 54865,
+    "pages_with_backlinks": 4470,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "",
+        "backlinks": 3697
+      },
+      {
+        "anchor": "WatchesOff5th",
+        "backlinks": 1232
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Chronograph Rose Gold",
+        "refdomains": 69
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Double Balance Wheel Openwork Stainless",
+        "refdomains": 60
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 37mm Skeleton Rose Gold Double",
+        "refdomains": 58
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Jumbo Men s Audemars Piguet",
+        "refdomains": 57
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Chronograph Rose Gold Chocolat WatchesOff5th",
+        "refdomains": 57
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Men s Watches Royal Oak WatchesOff5th",
+        "refdomains": 56
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Rose Gold Black Dial",
+        "refdomains": 56
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 37mm Skeleton Rose Gold Double Balance W WatchesOff5th",
+        "refdomains": 56
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Chronograph 41mm Rose Gold Green Dial",
+        "refdomains": 53
+      },
+      {
+        "anchor": "Royal Oak Men s Watches Royal Oak Chronograph Audemars Piguet Store Near Me WatchesOff5th",
+        "refdomains": 52
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "http://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-chronograph-41-mm-blue-dial-ref-26240oroo1320or05-927482.jpg",
+        "backlinks": 2129
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-stainless-steel-blue-dial-ref15500stoo1220st01-141830_800x.jpg",
+        "backlinks": 1998
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-18k-rose-gold-brown-dial-rose-gold-sub-dials-ref26331oroo1220or02-989987_800x.jpg",
+        "backlinks": 1802
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-rose-gold-and-steel-white-dial-37mm-ladies-watch-reference-15450sroo1256sr01-266772_800x.jpg",
+        "backlinks": 1517
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-41mm-stainless-steel-blue-dial-15510stoo1320st06-910454_800x.jpg",
+        "backlinks": 1477
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-rose-gold-chocolate-dial-rose-gold-sub-dials-ref26331orood821cr01-823004_800x.jpg",
+        "refdomains": 387
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-stainless-steel-blue-dial-ref15500stoo1220st01-141830_800x.jpg",
+        "refdomains": 326
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-rose-gold-and-steel-white-dial-37mm-ladies-watch-reference-15450sroo1256sr01-266772_800x.jpg",
+        "refdomains": 325
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-18k-rose-gold-brown-dial-rose-gold-sub-dials-ref26331oroo1220or02-989987_800x.jpg",
+        "refdomains": 301
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-41mm-stainless-steel-blue-dial-15510stoo1320st06-910454_800x.jpg",
+        "refdomains": 290
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1055
+      },
+      {
+        "tld": "org",
+        "count": 91
+      },
+      {
+        "tld": "com.br",
+        "count": 62
+      },
+      {
+        "tld": "net",
+        "count": 59
+      },
+      {
+        "tld": "co.uk",
+        "count": 37
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1119
+      },
+      {
+        "country": "de",
+        "count": 145
+      },
+      {
+        "country": "fr",
+        "count": 73
+      },
+      {
+        "country": "co",
+        "count": 66
+      },
+      {
+        "country": "gb",
+        "count": 59
+      }
+    ]
+  },
+  "newBacklinks": [],
+  "dateRange": {
+    "from": "2026-07-06",
+    "to": "2026-07-13"
+  },
+  "errors": [
+    "keywords: SE Ranking /v1/domain/keywords failed (429): {\"message\":\"too many requests\"}"
+  ]
+}
