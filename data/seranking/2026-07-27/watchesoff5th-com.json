@@ -1,0 +1,1625 @@
+{
+  "fetchedAt": "2026-07-27T12:14:41.501Z",
+  "competitorId": "watchesoff5th-com",
+  "domain": "https://watchesoff5th.com",
+  "topKeywords": [
+    {
+      "block_type": null,
+      "block_position": 23,
+      "keyword": "rolex watch",
+      "position": 23,
+      "prev_pos": null,
+      "volume": 368000,
+      "cpc": 1.72,
+      "competition": 0.94,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 5357,
+      "traffic_percent": 17.72,
+      "price": 9214.04,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "rolex near me",
+      "position": 4,
+      "prev_pos": 3,
+      "volume": 40500,
+      "cpc": 0.59,
+      "competition": 0.53,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 55,
+      "total_sites": null,
+      "traffic": 1275,
+      "traffic_percent": 4.22,
+      "price": 752.25,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "royal oak",
+      "position": 5,
+      "prev_pos": 3,
+      "volume": 40500,
+      "cpc": 0.42,
+      "competition": 0.24,
+      "url": "https://watchesoff5th.com/collections/royal-oak",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 636,
+      "traffic_percent": 2.1,
+      "price": 267.12,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 9,
+      "keyword": "watch store near me",
+      "position": 8,
+      "prev_pos": 8,
+      "volume": 40500,
+      "cpc": 0.69,
+      "competition": 0.95,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 322,
+      "traffic_percent": 1.07,
+      "price": 222.18,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 25,
+      "keyword": "watches",
+      "position": 25,
+      "prev_pos": 26,
+      "volume": 40500,
+      "cpc": 0.44,
+      "competition": 0.96,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 77,
+      "total_sites": null,
+      "traffic": 294,
+      "traffic_percent": 0.97,
+      "price": 129.36,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "twitter",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "richard mille watch price",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 9900,
+      "cpc": 0.04,
+      "competition": 0.89,
+      "url": "https://watchesoff5th.com/blogs/news/how-much-is-a-richard-mille",
+      "difficulty": 50,
+      "total_sites": null,
+      "traffic": 228,
+      "traffic_percent": 0.75,
+      "price": 9.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "rolex submariner watch",
+      "position": 20,
+      "prev_pos": 17,
+      "volume": 18100,
+      "cpc": 1.72,
+      "competition": 0.95,
+      "url": "https://watchesoff5th.com/collections/submariner",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 227,
+      "traffic_percent": 0.75,
+      "price": 390.44,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "watch store",
+      "position": 9,
+      "prev_pos": 3,
+      "volume": 27800,
+      "cpc": 0.44,
+      "competition": 0.45,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 49,
+      "total_sites": null,
+      "traffic": 200,
+      "traffic_percent": 0.66,
+      "price": 88,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "watch stores",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 10800,
+      "cpc": 0.44,
+      "competition": 0.45,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 193,
+      "traffic_percent": 0.64,
+      "price": 84.92,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "rolex store",
+      "position": 4,
+      "prev_pos": 3,
+      "volume": 5700,
+      "cpc": 0.72,
+      "competition": 0.6,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 48,
+      "total_sites": null,
+      "traffic": 172,
+      "traffic_percent": 0.57,
+      "price": 123.84,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "ap royal oak",
+      "position": 7,
+      "prev_pos": 6,
+      "volume": 10800,
+      "cpc": 0.89,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/royal-oak",
+      "difficulty": 67,
+      "total_sites": null,
+      "traffic": 169,
+      "traffic_percent": 0.56,
+      "price": 150.41,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex green dial",
+      "position": 3,
+      "prev_pos": 1,
+      "volume": 4400,
+      "cpc": 2.18,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/rolex-green-dial-watches",
+      "difficulty": 43,
+      "total_sites": null,
+      "traffic": 169,
+      "traffic_percent": 0.56,
+      "price": 368.42,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "local_pack",
+      "block_position": 2,
+      "keyword": "off 5th",
+      "position": 2,
+      "prev_pos": null,
+      "volume": 9900,
+      "cpc": 0.36,
+      "competition": 1,
+      "url": "http://www.watchesoff5th.com/",
+      "difficulty": 68,
+      "total_sites": null,
+      "traffic": 163,
+      "traffic_percent": 0.54,
+      "price": 58.68,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "knowledge_graph",
+        "twitter",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "audemars piguet royal oak",
+      "position": 20,
+      "prev_pos": 3,
+      "volume": 12100,
+      "cpc": 0.87,
+      "competition": 0.99,
+      "url": "https://watchesoff5th.com/collections/royal-oak",
+      "difficulty": 82,
+      "total_sites": null,
+      "traffic": 158,
+      "traffic_percent": 0.52,
+      "price": 137.46,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "watch near me",
+      "position": 7,
+      "prev_pos": 3,
+      "volume": 10800,
+      "cpc": 0.36,
+      "competition": 0.89,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 64,
+      "total_sites": null,
+      "traffic": 151,
+      "traffic_percent": 0.5,
+      "price": 54.36,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "digital_complaints",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 16,
+      "keyword": "rolex bruce wayne",
+      "position": 16,
+      "prev_pos": 14,
+      "volume": 18100,
+      "cpc": 2.32,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/gmt-master-ii",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 133,
+      "traffic_percent": 0.44,
+      "price": 308.56,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "watch shop near me",
+      "position": 2,
+      "prev_pos": 6,
+      "volume": 5400,
+      "cpc": 0.87,
+      "competition": 0.9,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 44,
+      "total_sites": null,
+      "traffic": 124,
+      "traffic_percent": 0.41,
+      "price": 107.88,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "green dial rolex",
+      "position": 2,
+      "prev_pos": 1,
+      "volume": 1900,
+      "cpc": 2.18,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/rolex-green-dial-watches",
+      "difficulty": 48,
+      "total_sites": null,
+      "traffic": 118,
+      "traffic_percent": 0.39,
+      "price": 257.24,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "watches near me",
+      "position": 6,
+      "prev_pos": 4,
+      "volume": 19100,
+      "cpc": 0.39,
+      "competition": 0.99,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 54,
+      "total_sites": null,
+      "traffic": 101,
+      "traffic_percent": 0.33,
+      "price": 39.39,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "best rolex",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 2400,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/blogs/news/most-popular-rolex-watches",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 98,
+      "traffic_percent": 0.32,
+      "price": 168.56,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "find_results_on",
+        "related_searches",
+        "image_in_block",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "people_also_ask",
+      "block_position": 5,
+      "keyword": "rolex green face",
+      "position": 5,
+      "prev_pos": null,
+      "volume": 6600,
+      "cpc": 2.18,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/rolex-green-dial-watches",
+      "difficulty": 47,
+      "total_sites": null,
+      "traffic": 85,
+      "traffic_percent": 0.28,
+      "price": 185.3,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 27,
+      "keyword": "submariner rolex",
+      "position": 26,
+      "prev_pos": null,
+      "volume": 74000,
+      "cpc": 1.72,
+      "competition": 0.95,
+      "url": "https://watchesoff5th.com/collections/submariner",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 84,
+      "traffic_percent": 0.28,
+      "price": 144.48,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "rolex root beer",
+      "position": 10,
+      "prev_pos": 3,
+      "volume": 14800,
+      "cpc": 1.3,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/rolex-rootbeer-collection",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 84,
+      "traffic_percent": 0.28,
+      "price": 109.2,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "rolex rootbeer",
+      "position": 4,
+      "prev_pos": 2,
+      "volume": 5400,
+      "cpc": 1.3,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/rolex-rootbeer-collection",
+      "difficulty": 55,
+      "total_sites": null,
+      "traffic": 83,
+      "traffic_percent": 0.27,
+      "price": 107.9,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "most popular rolex for men",
+      "position": 1,
+      "prev_pos": 2,
+      "volume": 480,
+      "cpc": 0.02,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/blogs/news/most-popular-rolex-watches",
+      "difficulty": 10,
+      "total_sites": null,
+      "traffic": 81,
+      "traffic_percent": 0.27,
+      "price": 1.62,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "rolex green face",
+      "position": 6,
+      "prev_pos": 1,
+      "volume": 6600,
+      "cpc": 2.18,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/rolex-green-dial-watches",
+      "difficulty": 47,
+      "total_sites": null,
+      "traffic": 80,
+      "traffic_percent": 0.26,
+      "price": 174.4,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 13,
+      "keyword": "rolex authorized dealer",
+      "position": 13,
+      "prev_pos": 19,
+      "volume": 8000,
+      "cpc": 1.69,
+      "competition": 0.43,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 47,
+      "total_sites": null,
+      "traffic": 73,
+      "traffic_percent": 0.24,
+      "price": 123.37,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "watch shop",
+      "position": 6,
+      "prev_pos": 38,
+      "volume": 5700,
+      "cpc": 0.46,
+      "competition": 0.39,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 48,
+      "total_sites": null,
+      "traffic": 69,
+      "traffic_percent": 0.23,
+      "price": 31.74,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "rolex dealer near me",
+      "position": 5,
+      "prev_pos": 7,
+      "volume": 5400,
+      "cpc": 1.02,
+      "competition": 0.95,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 38,
+      "total_sites": null,
+      "traffic": 67,
+      "traffic_percent": 0.22,
+      "price": 68.34,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "rolex dealer",
+      "position": 8,
+      "prev_pos": 6,
+      "volume": 6600,
+      "cpc": 0.72,
+      "competition": 0.69,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 39,
+      "total_sites": null,
+      "traffic": 66,
+      "traffic_percent": 0.22,
+      "price": 47.52,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "rolex submariner black",
+      "position": 14,
+      "prev_pos": 12,
+      "volume": 6600,
+      "cpc": 0.22,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/products/rolex-submariner-two-tone-stainless-steel-yellow-gold-black-dial-ceramic-bezel-ref-126613ln",
+      "difficulty": 48,
+      "total_sites": null,
+      "traffic": 65,
+      "traffic_percent": 0.22,
+      "price": 14.3,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "royal oak watch",
+      "position": 5,
+      "prev_pos": 2,
+      "volume": 5400,
+      "cpc": 0.87,
+      "competition": 0.73,
+      "url": "https://watchesoff5th.com/collections/royal-oak",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 64,
+      "traffic_percent": 0.21,
+      "price": 55.68,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "rolex dealers",
+      "position": 5,
+      "prev_pos": 3,
+      "volume": 3200,
+      "cpc": 0.72,
+      "competition": 0.69,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 38,
+      "total_sites": null,
+      "traffic": 59,
+      "traffic_percent": 0.2,
+      "price": 42.48,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "nautilus watch",
+      "position": 20,
+      "prev_pos": 11,
+      "volume": 10800,
+      "cpc": 0.65,
+      "competition": 0.49,
+      "url": "https://watchesoff5th.com/collections/nautilus",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 57,
+      "traffic_percent": 0.19,
+      "price": 37.05,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "daytona rolex",
+      "position": 18,
+      "prev_pos": 17,
+      "volume": 18100,
+      "cpc": 1.8,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/daytona",
+      "difficulty": 70,
+      "total_sites": null,
+      "traffic": 56,
+      "traffic_percent": 0.19,
+      "price": 100.8,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "audemars piguet wall clock",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 320,
+      "cpc": 0.2,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/products/audemars-piguet-royal-oak-wall-clock-blue-dial",
+      "difficulty": 5,
+      "total_sites": null,
+      "traffic": 55,
+      "traffic_percent": 0.18,
+      "price": 11,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 12,
+      "keyword": "watch stores near me",
+      "position": 11,
+      "prev_pos": 7,
+      "volume": 12100,
+      "cpc": 0.69,
+      "competition": 0.95,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 54,
+      "total_sites": null,
+      "traffic": 53,
+      "traffic_percent": 0.18,
+      "price": 36.57,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rose gold gmt root beer",
+      "position": 1,
+      "prev_pos": 2,
+      "volume": 320,
+      "cpc": 0.2,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/products/gmt-master-ii-18k-everose-rose-gold-the-rootbeer-black-and-brown-bezel-oyster-bracelet-ref-126715chnr",
+      "difficulty": 8,
+      "total_sites": null,
+      "traffic": 53,
+      "traffic_percent": 0.18,
+      "price": 10.6,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches",
+        "image_in_block"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 16,
+      "keyword": "fp journe watches",
+      "position": 16,
+      "prev_pos": 15,
+      "volume": 5400,
+      "cpc": 0.14,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/blogs/news/fp-journe-complete-model-guide",
+      "difficulty": 57,
+      "total_sites": null,
+      "traffic": 52,
+      "traffic_percent": 0.17,
+      "price": 7.28,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "twitter",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 12,
+      "keyword": "rolex panda",
+      "position": 12,
+      "prev_pos": 5,
+      "volume": 12100,
+      "cpc": 2.16,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/products/rolex-daytona-40mm-stainless-steel-white-panda-index-dial-ceramic-bezel-ref-116500ln",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 52,
+      "traffic_percent": 0.17,
+      "price": 112.32,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "royal oak ap",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 1300,
+      "cpc": 0.9,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/royal-oak",
+      "difficulty": 50,
+      "total_sites": null,
+      "traffic": 51,
+      "traffic_percent": 0.17,
+      "price": 45.9,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 12,
+      "keyword": "gmt - master ii",
+      "position": 12,
+      "prev_pos": 11,
+      "volume": 5400,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/gmt-master-ii",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 49,
+      "traffic_percent": 0.16,
+      "price": 84.28,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "audemars wall clock",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 320,
+      "cpc": 0.2,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/products/audemars-piguet-royal-oak-wall-clock-blue-dial",
+      "difficulty": 5,
+      "total_sites": null,
+      "traffic": 47,
+      "traffic_percent": 0.16,
+      "price": 9.4,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "digital_complaints",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "most popular rolex",
+      "position": 1,
+      "prev_pos": 2,
+      "volume": 260,
+      "cpc": 0.02,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/blogs/news/most-popular-rolex-watches",
+      "difficulty": 5,
+      "total_sites": null,
+      "traffic": 46,
+      "traffic_percent": 0.15,
+      "price": 0.92,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "richard mille watch price",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 9900,
+      "cpc": 0.04,
+      "competition": 0.89,
+      "url": "https://watchesoff5th.com/blogs/news/why-are-richard-mille-so-expensive",
+      "difficulty": 50,
+      "total_sites": null,
+      "traffic": 46,
+      "traffic_percent": 0.15,
+      "price": 1.84,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "popular rolex models",
+      "position": 1,
+      "prev_pos": 2,
+      "volume": 320,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/blogs/news/most-popular-rolex-watches",
+      "difficulty": 5,
+      "total_sites": null,
+      "traffic": 46,
+      "traffic_percent": 0.15,
+      "price": 79.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "rolex store near me",
+      "position": 8,
+      "prev_pos": 10,
+      "volume": 4400,
+      "cpc": 1.43,
+      "competition": 0.89,
+      "url": "https://watchesoff5th.com/",
+      "difficulty": 35,
+      "total_sites": null,
+      "traffic": 44,
+      "traffic_percent": 0.15,
+      "price": 62.92,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 25,
+      "keyword": "rolex gmt master ii",
+      "position": 25,
+      "prev_pos": 45,
+      "volume": 14800,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/gmt-master-ii",
+      "difficulty": 74,
+      "total_sites": null,
+      "traffic": 43,
+      "traffic_percent": 0.14,
+      "price": 73.96,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "root beer rolex",
+      "position": 14,
+      "prev_pos": 3,
+      "volume": 9900,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/collections/rolex-rootbeer-collection",
+      "difficulty": 55,
+      "total_sites": null,
+      "traffic": 43,
+      "traffic_percent": 0.14,
+      "price": 73.96,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rose gold root beer",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 320,
+      "cpc": 0.48,
+      "competition": 1,
+      "url": "https://watchesoff5th.com/products/gmt-master-ii-18k-everose-rose-gold-the-rootbeer-black-and-brown-bezel-oyster-bracelet-ref-126715chnr",
+      "difficulty": 8,
+      "total_sites": null,
+      "traffic": 43,
+      "traffic_percent": 0.14,
+      "price": 20.64,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    }
+  ],
+  "backlinksSummary": {
+    "target": "watchesoff5th.com",
+    "backlinks": 134015,
+    "refdomains": 2253,
+    "subnets": 1032,
+    "ips": 1712,
+    "nofollow_backlinks": 3487,
+    "dofollow_backlinks": 130528,
+    "edu_backlinks": 727,
+    "gov_backlinks": 19,
+    "inlink_rank": 5,
+    "domain_inlink_rank": 31,
+    "from_home_page_backlinks": 1,
+    "dofollow_from_home_page_backlinks": 1,
+    "text_backlinks": 3644,
+    "dofollow_refdomains": 2198,
+    "from_home_page_refdomains": 1,
+    "edu_refdomains": 25,
+    "gov_refdomains": 5,
+    "anchors": 54675,
+    "dofollow_anchors": 54646,
+    "pages_with_backlinks": 4230,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "",
+        "backlinks": 3689
+      },
+      {
+        "anchor": "WatchesOff5th",
+        "backlinks": 1231
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Chronograph Rose Gold",
+        "refdomains": 69
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Double Balance Wheel Openwork Stainless",
+        "refdomains": 60
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 37mm Skeleton Rose Gold Double",
+        "refdomains": 57
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Jumbo Men s Audemars Piguet",
+        "refdomains": 57
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Chronograph Rose Gold Chocolat WatchesOff5th",
+        "refdomains": 57
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Men s Watches Royal Oak WatchesOff5th",
+        "refdomains": 56
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Rose Gold Black Dial",
+        "refdomains": 56
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 37mm Skeleton Rose Gold Double Balance W WatchesOff5th",
+        "refdomains": 55
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Chronograph 41mm Rose Gold Green Dial",
+        "refdomains": 53
+      },
+      {
+        "anchor": "Royal Oak Men s Watches Royal Oak Chronograph Audemars Piguet Store Near Me WatchesOff5th",
+        "refdomains": 52
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "http://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-chronograph-41-mm-blue-dial-ref-26240oroo1320or05-927482.jpg",
+        "backlinks": 2129
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-stainless-steel-blue-dial-ref15500stoo1220st01-141830_800x.jpg",
+        "backlinks": 1997
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-18k-rose-gold-brown-dial-rose-gold-sub-dials-ref26331oroo1220or02-989987_800x.jpg",
+        "backlinks": 1801
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-rose-gold-and-steel-white-dial-37mm-ladies-watch-reference-15450sroo1256sr01-266772_800x.jpg",
+        "backlinks": 1517
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-41mm-stainless-steel-blue-dial-15510stoo1320st06-910454_800x.jpg",
+        "backlinks": 1477
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-rose-gold-chocolate-dial-rose-gold-sub-dials-ref26331orood821cr01-823004_800x.jpg",
+        "refdomains": 386
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-stainless-steel-blue-dial-ref15500stoo1220st01-141830_800x.jpg",
+        "refdomains": 326
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-rose-gold-and-steel-white-dial-37mm-ladies-watch-reference-15450sroo1256sr01-266772_800x.jpg",
+        "refdomains": 325
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-18k-rose-gold-brown-dial-rose-gold-sub-dials-ref26331oroo1220or02-989987_800x.jpg",
+        "refdomains": 301
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-41mm-stainless-steel-blue-dial-15510stoo1320st06-910454_800x.jpg",
+        "refdomains": 290
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1037
+      },
+      {
+        "tld": "org",
+        "count": 89
+      },
+      {
+        "tld": "com.br",
+        "count": 61
+      },
+      {
+        "tld": "net",
+        "count": 59
+      },
+      {
+        "tld": "co.uk",
+        "count": 35
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1106
+      },
+      {
+        "country": "de",
+        "count": 143
+      },
+      {
+        "country": "fr",
+        "count": 69
+      },
+      {
+        "country": "co",
+        "count": 66
+      },
+      {
+        "country": "gb",
+        "count": 58
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-07-25",
+      "new_lost_type": "new",
+      "url_from": "https://www.unfinishedman.com/omega-vs-rolex-scarcity-vs-innovation/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-vs-omega?srsltid=AfmBOoqTLHrKoQs17LIbP_2wTIxGhfJRbfCy60IgYCu3gafhug4MhpAB",
+      "title": "Omega Vs. Rolex: The Real Difference Is Scarcity Vs. Innovation",
+      "anchor": "Omega typically costs 40-60% less than Rolex at retail",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 74,
+      "first_seen": "2026-07-25"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://trend.dk/gadgets/swatch-og-audemars-piguet-sender-royal-pop-i-butikkerne-loerdag-kun-fysisk-salg",
+      "url_to": "https://watchesoff5th.com/blogs/news/swatch-audemars-piguet-royal-pop",
+      "title": "Swatch og Audemars Piguet sender Royal Pop i butikkerne lørdag, kun fysisk salg | Trend DK",
+      "anchor": "Lépine og Savonnette",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 28,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://hankswisswatches.com/2026/07/14/hank-swiss-watches-the-watches-of-the-fifa-world-cup-2026-top-choices/",
+      "url_to": "https://watchesoff5th.com/products/copy-of-rolex-gmt-master-ii-40-watch-black-and-blue-batman-bezel-black-dial-oyster-bracelet-ref-126710blnr-1",
+      "title": "Hank Swiss Watches: The Watches of the FIFA World Cup 2026: Top Choices - Hank Swiss Watches",
+      "anchor": "Rolex GMT-Master II 40 Watch – Black and Blue Batman Bezel – Black Dial – Oyster Bracelet (Ref# 126710BLNR)",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-22",
+      "new_lost_type": "new",
+      "url_from": "https://bfrwiki.de/sammleruhren/royal-pop/",
+      "url_to": "https://watchesoff5th.com/blogs/news/swatch-audemars-piguet-royal-pop",
+      "title": "Swatch x Audemars Piguet Royal Pop – BFRWiki",
+      "anchor": "https://watchesoff5th.com/blogs/news/swatch-audemars-piguet-royal-pop",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "new_lost_date": "2026-07-21",
+      "new_lost_type": "new",
+      "url_from": "https://www.edufirst.com.sg/blog/english-primary-tuition-vs-home-based-learning-a-comprehensive-comparison-of-pros-cons-costs/",
+      "url_to": "https://watchesoff5th.com/products/patek-philippe-nautilus-5711-1a-018-tiffany-co-blue-dial",
+      "title": "English Primary Tuition vs Home-based Learning: A Comprehensive Comparison of Pros, Cons & Costs - EDU FIRST",
+      "anchor": "the original Tiffany Blue 5711",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 44,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "new_lost_date": "2026-07-21",
+      "new_lost_type": "new",
+      "url_from": "https://satowatch.com/blog/buy-luxury-watches-with-crypto",
+      "url_to": "https://watchesoff5th.com/blogs/news/richard-mille-production-numbers",
+      "title": "Buy Luxury Watches with Crypto: The Complete 2026 Guide | SatoWatch | SatoWatch",
+      "anchor": "WatchesOff5th — Richard Mille production numbers",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 7,
+      "first_seen": "2026-07-21"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-07-20",
+    "to": "2026-07-27"
+  },
+  "errors": []
+}

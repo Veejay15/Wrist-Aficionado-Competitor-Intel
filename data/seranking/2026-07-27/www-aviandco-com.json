@@ -1,0 +1,2248 @@
+{
+  "fetchedAt": "2026-07-27T12:14:44.221Z",
+  "competitorId": "www-aviandco-com",
+  "domain": "https://www.aviandco.com/",
+  "topKeywords": [
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "rolex watch",
+      "position": 8,
+      "prev_pos": 6,
+      "volume": 368000,
+      "cpc": 1.72,
+      "competition": 0.94,
+      "url": "https://www.aviandco.com/rolex-watches",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 6658,
+      "traffic_percent": 14.88,
+      "price": 11451.76,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "rolex watches",
+      "position": 10,
+      "prev_pos": 7,
+      "volume": 165000,
+      "cpc": 1.72,
+      "competition": 0.94,
+      "url": "https://www.aviandco.com/rolex-watches",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 2363,
+      "traffic_percent": 5.28,
+      "price": 4064.36,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "rolex submariner",
+      "position": 14,
+      "prev_pos": 19,
+      "volume": 74000,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-submariner",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 1207,
+      "traffic_percent": 2.7,
+      "price": 2076.04,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "rolex bruce wayne",
+      "position": 2,
+      "prev_pos": null,
+      "volume": 18100,
+      "cpc": 2.32,
+      "competition": 1,
+      "url": "https://www.aviandco.com/collections/rolex-gmt-master-ii-bruce-wayne",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 1154,
+      "traffic_percent": 2.58,
+      "price": 2677.28,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "royal oak",
+      "position": 7,
+      "prev_pos": null,
+      "volume": 40500,
+      "cpc": 0.42,
+      "competition": 0.24,
+      "url": "https://www.aviandco.com/collections/audemars-piguet-royal-oak",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 684,
+      "traffic_percent": 1.53,
+      "price": 287.28,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "astrology sign",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 135000,
+      "cpc": 0.02,
+      "competition": 0.2,
+      "url": "https://www.aviandco.com/the-perfect-watch-for-your-astrological-sign",
+      "difficulty": 87,
+      "total_sites": null,
+      "traffic": 662,
+      "traffic_percent": 1.48,
+      "price": 13.24,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "twitter",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "richard mille",
+      "position": 6,
+      "prev_pos": 7,
+      "volume": 110000,
+      "cpc": 0.07,
+      "competition": 0.89,
+      "url": "https://www.aviandco.com/richard-mille-watches",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 482,
+      "traffic_percent": 1.08,
+      "price": 33.74,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": "local_pack",
+      "block_position": 2,
+      "keyword": "avi",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 20100,
+      "cpc": 0.67,
+      "competition": 0.03,
+      "url": "https://www.aviandco.com/",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 450,
+      "traffic_percent": 1.01,
+      "price": 301.5,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "garnet",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 96200,
+      "cpc": 0.37,
+      "competition": 0.49,
+      "url": "https://www.aviandco.com/januarys-birthstone-a-spotlight-on-garnet-watches-and-accessories",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 450,
+      "traffic_percent": 1.01,
+      "price": 166.5,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex panda",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 12100,
+      "cpc": 2.16,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-cosmograph-daytona-panda",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 395,
+      "traffic_percent": 0.88,
+      "price": 853.2,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "patek philippe watches",
+      "position": 14,
+      "prev_pos": null,
+      "volume": 90500,
+      "cpc": 0.31,
+      "competition": 1,
+      "url": "https://www.aviandco.com/collections/patek-philippe-watches",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 388,
+      "traffic_percent": 0.87,
+      "price": 120.28,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex starbucks",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 12100,
+      "cpc": 2.16,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-submariner-starbucks",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 371,
+      "traffic_percent": 0.83,
+      "price": 801.36,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 11,
+      "keyword": "rolex for sale",
+      "position": 11,
+      "prev_pos": 17,
+      "volume": 22200,
+      "cpc": 0.13,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-watches",
+      "difficulty": 64,
+      "total_sites": null,
+      "traffic": 360,
+      "traffic_percent": 0.8,
+      "price": 46.8,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "rolex oyster perpetual datejust",
+      "position": 20,
+      "prev_pos": 13,
+      "volume": 20100,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-datejust",
+      "difficulty": 74,
+      "total_sites": null,
+      "traffic": 336,
+      "traffic_percent": 0.75,
+      "price": 577.92,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "patek philippe",
+      "position": 13,
+      "prev_pos": null,
+      "volume": 201000,
+      "cpc": 0.59,
+      "competition": 0.99,
+      "url": "https://www.aviandco.com/collections/patek-philippe-watches",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 306,
+      "traffic_percent": 0.68,
+      "price": 180.54,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "datejust rolex",
+      "position": 20,
+      "prev_pos": 20,
+      "volume": 18100,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-datejust",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 292,
+      "traffic_percent": 0.65,
+      "price": 502.24,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "rolex panda",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 12100,
+      "cpc": 2.16,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-cosmograph-daytona-panda",
+      "difficulty": 71,
+      "total_sites": null,
+      "traffic": 275,
+      "traffic_percent": 0.61,
+      "price": 594,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 13,
+      "keyword": "submariner rolex",
+      "position": 12,
+      "prev_pos": 17,
+      "volume": 74000,
+      "cpc": 1.72,
+      "competition": 0.95,
+      "url": "https://www.aviandco.com/rolex-submariner",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 264,
+      "traffic_percent": 0.59,
+      "price": 454.08,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "audemars piguet watches",
+      "position": 2,
+      "prev_pos": null,
+      "volume": 5400,
+      "cpc": 0.73,
+      "competition": 0.9,
+      "url": "https://www.aviandco.com/collections/audemars-piguet-watches",
+      "difficulty": 60,
+      "total_sites": null,
+      "traffic": 229,
+      "traffic_percent": 0.51,
+      "price": 167.17,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "twitter",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "richard mille watch",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 14800,
+      "cpc": 0.06,
+      "competition": 0.99,
+      "url": "https://www.aviandco.com/richard-mille-watches",
+      "difficulty": 70,
+      "total_sites": null,
+      "traffic": 229,
+      "traffic_percent": 0.51,
+      "price": 13.74,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "rolex oyster perpetual",
+      "position": 10,
+      "prev_pos": 8,
+      "volume": 49500,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-oyster-perpetual",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 203,
+      "traffic_percent": 0.45,
+      "price": 349.16,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 23,
+      "keyword": "rolex day date",
+      "position": 21,
+      "prev_pos": 12,
+      "volume": 40500,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-day-date",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 195,
+      "traffic_percent": 0.44,
+      "price": 335.4,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "rolex datejust",
+      "position": 17,
+      "prev_pos": 12,
+      "volume": 40500,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-datejust",
+      "difficulty": 74,
+      "total_sites": null,
+      "traffic": 190,
+      "traffic_percent": 0.42,
+      "price": 326.8,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex sprite",
+      "position": 3,
+      "prev_pos": null,
+      "volume": 9900,
+      "cpc": 2.09,
+      "competition": 1,
+      "url": "https://www.aviandco.com/collections/rolex-gmt-master-ii-sprite",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 188,
+      "traffic_percent": 0.42,
+      "price": 392.92,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "audemars piguet royal oak",
+      "position": 8,
+      "prev_pos": null,
+      "volume": 12100,
+      "cpc": 0.87,
+      "competition": 0.99,
+      "url": "https://www.aviandco.com/collections/audemars-piguet-royal-oak",
+      "difficulty": 82,
+      "total_sites": null,
+      "traffic": 184,
+      "traffic_percent": 0.41,
+      "price": 160.08,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex panda daytona",
+      "position": 3,
+      "prev_pos": 5,
+      "volume": 8000,
+      "cpc": 0.15,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-cosmograph-daytona-panda",
+      "difficulty": 55,
+      "total_sites": null,
+      "traffic": 178,
+      "traffic_percent": 0.4,
+      "price": 26.7,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "find_results_on",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex daytona panda",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 5400,
+      "cpc": 0.15,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-cosmograph-daytona-panda",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 176,
+      "traffic_percent": 0.39,
+      "price": 26.4,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 19,
+      "keyword": "patek phillippe",
+      "position": 18,
+      "prev_pos": null,
+      "volume": 135000,
+      "cpc": 0.59,
+      "competition": 0.99,
+      "url": "https://www.aviandco.com/collections/patek-philippe-watches",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 163,
+      "traffic_percent": 0.36,
+      "price": 96.17,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "knowledge_graph",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "richard mille watches",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 9900,
+      "cpc": 0.07,
+      "competition": 0.94,
+      "url": "https://www.aviandco.com/richard-mille-watches",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 159,
+      "traffic_percent": 0.36,
+      "price": 11.13,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "batman watch",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 4400,
+      "cpc": 0.22,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-gmt-master-ii-batman",
+      "difficulty": 50,
+      "total_sites": null,
+      "traffic": 157,
+      "traffic_percent": 0.35,
+      "price": 34.54,
+      "serp_features": [
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "rolex panda daytona",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 8000,
+      "cpc": 0.15,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-cosmograph-daytona-panda",
+      "difficulty": 55,
+      "total_sites": null,
+      "traffic": 153,
+      "traffic_percent": 0.34,
+      "price": 22.95,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "find_results_on",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "oyster perpetual",
+      "position": 14,
+      "prev_pos": 11,
+      "volume": 12100,
+      "cpc": 1.72,
+      "competition": 0.68,
+      "url": "https://www.aviandco.com/rolex-oyster-perpetual",
+      "difficulty": 72,
+      "total_sites": null,
+      "traffic": 151,
+      "traffic_percent": 0.34,
+      "price": 259.72,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex sky-dweller",
+      "position": 2,
+      "prev_pos": 10,
+      "volume": 9900,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-sky-dweller",
+      "difficulty": 57,
+      "total_sites": null,
+      "traffic": 151,
+      "traffic_percent": 0.34,
+      "price": 259.72,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "royal oak watch",
+      "position": 3,
+      "prev_pos": null,
+      "volume": 5400,
+      "cpc": 0.87,
+      "competition": 0.73,
+      "url": "https://www.aviandco.com/collections/audemars-piguet-royal-oak",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 150,
+      "traffic_percent": 0.34,
+      "price": 130.5,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 30,
+      "keyword": "rolex price",
+      "position": 30,
+      "prev_pos": 24,
+      "volume": 12100,
+      "cpc": 0.98,
+      "competition": 0.86,
+      "url": "https://www.aviandco.com/rolex-watches",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 146,
+      "traffic_percent": 0.33,
+      "price": 143.08,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "knowledge_graph",
+      "block_position": 87,
+      "keyword": "rolex datejust 41",
+      "position": 86,
+      "prev_pos": null,
+      "volume": 12100,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "http://aviandco.com/rolex-datejust-41-126300-blue-index-dial-126300-037?srsltid=AfmBOorlo4yO7Bt6jrcdKUGqOyJDdLBOV6dSth9eNdBiA2yElbv6x1xK7nk",
+      "difficulty": 70,
+      "total_sites": null,
+      "traffic": 146,
+      "traffic_percent": 0.33,
+      "price": 251.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "sky dweller rolex",
+      "position": 4,
+      "prev_pos": null,
+      "volume": 10800,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-sky-dweller",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 146,
+      "traffic_percent": 0.33,
+      "price": 251.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 29,
+      "keyword": "how much is a rolex",
+      "position": 29,
+      "prev_pos": 37,
+      "volume": 8100,
+      "cpc": 1.39,
+      "competition": 0.43,
+      "url": "https://www.aviandco.com/rolex-watches",
+      "difficulty": 48,
+      "total_sites": null,
+      "traffic": 136,
+      "traffic_percent": 0.3,
+      "price": 189.04,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "rolex daytona panda",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 5400,
+      "cpc": 0.15,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-cosmograph-daytona-panda",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 136,
+      "traffic_percent": 0.3,
+      "price": 20.4,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "rolex root beer",
+      "position": 20,
+      "prev_pos": 21,
+      "volume": 14800,
+      "cpc": 1.3,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-gmt-master-ii-root-beer",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 132,
+      "traffic_percent": 0.29,
+      "price": 171.6,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "rolex day date 40",
+      "position": 3,
+      "prev_pos": 5,
+      "volume": 3200,
+      "cpc": 0.27,
+      "competition": 0.97,
+      "url": "https://www.aviandco.com/rolex-day-date-40",
+      "difficulty": 57,
+      "total_sites": null,
+      "traffic": 130,
+      "traffic_percent": 0.29,
+      "price": 35.1,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 12,
+      "keyword": "ap royal oak",
+      "position": 12,
+      "prev_pos": null,
+      "volume": 10800,
+      "cpc": 0.89,
+      "competition": 1,
+      "url": "https://www.aviandco.com/collections/audemars-piguet-royal-oak",
+      "difficulty": 67,
+      "total_sites": null,
+      "traffic": 127,
+      "traffic_percent": 0.28,
+      "price": 113.03,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "rolex starbucks",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 12100,
+      "cpc": 2.16,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-submariner-starbucks",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 113,
+      "traffic_percent": 0.25,
+      "price": 244.08,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "people_also_ask",
+      "block_position": 4,
+      "keyword": "rolex president",
+      "position": 4,
+      "prev_pos": null,
+      "volume": 14800,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/watches-worn-by-us-presidents",
+      "difficulty": 65,
+      "total_sites": null,
+      "traffic": 112,
+      "traffic_percent": 0.25,
+      "price": 192.64,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "aquanaut",
+      "position": 5,
+      "prev_pos": null,
+      "volume": 8100,
+      "cpc": 0.58,
+      "competition": 0.59,
+      "url": "https://www.aviandco.com/collections/patek-philippe-aquanaut",
+      "difficulty": 57,
+      "total_sites": null,
+      "traffic": 110,
+      "traffic_percent": 0.25,
+      "price": 63.8,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "rolex sky dweller",
+      "position": 4,
+      "prev_pos": 11,
+      "volume": 22400,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-sky-dweller",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 106,
+      "traffic_percent": 0.24,
+      "price": 182.32,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "rolex datejust 41",
+      "position": 6,
+      "prev_pos": 4,
+      "volume": 12100,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-datejust-41",
+      "difficulty": 70,
+      "total_sites": null,
+      "traffic": 106,
+      "traffic_percent": 0.24,
+      "price": 182.32,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "patek philippe nautilus sale",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 590,
+      "cpc": 0.23,
+      "competition": 1,
+      "url": "https://www.aviandco.com/collections/patek-philippe-nautilus",
+      "difficulty": 23,
+      "total_sites": null,
+      "traffic": 105,
+      "traffic_percent": 0.23,
+      "price": 24.15,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches",
+        "image_in_block"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "mens rolex sky dweller",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 590,
+      "cpc": 2.41,
+      "competition": 0.92,
+      "url": "https://www.aviandco.com/rolex-sky-dweller",
+      "difficulty": 9,
+      "total_sites": null,
+      "traffic": 105,
+      "traffic_percent": 0.23,
+      "price": 253.05,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 28,
+      "keyword": "mens rolex",
+      "position": 28,
+      "prev_pos": 31,
+      "volume": 8000,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.aviandco.com/rolex-watches",
+      "difficulty": 53,
+      "total_sites": null,
+      "traffic": 101,
+      "traffic_percent": 0.23,
+      "price": 173.72,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    }
+  ],
+  "backlinksSummary": {
+    "target": "aviandco.com",
+    "backlinks": 56271,
+    "refdomains": 3110,
+    "subnets": 1340,
+    "ips": 2322,
+    "nofollow_backlinks": 1410,
+    "dofollow_backlinks": 54861,
+    "edu_backlinks": 616,
+    "gov_backlinks": 1,
+    "inlink_rank": 17,
+    "domain_inlink_rank": 59,
+    "from_home_page_backlinks": 12,
+    "dofollow_from_home_page_backlinks": 9,
+    "text_backlinks": 4204,
+    "dofollow_refdomains": 2625,
+    "from_home_page_refdomains": 9,
+    "edu_refdomains": 70,
+    "gov_refdomains": 1,
+    "anchors": 27395,
+    "dofollow_anchors": 27193,
+    "pages_with_backlinks": 3497,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "Audemars Piguet s Most Collected Watch The Royal Oak",
+        "backlinks": 600
+      },
+      {
+        "anchor": "Buy Now",
+        "backlinks": 593
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 15551OR 18K Rose Gold Diamond Bezel Blue",
+        "backlinks": 333
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "Audemars Piguet s Most Collected Watch The Royal Oak",
+        "refdomains": 155
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak",
+        "refdomains": 99
+      },
+      {
+        "anchor": "aviandco.com",
+        "refdomains": 83
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 15551OR 18K Rose Gold Diamond Bezel Blue",
+        "refdomains": 76
+      },
+      {
+        "anchor": "Pre owned Richard Mille Watches Why You Should Buy Them",
+        "refdomains": 61
+      },
+      {
+        "anchor": "https://www.aviandco.com/richard-mille-watches",
+        "refdomains": 61
+      },
+      {
+        "anchor": "Audemars Piguet Watches Your 1 Source Avi Co",
+        "refdomains": 60
+      },
+      {
+        "anchor": "TG @BHS_LINKS - BEST SEO LINKS - https://t.me/bhs_links",
+        "refdomains": 60
+      },
+      {
+        "anchor": "https://www.aviandco.com/rolex-watches",
+        "refdomains": 59
+      },
+      {
+        "anchor": "Rolex Submariner the Best Prices and Selection in NYC Avi Co",
+        "refdomains": 51
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_4.jpg",
+        "backlinks": 3028
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/catalog/product/1/5/15551or.zz.1356or.jpg",
+        "backlinks": 2114
+      },
+      {
+        "url": "https://www.aviandco.com/",
+        "backlinks": 740
+      },
+      {
+        "url": "https://www.aviandco.com/richard-mille-watches",
+        "backlinks": 510
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/catalog/product/a/p/ap_royal_oak_15202ba_gold-1_1.jpg",
+        "backlinks": 509
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/AP_Offshore.jpg",
+        "backlinks": 416
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_9.jpg",
+        "backlinks": 396
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_new2.jpg",
+        "backlinks": 395
+      },
+      {
+        "url": "https://www.aviandco.com/media/wysiwyg/6-_1__1.jpg",
+        "backlinks": 385
+      },
+      {
+        "url": "https://www.aviandco.com/rolex-watches",
+        "backlinks": 377
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_4.jpg",
+        "refdomains": 661
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/catalog/product/1/5/15551or.zz.1356or.jpg",
+        "refdomains": 312
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_new2.jpg",
+        "refdomains": 258
+      },
+      {
+        "url": "https://www.aviandco.com/",
+        "refdomains": 242
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_11.jpg",
+        "refdomains": 226
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_9.jpg",
+        "refdomains": 222
+      },
+      {
+        "url": "https://www.aviandco.com/richard-mille-watches",
+        "refdomains": 221
+      },
+      {
+        "url": "https://www.aviandco.com/media/wysiwyg/6-_1__1.jpg",
+        "refdomains": 206
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/catalog/product/a/p/ap_concept_26228bc.ss.d314cr.01.jpg",
+        "refdomains": 186
+      },
+      {
+        "url": "https://www.aviandco.com/patek-philippe-watches",
+        "refdomains": 176
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1511
+      },
+      {
+        "tld": "org",
+        "count": 93
+      },
+      {
+        "tld": "net",
+        "count": 76
+      },
+      {
+        "tld": "com.br",
+        "count": 59
+      },
+      {
+        "tld": "edu",
+        "count": 54
+      },
+      {
+        "tld": "co.uk",
+        "count": 36
+      },
+      {
+        "tld": "site",
+        "count": 28
+      },
+      {
+        "tld": "in",
+        "count": 26
+      },
+      {
+        "tld": "online",
+        "count": 24
+      },
+      {
+        "tld": "app",
+        "count": 23
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1590
+      },
+      {
+        "country": "co",
+        "count": 246
+      },
+      {
+        "country": "de",
+        "count": 143
+      },
+      {
+        "country": "fr",
+        "count": 91
+      },
+      {
+        "country": "gb",
+        "count": 55
+      },
+      {
+        "country": "nl",
+        "count": 53
+      },
+      {
+        "country": "ca",
+        "count": 43
+      },
+      {
+        "country": "fi",
+        "count": 38
+      },
+      {
+        "country": "ua",
+        "count": 38
+      },
+      {
+        "country": "ir",
+        "count": 36
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-07-27",
+      "new_lost_type": "new",
+      "url_from": "https://www.beautwatc.shop/products/richard-mille-rm11-03-le-mans-classic-white-atz-ceramic-flyback-chronograph",
+      "url_to": "https://www.aviandco.com/richard-mille-le-mans-classic-white-atz-ceramic-flyback-chronograph-rm11-03",
+      "title": "Richard Mille RM11-03 Le Mans Classic White ATZ Ceramic Flyback Chronograph",
+      "anchor": "Specifications",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 19,
+      "first_seen": "2026-07-27"
+    },
+    {
+      "new_lost_date": "2026-07-27",
+      "new_lost_type": "new",
+      "url_from": "https://www.beautwatc.shop/products/richard-mille-rm11-03-le-mans-classic-white-atz-ceramic-flyback-chronograph",
+      "url_to": "https://www.aviandco.com/richard-mille-le-mans-classic-white-atz-ceramic-flyback-chronograph-rm11-03",
+      "title": "Richard Mille RM11-03 Le Mans Classic White ATZ Ceramic Flyback Chronograph",
+      "anchor": "Description",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 19,
+      "first_seen": "2026-07-27"
+    },
+    {
+      "new_lost_date": "2026-07-26",
+      "new_lost_type": "new",
+      "url_from": "https://pztfox.com/acquiring-timepieces-choices/",
+      "url_to": "https://www.aviandco.com/rolex-watches",
+      "title": "Acquiring Timepieces Choices | PZT Fox",
+      "anchor": "https://www.aviandco.com/rolex-watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-26"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://swatwik.com/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "Full Stack Developer | Magento, Shopify, React & Next.js",
+      "anchor": "www.aviandco.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": true,
+      "image_source": "https://swatwik.com/wp-content/uploads/2025/05/screencapture-flooringinc-9.png",
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 0,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://stealthatfit.com/feed/2220001",
+      "url_to": "https://www.aviandco.com/patek-philippe-calatrava-5127r-001-silver-dial-5127r-001",
+      "title": "Luxe.it.fwd Patek Philippe Calatrava 37mm Watch — Find Similar Styles | Steal That Fit",
+      "anchor": "Patek Philippe Calatrava 5127R-001, 18K Rose Gold , Silver ...",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/nautilus-5726a-moonphase-steel/",
+      "url_to": "https://www.aviandco.com/patek-philippe-nautilus-rose-gold-travel-time-chronograph-blue-dial-5990-1r-001pknt07309",
+      "title": "Nautilus 5726A MoonPhase Steel – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/nautilus-5990-1r-001-sunburst-blue-dial-travel-time-chronograph-2/",
+      "url_to": "https://www.aviandco.com/patek-philippe-nautilus-rose-gold-travel-time-chronograph-blue-dial-5990-1r-001pknt07309",
+      "title": "Nautilus 5990/1R-001 Sunburst Blue Dial Travel Time Chronograph – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/nautilus-stainless-steel-40-5mm-5726a-3/",
+      "url_to": "https://www.aviandco.com/patek-philippe-nautilus-steel-travel-time-black-dial-watch-5990-1a-001pknt07227",
+      "title": "Nautilus Stainless Steel 40.5mm 5726A – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/rm-11-03/",
+      "url_to": "https://www.aviandco.com/richard-mille-richard-mille-rm35-02-rafael-nadel-carbon-quartz-tpt-skeleton-dial-watch-rm35-02m35207009",
+      "title": "RM 11-03 – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/datejust-36-18-k-whitegold-steel-3/",
+      "url_to": "https://www.aviandco.com/rolex-datejust-36-126234-g0126234-007",
+      "title": "Datejust 36 18K Whitegold/steel – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://globalvipwatches.com/product/royal-oak-selfwinding-flying-tourbillon-ref-26530ti-oo-1220ti-01-41mm/",
+      "url_to": "https://www.aviandco.com/royal-oak-tourbillon-titanium-watch-26530ti-oo-1220ti-01apro07454",
+      "title": "Royal Oak Selfwinding Flying Tourbillon Ref. 26530TI.OO.1220TI.01 41mm",
+      "anchor": "Specifications",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://instme.com/profile/aviandco",
+      "url_to": "https://www.aviandco.com/links",
+      "title": "Aviandco Instagram Profile Analyzer | Followers, Engagement & Stats",
+      "anchor": "www.aviandco.com/links",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 50,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/perpetual-calendar-5140g-white-gold-white-dial-2/",
+      "url_to": "https://www.aviandco.com/patek-philippe-nautilus-steel-travel-time-black-dial-watch-5990-1a-001pknt07227",
+      "title": "Perpetual Calendar 5140G White Gold White Dial – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/alexander-zverev-rm67-02-2/",
+      "url_to": "https://www.aviandco.com/richard-mille-richard-mille-rm35-02-rafael-nadel-carbon-quartz-tpt-skeleton-dial-watch-rm35-02m35207009",
+      "title": "Alexander Zverev RM67-02 – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/rm-011-chronograph-rm011-aj-rg-2/",
+      "url_to": "https://www.aviandco.com/richard-mille-rm11-03-rm11-03-m11307059",
+      "title": "RM 011 Chronograph RM011 AJ RG – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-24",
+      "new_lost_type": "new",
+      "url_from": "https://chronoxp.com/product/gmt-master-ii-pepsi-16710-2/",
+      "url_to": "https://www.aviandco.com/rolex-datejust-36-126234-g0126234-007",
+      "title": "GMT-Master II “Pepsi” 126710BLRO – CHRONO XP",
+      "anchor": "Buy Now",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 11,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/24317-how-to-spot-a-counterfeit-luxury-watch-26/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "How to Spot a Counterfeit Luxury Watch | Paint Room X",
+      "anchor": "Luxury watches https://www.aviandco.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/24317-how-to-spot-a-counterfeit-luxury-watch-26/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "How to Spot a Counterfeit Luxury Watch | Paint Room X",
+      "anchor": "Learn more from this helpful source",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/25081-the-role-of-watch-repair-specialists-25/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "The Role of Watch Repair Specialists | Paint Room X",
+      "anchor": "Https://Www.Aviandco.Com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/25904-the-importance-of-authenticity-and-certification-33/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "The Importance of Authenticity and Certification | Paint Room X",
+      "anchor": "Click to explore this source",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://techlupe.com/p/hot-photos-radar-online-fall-february-2023/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "Hot Photos — See What Your Fave Celebs Are Up To This Season!",
+      "anchor": "Avi & Co.",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/25978-the-timeless-appeal-the-value-and-investment-potential-of-luxury-watches-41/",
+      "url_to": "https://www.aviandco.com/richard-mille-watches",
+      "title": "The Timeless Appeal: The Value and Investment Potential of Luxury Watches | Paint Room X",
+      "anchor": "Link URL",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/25978-the-timeless-appeal-the-value-and-investment-potential-of-luxury-watches-41/",
+      "url_to": "https://www.aviandco.com/richard-mille-watches",
+      "title": "The Timeless Appeal: The Value and Investment Potential of Luxury Watches | Paint Room X",
+      "anchor": "used richard mille watches https://www.aviandco.com/richard-mille-watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/21471-watches-selections-absolutely-are-a-great-technique-to-contact-just-about-every-second-15/",
+      "url_to": "https://www.aviandco.com/patek-philippe-watches",
+      "title": "Watches Selections Absolutely Are A Great Technique To Contact Just About Every Second | Paint Room X",
+      "anchor": "buy patek philippe watch",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/21505-which-are-the-different-kinds-of-wristwatches-men-24/",
+      "url_to": "https://www.aviandco.com/richard-mille-watches",
+      "title": "Which Are The Different Kinds Of Wristwatches Men? | Paint Room X",
+      "anchor": "More Material",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/21505-which-are-the-different-kinds-of-wristwatches-men-24/",
+      "url_to": "https://www.aviandco.com/richard-mille-watches",
+      "title": "Which Are The Different Kinds Of Wristwatches Men? | Paint Room X",
+      "anchor": "buy richard mille watch",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-23",
+      "new_lost_type": "new",
+      "url_from": "https://paintroomx.com/22307-your-browsing-guide-to-shopping-for-different-watches-46/",
+      "url_to": "https://www.aviandco.com/richard-mille-watches",
+      "title": "Your Browsing Guide To Shopping For Different Watches | Paint Room X",
+      "anchor": "source web page",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "new_lost_date": "2026-07-22",
+      "new_lost_type": "new",
+      "url_from": "https://techlupe.com/p/hot-photos-april-may-2023/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "Hot Photos — See What Your Fave Celebs Are Up To This Season",
+      "anchor": "Avi & Co.",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "new_lost_date": "2026-07-22",
+      "new_lost_type": "new",
+      "url_from": "https://pztfox.com/timepieces-males/",
+      "url_to": "https://www.aviandco.com/audemars-piguet-watches",
+      "title": "Timepieces Males | PZT Fox",
+      "anchor": "https://www.aviandco.com/audemars-piguet-watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 22,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "new_lost_date": "2026-07-22",
+      "new_lost_type": "new",
+      "url_from": "https://ghostredship.com/21106-wrist-watches-series-for-men-the-basics-of-realizing-the-different-types-of-designer-watches-57/",
+      "url_to": "https://www.aviandco.com/richard-mille-watches",
+      "title": "Wrist Watches Series For Men - The Basics Of Realizing The Different Types Of Designer Watches | Ghost Red Ship",
+      "anchor": "visit this web-site",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 20,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "new_lost_date": "2026-07-22",
+      "new_lost_type": "new",
+      "url_from": "https://yopaice.com/different-watches-for-women-thinking-about-purchase-custom-made-womens-enjoy-selections/",
+      "url_to": "https://www.aviandco.com/audemars-piguet-watches",
+      "title": "Different Watches For Women - Thinking About Purchase Custom Made Womens Enjoy Selections? | Yopa Ice",
+      "anchor": "https://Www.aviandco.com/audemars-piguet-watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 9,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "new_lost_date": "2026-07-21",
+      "new_lost_type": "new",
+      "url_from": "https://apres.thelittlenell.com/aspen-rare-timepieces/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "Where Aspen's Collectors Find Rare Timepieces in the Rockies - Après",
+      "anchor": "Avi & Co.",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 77,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "new_lost_date": "2026-07-21",
+      "new_lost_type": "new",
+      "url_from": "https://yopaice.com/a-variety-of-seiko-observe-libraries-for-both-males-and-females/",
+      "url_to": "https://www.aviandco.com/rolex-watches",
+      "title": "A Variety Of Seiko Observe Libraries For Both Males And Females | Yopa Ice",
+      "anchor": "www.aviandco.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 9,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "new_lost_date": "2026-07-21",
+      "new_lost_type": "new",
+      "url_from": "https://yopaice.com/a-variety-of-seiko-observe-libraries-for-both-males-and-females/",
+      "url_to": "https://www.aviandco.com/rolex-watches",
+      "title": "A Variety Of Seiko Observe Libraries For Both Males And Females | Yopa Ice",
+      "anchor": "visit the site",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 9,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "new_lost_date": "2026-07-20",
+      "new_lost_type": "new",
+      "url_from": "https://ametafinancegroup.com/newsletter-sign-up/",
+      "url_to": "https://www.aviandco.com/",
+      "title": "Newsletter Sign-up - AMETA Finance Group - Personal Collateral Loans",
+      "anchor": "SHOP NOW",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 36,
+      "first_seen": "2026-07-20"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-07-20",
+    "to": "2026-07-27"
+  },
+  "errors": []
+}
