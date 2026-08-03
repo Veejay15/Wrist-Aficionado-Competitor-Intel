@@ -1,0 +1,330 @@
+{
+  "fetchedAt": "2026-08-03T12:15:24.864Z",
+  "competitorId": "www-watchguynyc-com",
+  "domain": "https://www.watchguynyc.com/",
+  "topKeywords": [],
+  "backlinksSummary": {
+    "target": "watchguynyc.com",
+    "backlinks": 114729,
+    "refdomains": 2997,
+    "subnets": 1251,
+    "ips": 2137,
+    "nofollow_backlinks": 272,
+    "dofollow_backlinks": 114457,
+    "edu_backlinks": 852,
+    "gov_backlinks": 0,
+    "inlink_rank": 9,
+    "domain_inlink_rank": 50,
+    "from_home_page_backlinks": 2,
+    "dofollow_from_home_page_backlinks": 2,
+    "text_backlinks": 1369,
+    "dofollow_refdomains": 2902,
+    "from_home_page_refdomains": 1,
+    "edu_refdomains": 28,
+    "gov_refdomains": 0,
+    "anchors": 52824,
+    "dofollow_anchors": 52770,
+    "pages_with_backlinks": 10109,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "",
+        "backlinks": 748
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "",
+        "refdomains": 116
+      },
+      {
+        "anchor": "10 000 to 100 000 tagged",
+        "refdomains": 74
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Rose Gold 15454OR.GG.1259OR.03 WatchGuyNYC",
+        "refdomains": 73
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Blue Dial 26331OR.OO.D315CR.01 WatchGuyNYC",
+        "refdomains": 71
+      },
+      {
+        "anchor": "watchguynyc.com",
+        "refdomains": 50
+      },
+      {
+        "anchor": "ROLEX Pearlmaster 39 Diamond Pave Dial Pearlmaster Bracelet White",
+        "refdomains": 49
+      },
+      {
+        "anchor": "ROLEX 116234 Datejust 36 Blue Dial Gold Bezel Watch WatchGuyNYC",
+        "refdomains": 47
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Ladies 18K White Gold Diamond Watch",
+        "refdomains": 46
+      },
+      {
+        "anchor": "Audemars Piguet Custom Diamonds Watch 15400STOO1220ST01 WatchGuyNYC",
+        "refdomains": 44
+      },
+      {
+        "anchor": "watchguynyc",
+        "refdomains": 44
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "http://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN004_Audemars_Piguet_Royal_Oak_Self_Winding_41mm_Pink_Gold_Watch_5400OR.OO.1220OR.02_0_cb23246f-c7fc-465a-9dd2-a1eeea361caa_430x.jpg",
+        "backlinks": 995
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_APO72_Audemars_Piguet_Royal_Oak_41mm_Blue_Dial_Automatic_Two_Tone_Midsize_Watch_26517SR.OO.1220SR.01_1024x1024.jpg",
+        "backlinks": 935
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0416_Audemars_Piguet_26420TI.OO.A027CA.01_1024x1024.jpg",
+        "backlinks": 933
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0139_1024x1024.jpg",
+        "backlinks": 877
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN021_Audemars_Piguet_Royal_Oak_Rose_Gold_Blue_Dial_Blue_Leather_Strap_26331OROOD315CR01_3_1024x1024.jpg",
+        "backlinks": 791
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0513_AudemarsPiguetRoyalOakwhitegoldWatch15469BC.ZZ.1260BC.01_1024x1024.jpg",
+        "backlinks": 745
+      },
+      {
+        "url": "https://www.watchguynyc.com/pages/wire-transper",
+        "backlinks": 719
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0527_AudemarsPiguetRoyalOakwhitegoldWatch15551BC.ZZ.1356BC.01_1024x1024.jpg",
+        "backlinks": 716
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0332_26530PT.OO.1220PT.01_Audemars_Piguet_1024x1024.jpg",
+        "backlinks": 683
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_APLW009_Audemars_Piguet_15454OR-GG-1259OR-03_1024x1024.jpg",
+        "backlinks": 676
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "http://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN004_Audemars_Piguet_Royal_Oak_Self_Winding_41mm_Pink_Gold_Watch_5400OR.OO.1220OR.02_0_cb23246f-c7fc-465a-9dd2-a1eeea361caa_430x.jpg",
+        "refdomains": 312
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0416_Audemars_Piguet_26420TI.OO.A027CA.01_1024x1024.jpg",
+        "refdomains": 308
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_CM002_Custom_Audemars_Piguet_41mm_Diamonds_Steel_Me_s_Watch_15400ST.OO.1220ST.01_1_d69d27f1-86b1-445b-bf53-8e890dd5c9ab_300x.jpg",
+        "refdomains": 274
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN021_Audemars_Piguet_Royal_Oak_Rose_Gold_Blue_Dial_Blue_Leather_Strap_26331OROOD315CR01_3_1024x1024.jpg",
+        "refdomains": 256
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0332_26530PT.OO.1220PT.01_Audemars_Piguet_1024x1024.jpg",
+        "refdomains": 253
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0139_1024x1024.jpg",
+        "refdomains": 247
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_CM002_Custom_Audemars_Piguet_41mm_Diamonds_Steel_Me_s_Watch_15400ST.OO.1220ST.01_1_1024x1024.jpg",
+        "refdomains": 247
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/CM034_Custom-Diamond-Rolex-Datejust-41mm-Mens-Watch_126300_300x.jpg",
+        "refdomains": 242
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_RN421_Rolex_Datejust_31_Black_Diamond_Dial_Fluted_Bezel_18K_Yellow_Gold_President_Ladies_Watch_178248_1024x1024.jpg",
+        "refdomains": 242
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0513_AudemarsPiguetRoyalOakwhitegoldWatch15469BC.ZZ.1260BC.01_1024x1024.jpg",
+        "refdomains": 240
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1401
+      },
+      {
+        "tld": "org",
+        "count": 104
+      },
+      {
+        "tld": "com.br",
+        "count": 81
+      },
+      {
+        "tld": "net",
+        "count": 75
+      },
+      {
+        "tld": "shop",
+        "count": 41
+      },
+      {
+        "tld": "co.uk",
+        "count": 40
+      },
+      {
+        "tld": "in",
+        "count": 37
+      },
+      {
+        "tld": "de",
+        "count": 24
+      },
+      {
+        "tld": "ca",
+        "count": 22
+      },
+      {
+        "tld": "nl",
+        "count": 22
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1542
+      },
+      {
+        "country": "de",
+        "count": 182
+      },
+      {
+        "country": "fr",
+        "count": 95
+      },
+      {
+        "country": "co",
+        "count": 92
+      },
+      {
+        "country": "gb",
+        "count": 65
+      },
+      {
+        "country": "ua",
+        "count": 49
+      },
+      {
+        "country": "ca",
+        "count": 44
+      },
+      {
+        "country": "ir",
+        "count": 42
+      },
+      {
+        "country": "fi",
+        "count": 40
+      },
+      {
+        "country": "nl",
+        "count": 34
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-08-02",
+      "new_lost_type": "new",
+      "url_from": "https://stealthatfit.com/feed/5460108",
+      "url_to": "https://www.watchguynyc.com/products/rolex-yatch-master-42-white-gold-new-2019-model-mens-watch-226659",
+      "title": "Luxe.it.fwd Rolex Oyster Perpetual Yacht-master Date 42mm Watch — Find Similar Styles | Steal That Fit",
+      "anchor": "Rolex 226659 Yatch-master 42 White Gold New 2019 Model Mens Watch| WatchGuyNYC",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-02"
+    },
+    {
+      "new_lost_date": "2026-08-02",
+      "new_lost_type": "new",
+      "url_from": "https://stealthatfit.com/feed/5670007",
+      "url_to": "https://www.watchguynyc.com/products/rolex-submariner-date-40-black-dial-18k-yellow-gold-and-steel-mens-watch-116613ln-116613",
+      "title": "Luxe.it.fwd Rolex Oyster Perpetual Submariner Date 40mm Watch — Find Similar Styles | Steal That Fit",
+      "anchor": "ROLEX Submariner Date 40 Black Dial Gold and Steel 116613LN 116613| WatchGuyNYC",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-02"
+    },
+    {
+      "new_lost_date": "2026-07-30",
+      "new_lost_type": "new",
+      "url_from": "https://luxurywatchesworlds.com/brad-pitt-nautilus-5711/index.html",
+      "url_to": "https://www.watchguynyc.com/collections/patek-philippe",
+      "title": "Brad Pitt & Patek Philippe Nautilus 5711 Watch - Luxury Watches USA",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 0,
+      "first_seen": "2026-07-30"
+    },
+    {
+      "new_lost_date": "2026-07-29",
+      "new_lost_type": "new",
+      "url_from": "https://wristwatchfieldguide.com/watch/panerai-luminor-1950-10-days-gmt-ceramica-pam00335",
+      "url_to": "https://www.watchguynyc.com/products/panerai-luminor-1950-10-days-automatic-gmt-ceramica-44mm-black-dial-mens-watch-pam00335",
+      "title": "Panerai Luminor 1950 10 Days GMT Ceramica 44mm (PAM00335) exotic-material other | The Wristwatch Field Guide",
+      "anchor": "WatchGuyNYC spec",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 3,
+      "first_seen": "2026-07-29"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-07-27",
+    "to": "2026-08-03"
+  },
+  "errors": [
+    "keywords: SE Ranking /v1/domain/keywords failed (429): {\"message\":\"too many requests\"}"
+  ]
+}
