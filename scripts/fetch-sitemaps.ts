@@ -28,7 +28,28 @@ async function fetchCompetitor(c: Competitor): Promise<void> {
     );
     console.log(`  ✓ ${entries.length} URLs saved to ${outPath}`);
   } catch (err) {
-    console.error(`  ✗ Failed: ${(err as Error).message}`);
+    // Write a failure record rather than nothing. Previously a failed fetch left
+    // no file, the competitor silently dropped out of the diff, and the report
+    // rendered that absence as "no new pages this week". Avi & Co sat behind a
+    // Cloudflare managed challenge for three months and was reported as dormant.
+    const message = (err as Error).message;
+    const outPath = path.join(OUT_DIR, `${c.id}.json`);
+    fs.writeFileSync(
+      outPath,
+      JSON.stringify(
+        {
+          competitorId: c.id,
+          fetchedAt: new Date().toISOString(),
+          sourceUrl: c.sitemapUrl,
+          entryCount: 0,
+          entries: [],
+          fetchError: message,
+        },
+        null,
+        2
+      )
+    );
+    console.error(`  ✗ Failed: ${message} (recorded to ${outPath})`);
   }
 }
 

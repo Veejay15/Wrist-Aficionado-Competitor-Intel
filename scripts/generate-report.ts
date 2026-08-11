@@ -20,10 +20,16 @@ interface CompetitorDiff {
   removedUrls: DiffEntry[];
   updatedUrls: DiffEntry[];
 }
+interface FetchFailure {
+  competitorId: string;
+  sourceUrl: string;
+  error: string;
+}
 interface DiffData {
   date: string;
   previousDate: string | null;
   diffs: CompetitorDiff[];
+  fetchFailures?: FetchFailure[];
 }
 
 interface CsvSummary {
@@ -151,15 +157,17 @@ function trimCsvs(csvs: CsvSummary[]): CsvSummary[] {
   }));
 }
 
-// Generates sections 1-4 for a single competitor. Recommendations are handled
-// separately in generateCombinedRecommendations() after all competitors run.
+// Generates sections 1-3 (new pages, backlinks, keywords) for a single
+// competitor. No executive summary. Recommendations are handled separately in
+// generateCombinedRecommendations() after all competitors run.
 async function generateForCompetitor(
   client: Anthropic,
   competitor: Competitor,
   diff: CompetitorDiff | null,
   csvs: CsvSummary[],
   seRanking: SeRankingSnapshot | null,
-  previousDate: string | null
+  previousDate: string | null,
+  fetchFailure: FetchFailure | null
 ): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
   const { trimmed, meta } = trimDiff(diff);
   const dataPayload = {
@@ -169,6 +177,16 @@ async function generateForCompetitor(
       id: competitor.id,
       name: competitor.name,
       domain: competitor.domain,
+    },
+    // Explicit provenance so the model can tell "nothing happened" apart from
+    // "we could not look". Never remove this.
+    dataAvailability: {
+      sitemapFetchFailed: !!fetchFailure,
+      sitemapFetchError: fetchFailure?.error || null,
+      sitemapSourceUrl: fetchFailure?.sourceUrl || null,
+      seRankingAvailable: !!seRanking && !(seRanking.errors && seRanking.errors.length > 0),
+      seRankingErrors: seRanking?.errors || null,
+      csvUploaded: csvs.length > 0,
     },
     sitemapDiff: diff ? trimmed : { newUrls: [], removedUrls: [], updatedUrls: [] },
     sitemapDiffTotals: diff ? meta : null,
@@ -185,37 +203,47 @@ This report covers ONE competitor: ${competitor.name} (${competitor.domain}).
 Tone: confident, direct, no fluff. No emojis. No em dashes (use periods, commas, parentheses, or "and/but" instead).
 
 Structure:
-1. Executive Summary (2 to 4 bullet points, what this competitor did this week)
-2. New Pages Built by ${competitor.name}
-3. Backlink Movements
-4. Keyword and Ranking Changes
+1. New Pages Built by ${competitor.name}
+2. Backlink Movements
+3. Keyword and Ranking Changes
 
-Do NOT include a Section 5 or any recommendations. Recommended actions are generated separately after all competitors are analyzed.
+Do NOT write an executive summary, an overview, or any preamble before Section 1. The client reads the data sections and the weekly recommendations, not a summary of them.
+
+Do NOT include a Section 4 or any recommendations. Recommended actions are generated separately after all competitors are analyzed.
 
 =========================================
-SECTION 2: NEW PAGES BUILT
+DATA AVAILABILITY: READ THIS FIRST
+=========================================
+Absence of data is NOT evidence of absence of activity. If a data source failed or is missing, say the source failed. Never convert a data gap into a finding about the competitor.
+
+Specifically, you must NEVER write or imply any of the following when data is missing or a fetch failed: that the competitor "published nothing", "was inactive", "showed no activity", "has a static content posture", "is holding steady", or any similar characterisation of their behaviour. You did not observe their behaviour. You failed to retrieve it. Those are different things and the client must be able to tell them apart.
+
+If dataAvailability.sitemapFetchFailed is true, Section 1 must state that the sitemap could not be retrieved, quote the reason, and say that new page activity is UNKNOWN for this week. Do not speculate about what they did or did not publish.
+
+=========================================
+SECTION 1: NEW PAGES BUILT
 =========================================
 - If sitemapDiff.newUrls has entries: group URLs by brand (e.g. **Rolex**, **Patek Philippe**, **Audemars Piguet**) using bold brand headings. Under each heading, list URLs as bullet points with a one-sentence description of the inferred targeting intent based on the URL slug (e.g. "Targets pre-owned Royal Oak Offshore buyers with a specific dial variant."). If a URL does not belong to a known brand, group it under **Other**. Ignore individual single-SKU product listings — only group URLs that represent content pages, brand hubs, model guides, buying guides, or collection landing pages.
-- If sitemapDiff.newUrls is empty AND no sitemap diff is available: write "No sitemap data is available for this competitor this week. New page activity cannot be reported." and stop.
-- If sitemapDiff.newUrls is empty but sitemap data was fetched: write "${competitor.name} did not publish any notable new content pages this week."
+- If dataAvailability.sitemapFetchFailed is true: write "Sitemap retrieval FAILED for ${competitor.domain} this week, so new page activity is unknown. Reason: [quote dataAvailability.sitemapFetchError]. This is a monitoring gap on our side, not a finding about ${competitor.name}." Then stop. Do not describe their publishing behaviour in any way.
+- If sitemapDiff.newUrls is empty but the sitemap WAS fetched successfully: write "${competitor.name} did not publish any notable new content pages this week."
 
 =========================================
-SECTION 3: BACKLINK MOVEMENTS
+SECTION 2: BACKLINK MOVEMENTS
 =========================================
 - Always start with the overall backlink profile if seRanking.backlinksSummary is available: write one short paragraph covering total backlinks, referring domains, domain inlink rank, dofollow/nofollow split, and any notable anchor patterns. Label this paragraph **Overall profile (as of ${TODAY}):**
 - DOMAIN AUTHORITY FILTER (SE Ranking data): Only include backlinks from seRanking.newBacklinks where domain_inlink_rank is 30 or higher. If qualifying entries exist, output a markdown table under the bold subheading **New high-authority backlinks (domain_inlink_rank 30 or higher):** with these exact columns in this order: | Source Domain | Domain Rank | Linking Page | Target Page | Anchor | Follow | Notes |. One row per backlink, up to 15 rows. In the Notes column add brief context (e.g. "Editorial contextual link", "App Store developer link; nofollow, low SEO impact", "Community forum thread; nofollow"). If domain_inlink_rank is missing, write "—". If no entries pass the threshold, write "No high-authority backlink movements this week (all new links were below rank 30)." and do not create a table.
 - DOMAIN AUTHORITY FILTER (CSV data): If csvData has a backlinks-type entry, only include rows where Domain Authority (DA) is 30 or higher. If qualifying rows exist, output a table with columns: | Source Domain | DA | Source URL | Anchor Text | Follow | New/Lost |. If no rows pass, write "No high-authority backlink movements this week (all links were below DA 30)." and do not create a table.
 - DIRECTORY OPPORTUNITY: If a competitor gained a high-authority link from a watch directory, review site, or luxury lifestyle publication, add a sentence below the table flagging it as a potential outreach opportunity for Wrist Aficionado.
-- If no backlink data exists at all: "No backlink data available for this competitor this week."
+- If no backlink data exists at all: state that the backlink source was unavailable and quote dataAvailability.seRankingErrors if present. Do not characterise the competitor's link building as slow, flat, or unchanged.
 
 =========================================
-SECTION 4: KEYWORD AND RANKING CHANGES
+SECTION 3: KEYWORD AND RANKING CHANGES
 =========================================
 - KEYWORD FILTER: Only include keywords that mention a specific luxury watch brand (e.g. Rolex, Patek Philippe, Audemars Piguet, AP, Richard Mille, Vacheron Constantin, A. Lange, IWC, Omega, Cartier, Breguet, F.P. Journe, Jaeger-LeCoultre, Panerai, Hublot, TAG Heuer, Breitling, Grand Seiko, Tudor, Zenith) OR a specific watch model or buying intent term (e.g. Daytona, Submariner, GMT-Master, Nautilus, Royal Oak, Skydweller, Aquanaut, for sale, buy, price, reference guide, pre-owned, certified, investment, value, authentication). Remove any keyword that is generic, informational, or brand-agnostic and does not reference a specific brand, model, or buying intent. If no keywords pass this filter, write "No brand- or model-specific keyword movements this week." and do not create a table.
 - EMPTY TABLE RULE: If there are no qualifying gains, do NOT create an empty table. Write "No notable ranking gains this week." Same rule for declines.
 - If SE Ranking topKeywords data is available, produce two separate tables under bold subheadings **Notable ranking gains** and **Notable ranking declines** using position vs prev_pos to determine movement. Each table MUST have columns: | Keyword | Previous Position | Current Position | Change | Search Volume | Landing Page |. Up to 12 rows per table.
 - If csvData has a positions or keywords entry, merge it with SE Ranking data or use it as the source if SE Ranking is unavailable.
-- If no keyword data exists at all: "No keyword and ranking data available for this competitor this week."
+- If no keyword data exists at all: state that the keyword source was unavailable and quote dataAvailability.seRankingErrors if present. Do not characterise the competitor's rankings as stable or unchanged.
 
 =========================================
 STRICT ACCURACY RULES
@@ -224,7 +252,9 @@ Focus areas relevant to luxury watch SEO: brand authority pages (Rolex, Patek Ph
 
 Ignore individual product listings (single SKU pages or specific watch references with serial numbers). Focus on indexable content pages, brand hubs, model guides, blog posts, and category landing pages.
 
-Skip sections where there is no data. Do not invent data. Keep this report focused and specific to ${competitor.name} only, do not discuss other competitors.`;
+Do not invent data. Every number you write must appear in the DATA payload. Keep this report focused and specific to ${competitor.name} only, do not discuss other competitors.
+
+Do not skip a section silently. If a section has no data, say which source was unavailable and why, per the DATA AVAILABILITY rules above.`;
 
   const isBaselineRun = diff !== null && previousDate === null;
   const baselineNote = isBaselineRun
@@ -233,15 +263,16 @@ Skip sections where there is no data. Do not invent data. Keep this report focus
 
   const userPrompt = `Here is this week's data for ${competitor.name} for the report dated ${TODAY}.
 
-${diff ? '' : '(No sitemap diff available for this competitor this week.)'}
+${fetchFailure ? `(WARNING: the sitemap fetch for ${competitor.domain} FAILED this week. Reason: ${fetchFailure.error} Treat new page activity as unknown. Do not describe what this competitor did or did not publish.)` : ''}
+${!fetchFailure && !diff ? '(No sitemap diff available for this competitor this week.)' : ''}
 ${baselineNote}
 ${csvs.length === 0 ? '(No SEMrush CSV data uploaded for this competitor this week.)' : ''}
-${hasSeRanking ? '(SE Ranking API data is included: seRanking.topKeywords shows top 50 organic keywords in the US database by estimated traffic; seRanking.backlinksSummary gives total link/domain counts and top anchors/pages; seRanking.newBacklinks lists up to 40 backlinks first seen in the last 7 days.)' : '(No SE Ranking data available for this competitor this week.)'}
+${hasSeRanking ? '(SE Ranking API data is included: seRanking.topKeywords shows top 50 organic keywords in the US database by estimated traffic; seRanking.backlinksSummary gives total link/domain counts and top anchors/pages; seRanking.newBacklinks lists up to 40 backlinks first seen in the last 7 days.)' : '(SE Ranking data could NOT be retrieved this week. See dataAvailability.seRankingErrors for the reason. This is a data gap, not a finding.)'}
 
 DATA:
 ${JSON.stringify(dataPayload, null, 2)}
 
-Write sections 1-4 only in markdown. Start with a top-level H1 like "# ${competitor.name}: Week of ${TODAY}". Do not include a Section 5 or any recommended actions.`;
+Write sections 1-3 only in markdown. Start with a top-level H1 like "# ${competitor.name}: Week of ${TODAY}", then go straight into "## 1. New Pages Built". No executive summary, no overview, no preamble. Do not include a Section 4 or any recommended actions.`;
 
   const response = await client.messages.create({
     model: 'claude-sonnet-4-6',
@@ -262,7 +293,8 @@ Write sections 1-4 only in markdown. Start with a top-level H1 like "# ${competi
 }
 
 // After all per-competitor reports are generated, this produces a single
-// combined recommendations section (top 3-4 actions) appended to every report.
+// combined recommendations section (max 3 actions, each data backed and
+// completable in a week) appended to every report.
 async function generateCombinedRecommendations(
   client: Anthropic,
   competitorReports: { competitor: Competitor; markdown: string }[],
@@ -270,19 +302,32 @@ async function generateCombinedRecommendations(
 ): Promise<{ markdown: string; inputTokens: number; outputTokens: number }> {
   const competitorCount = competitorReports.length;
 
-  const systemPrompt = `You are a senior SEO analyst advising the marketing team at Wrist Aficionado, a luxury watch e-commerce and reseller platform. You have just reviewed ${competitorCount} competitor(s) this week. Your job is to select the top 3 to 4 highest-impact content actions Wrist Aficionado should take, drawn from the combined activity across ALL competitors reviewed.
+  const systemPrompt = `You are a luxury watch SEO specialist advising the marketing team at Wrist Aficionado, a luxury watch e-commerce and reseller platform competing against Bob's Watches, Avi & Co, Watches Off 5th, Luxury Time NYC, and Watch Guy NYC in the pre-owned and secondary market. You know this category: brand hierarchies, reference numbers, which models carry secondary market demand, and how buying intent differs from collector research intent.
+
+You have just reviewed ${competitorCount} competitor(s) this week. Select the THREE highest-impact actions Wrist Aficionado should take, drawn from the combined activity across ALL competitors reviewed.
 
 VOICE AND AUDIENCE RULES
-Plain English. No jargon. No data references. Tone: confident, direct, no fluff. No emojis. No em dashes.
+Plain English, written for a marketing manager who is not an SEO. Tone: confident, direct, no fluff. No emojis. No em dashes.
+
+EVERY RECOMMENDATION MUST BE BACKED BY DATA
+The client explicitly asked for the numbers behind each recommendation. Each one must cite at least one concrete figure pulled from the competitor reports below: a search volume, a ranking position or position change, or a referring domain rank. Write the figure inline, in plain language, so the client can judge the size of the opportunity without opening a tool.
+
+Only cite figures that actually appear in the competitor reports provided. Never estimate, never round up from nothing, never invent a search volume. If no figure exists anywhere in the reports to support an action, that action is not evidence based, so drop it and pick a different one. Fewer recommendations with real numbers beats three with invented ones.
 
 OUTPUT FORMAT
 - Start with this exact note on its own line in italics:
-  "*These are combined recommended actions based on a review of all ${competitorCount} competitor(s) monitored this week.*"
-- Then output exactly 3 to 4 numbered recommendations.
-- Each recommendation must follow this format:
-  "[Action]. Trigger: [which competitor did what]. Why this fits Wrist Aficionado: [the brand, model, or buying intent segment this builds on]."
+  "*Based on a review of all ${competitorCount} competitor(s) monitored this week.*"
+- Then output exactly 3 numbered recommendations. Never more than 3. If only 2 are genuinely justified by the data, output 2. If only 1, output 1.
+- Each recommendation must follow this format, with the bold labels exactly as written:
+  "[Action in one sentence].
+  **Trigger:** [which competitor did what this week].
+  **Data:** [the specific figure or figures that size the opportunity, e.g. keyword, search volume, and who ranks where].
+  **Why it matters for Wrist Aficionado:** [the gap this closes, naming the existing page or the absence of one]."
 - For a NEW page recommendation: state the proposed URL slug and confirm the topic does not already exist on Wrist Aficionado's site.
 - For an UPDATE recommendation: cite the existing Wrist Aficionado page path.
+
+EACH RECOMMENDATION MUST BE DOABLE IN ONE WEEK
+This report is weekly and the client's team executes it directly. Every recommendation must be completable by one person within a week, and must name the exact page and the exact change. Reject anything vague or open ended. "Strengthen the investment narrative", "improve internal linking", and "expand coverage" are not tasks, they are themes. "Add a 300 word 2026 market value section to /collections/rolex-daytona covering condition tiers and current pre-owned pricing" is a task. If the best idea you have is a theme rather than a task, break off the single most valuable week-sized piece of it and recommend only that.
 
 SELECTION CRITERIA - rank and keep only the actions that are:
 1. Highest signal (multiple competitors pointing to the same gap, or one unusually significant move)
@@ -374,6 +419,10 @@ async function main() {
     const diff = diffs?.diffs.find((d) => d.competitorId === competitor.id) || null;
     const csvs = csvSummaries?.summaries.filter((s) => s.competitorId === competitor.id) || [];
     const seRanking = loadSeRanking(competitor.id);
+    const fetchFailure = diffs?.fetchFailures?.find((f) => f.competitorId === competitor.id) || null;
+    if (fetchFailure) {
+      console.warn(`  ! Sitemap fetch failed for ${competitor.name}: ${fetchFailure.error}`);
+    }
 
     try {
       const result = await generateForCompetitor(
@@ -382,7 +431,8 @@ async function main() {
         diff,
         csvs,
         seRanking,
-        diffs?.previousDate || null
+        diffs?.previousDate || null,
+        fetchFailure
       );
       const filename = `${TODAY}-${competitor.id}.md`;
       const outPath = path.join(reportsDir, filename);
@@ -409,7 +459,7 @@ async function main() {
         succeededReports.map((r) => ({ competitor: r.competitor, markdown: r.markdown })),
         wristAficionadoPages
       );
-      const combinedSection = `\n\n---\n\n## 5. Recommended Actions for Wrist Aficionado\n\n${combined.markdown}`;
+      const combinedSection = `\n\n---\n\n## 4. Recommendations for the Week\n\n${combined.markdown}`;
       for (const report of succeededReports) {
         fs.appendFileSync(report.filePath, combinedSection);
       }

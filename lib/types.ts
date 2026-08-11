@@ -20,6 +20,10 @@ export interface SitemapSnapshot {
   competitorId: string;
   fetchedAt: string;
   entries: SitemapEntry[];
+  // Present only when the fetch failed. A snapshot carrying this must never be
+  // treated as "zero pages", otherwise a blocked competitor reads as one that
+  // deleted its entire site.
+  fetchError?: string;
 }
 
 export interface SitemapDiff {
@@ -27,6 +31,14 @@ export interface SitemapDiff {
   newUrls: SitemapEntry[];
   removedUrls: SitemapEntry[];
   updatedUrls: SitemapEntry[];
+}
+
+// Competitors whose sitemap could not be retrieved this week. Carried through
+// to the report so "we could not look" is never written up as "they did nothing".
+export interface SitemapFetchFailure {
+  competitorId: string;
+  sourceUrl: string;
+  error: string;
 }
 
 export interface Report {
