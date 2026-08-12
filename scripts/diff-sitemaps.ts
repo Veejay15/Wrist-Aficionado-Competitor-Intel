@@ -122,17 +122,45 @@ async function main() {
   const data: CompetitorsData = JSON.parse(fs.readFileSync(competitorsPath, 'utf-8'));
   const active = data.competitors.filter((c) => c.active);
 
-  const snapshotDates = listSnapshotDates();
   const today = TODAY;
-  const previous = snapshotDates.filter((d) => d < today).slice(-1)[0] || null;
+  const priorSitemapDates = listSnapshotDates()
+    .filter((d) => d < today)
+    .reverse();
+  const previous = priorSitemapDates[0] || null;
 
-  console.log(`Diffing sitemaps. Today: ${today}. Previous: ${previous || 'none'}\n`);
+  // Same walk-back rule as the SE Ranking baselines below. If last week's fetch
+  // failed for this competitor, that snapshot has no entries, and diffing
+  // against it would report their whole site as newly built.
+  function findSitemapBaseline(
+    competitorId: string
+  ): { date: string; entries: SitemapEntry[] } | null {
+    for (const d of priorSitemapDates) {
+      const snap = loadSnapshot(d, competitorId);
+      if (snap.entries && snap.entries.length > 0) return { date: d, entries: snap.entries };
+    }
+    return null;
+  }
+
+  console.log(`Diffing sitemaps. Today: ${today}. Most recent prior snapshot: ${previous || 'none'}\n`);
 
   const diffs: SitemapDiff[] = [];
   const fetchFailures: SitemapFetchFailure[] = [];
 
-  const seRankingDates = listSeRankingDates();
-  const previousSeRanking = seRankingDates.filter((d) => d < today).slice(-1)[0] || null;
+  // Candidate baselines, newest first. We cannot just take the most recent date:
+  // a week where the SE Ranking key was unfunded leaves an empty error stub, and
+  // diffing against that makes every page look brand new. Walk back until a date
+  // actually yields pages for this competitor.
+  const priorSeRankingDates = listSeRankingDates()
+    .filter((d) => d < today)
+    .reverse();
+
+  function findBaseline(c: Competitor): { date: string; pages: SitemapEntry[] } | null {
+    for (const d of priorSeRankingDates) {
+      const pages = loadDerivedPages(d, c);
+      if (pages) return { date: d, pages };
+    }
+    return null;
+  }
 
   for (const c of active) {
     // Competitors behind bot protection cannot be crawled. Derive their pages
@@ -149,13 +177,19 @@ async function main() {
         console.log(`✗ ${c.name}: no SE Ranking data to derive pages from`);
         continue;
       }
-      const prevPages = previousSeRanking ? loadDerivedPages(previousSeRanking, c) : null;
-      const d = diff(c.id, prevPages, currPages);
+      const baseline = findBaseline(c);
+      const d = diff(c.id, baseline ? baseline.pages : null, currPages);
       d.source = 'seranking';
       diffs.push(d);
-      console.log(
-        `${c.name} (via SE Ranking): +${d.newUrls.length} newly visible, -${d.removedUrls.length} dropped out`
-      );
+      if (!baseline) {
+        console.log(
+          `${c.name} (via SE Ranking): BASELINE RUN, no earlier usable snapshot. ${d.newUrls.length} pages are a current-footprint snapshot, not this week's activity.`
+        );
+      } else {
+        console.log(
+          `${c.name} (via SE Ranking, vs ${baseline.date}): +${d.newUrls.length} newly visible, -${d.removedUrls.length} dropped out`
+        );
+      }
       continue;
     }
 
@@ -178,12 +212,18 @@ async function main() {
       console.log(`✗ ${c.name}: no snapshot for today`);
       continue;
     }
-    const prev = previous ? loadSnapshot(previous, c.id).entries : null;
-    const d = diff(c.id, prev, curr.entries);
+    const base = findSitemapBaseline(c.id);
+    const d = diff(c.id, base ? base.entries : null, curr.entries);
     diffs.push(d);
-    console.log(
-      `${c.name}: +${d.newUrls.length} new, -${d.removedUrls.length} removed, ~${d.updatedUrls.length} updated`
-    );
+    if (!base) {
+      console.log(
+        `${c.name}: BASELINE RUN, no earlier usable snapshot. ${d.newUrls.length} URLs are a current-footprint snapshot, not this week's activity.`
+      );
+    } else {
+      console.log(
+        `${c.name} (vs ${base.date}): +${d.newUrls.length} new, -${d.removedUrls.length} removed, ~${d.updatedUrls.length} updated`
+      );
+    }
   }
 
   const outDir = path.join(ROOT, 'data', 'diffs');

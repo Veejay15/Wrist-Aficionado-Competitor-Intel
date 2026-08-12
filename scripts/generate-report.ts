@@ -339,15 +339,28 @@ OUTPUT FORMAT
   "*Based on a review of all ${competitorCount} competitor(s) monitored this week.*"
 - Then output exactly 3 numbered recommendations. Never more than 3. If only 2 are genuinely justified by the data, output 2. If only 1, output 1.
 - Each recommendation must follow this format, with the bold labels exactly as written:
-  "[Action in one sentence].
-  **Trigger:** [which competitor did what this week].
-  **Data:** [the specific figure or figures that size the opportunity, e.g. keyword, search volume, and who ranks where].
-  **Why it matters for Wrist Aficionado:** [the gap this closes, naming the existing page or the absence of one]."
-- For a NEW page recommendation: state the proposed URL slug and confirm the topic does not already exist on Wrist Aficionado's site.
-- For an UPDATE recommendation: cite the existing Wrist Aficionado page path.
+  "[Action in one short sentence, naming the exact page path].
+  **Trigger:** [which competitor did what, one clause].
+  **Data:** [figures only].
+  **Why:** [the gap this closes, one clause]."
+- For a NEW page recommendation: state the proposed URL slug. For an UPDATE: cite the existing page path.
+
+LENGTH LIMIT, THIS IS THE MOST IMPORTANT RULE
+The client asked for these to be short enough to scan in seconds. Hard cap of 45 words per recommendation, counting the labels. The whole section must come in under 150 words.
+
+Write telegraphically. No preamble, no restating the trigger inside the why, no explaining why the data matters, no hedging, no adjectives that carry no information ("significant", "strong", "clear signal"). The Data line is figures and nothing else. If a sentence would survive being deleted without losing an instruction or a number, delete it.
+
+This is the target length and density:
+
+  1. Build a Cartier Santos buying guide at /blogs/news/cartier-santos-buying-guide.
+  **Trigger:** Luxury Time NYC published one this week, Bob's Watches added 4 Santos pages.
+  **Data:** "cartier santos" 8,100/mo, Bob's moved 14 to 6, we do not rank.
+  **Why:** We have a Santos collection page, no guide.
+
+Do not write a preamble above the numbered list explaining your reasoning, your selection process, how much data was available, or how many recommendations you settled on. Start at "1." immediately after the italics note.
 
 EACH RECOMMENDATION MUST BE DOABLE IN ONE WEEK
-This report is weekly and the client's team executes it directly. Every recommendation must be completable by one person within a week, and must name the exact page and the exact change. Reject anything vague or open ended. "Strengthen the investment narrative", "improve internal linking", and "expand coverage" are not tasks, they are themes. "Add a 300 word 2026 market value section to /collections/rolex-daytona covering condition tiers and current pre-owned pricing" is a task. If the best idea you have is a theme rather than a task, break off the single most valuable week-sized piece of it and recommend only that.
+Completable by one person in a week, naming the exact page and the exact change. "Strengthen the investment narrative" and "improve internal linking" are themes, not tasks. "Add a 300 word 2026 market value section to /collections/rolex-daytona" is a task. If your best idea is a theme, break off the most valuable week-sized piece and recommend only that.
 
 SELECTION CRITERIA - rank and keep only the actions that are:
 1. Highest signal (multiple competitors pointing to the same gap, or one unusually significant move)

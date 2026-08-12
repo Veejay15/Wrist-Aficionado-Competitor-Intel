@@ -36,17 +36,26 @@ function normalise(raw: string | null | undefined, domain: string): string | nul
   } catch {
     return null;
   }
-  // Only keep URLs on the competitor's own domain.
-  const host = parsed.hostname.replace(/^www\./i, '').toLowerCase();
-  const target = domain
+  // The host exactly as configured for this competitor, www included if that is
+  // how the site actually serves. Used as the canonical display form so the URLs
+  // in the report match the competitor's real URLs.
+  const canonicalHost = domain
     .replace(/^https?:\/\//i, '')
     .replace(/\/.*$/, '')
-    .replace(/^www\./i, '')
     .toLowerCase();
+
+  // Compare with www stripped from both sides, so www and non-www match.
+  const host = parsed.hostname.replace(/^www\./i, '').toLowerCase();
+  const target = canonicalHost.replace(/^www\./i, '');
   if (host !== target) return null;
 
   if (NON_PAGE_PATTERNS.some((re) => re.test(parsed.pathname + parsed.search))) return null;
 
+  // Canonicalise so the same page cannot appear more than once. SE Ranking
+  // returns http/https and www/non-www variants of the same URL, which would
+  // otherwise show up as separate "newly visible" pages.
+  parsed.protocol = 'https:';
+  parsed.hostname = canonicalHost;
   // Drop query strings and fragments so filter/sort variants collapse to one page.
   // aviandco.com surfaces "?price=amshopby_slider_from-amshopby_slider_to" copies
   // of every collection page, which would otherwise double the inventory.
