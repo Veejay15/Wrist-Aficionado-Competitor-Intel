@@ -1,0 +1,17 @@
+{
+  "fetchedAt": "2026-08-12T02:51:56.837Z",
+  "competitorId": "watchesoff5th-com",
+  "domain": "https://watchesoff5th.com",
+  "topKeywords": [],
+  "backlinksSummary": null,
+  "newBacklinks": [],
+  "dateRange": {
+    "from": "2026-08-05",
+    "to": "2026-08-12"
+  },
+  "errors": [
+    "keywords: SE Ranking /v1/domain/keywords failed (402): {\"error_description\":\"Insufficient funds, API key is temporarily disabled. Please make a payment to enable you API key, or contact us at api@seranking.com.\"}\n",
+    "backlinks summary: SE Ranking /v1/backlinks/summary failed (402): {\"error_description\":\"Insufficient funds, API key is temporarily disabled. Please make a payment to enable you API key, or contact us at api@seranking.com.\"}\n",
+    "new backlinks: SE Ranking /v1/backlinks/history failed (402): {\"error_description\":\"Insufficient funds, API key is temporarily disabled. Please make a payment to enable you API key, or contact us at api@seranking.com.\"}\n"
+  ]
+}
