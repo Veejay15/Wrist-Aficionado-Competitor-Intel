@@ -50,7 +50,18 @@ jobs:
 
       - name: Fetch competitor sitemaps
         if: steps.check.outputs.skip != 'true'
+        env:
+          # Optional. Only needed if a paid bot-protection-solving proxy is added.
+          SCRAPE_PROXY_URL: ${{ secrets.SCRAPE_PROXY_URL }}
         run: npm run fetch:sitemaps
+
+      # Must run BEFORE the diff. Competitors whose sitemap is blocked by bot
+      # protection derive their page list from this data.
+      - name: Fetch SE Ranking data
+        if: steps.check.outputs.skip != 'true'
+        env:
+          SE_RANKING_API_KEY: ${{ secrets.SE_RANKING_API_KEY }}
+        run: npm run fetch:seranking
 
       - name: Diff sitemaps vs previous week
         if: steps.check.outputs.skip != 'true'
@@ -59,12 +70,6 @@ jobs:
       - name: Process uploaded SEMrush CSVs
         if: steps.check.outputs.skip != 'true'
         run: npm run process:csvs
-
-      - name: Fetch SE Ranking data
-        if: steps.check.outputs.skip != 'true'
-        env:
-          SE_RANKING_API_KEY: ${{ secrets.SE_RANKING_API_KEY }}
-        run: npm run fetch:seranking
 
       - name: Generate report with Claude
         if: steps.check.outputs.skip != 'true'

@@ -8,8 +8,22 @@ const parser = new XMLParser({
 
 const USER_AGENT = 'WristAficionado-CompetitorIntel/1.0 (+https://wristaficionado.com)';
 
+// Optional pass-through for sites behind bot protection that a plain fetch
+// cannot clear. Set SCRAPE_PROXY_URL to a provider endpoint containing {url},
+// e.g. https://api.example.com/v1/?api_key=KEY&render_js=true&url={url}
+// Left unset, everything fetches directly and nothing changes. Note that a
+// User-Agent swap alone does NOT get past a Cloudflare managed challenge; that
+// was tested against aviandco.com on 2026-08-11 and blocked in every variant,
+// including real headed Chrome.
+const SCRAPE_PROXY_URL = process.env.SCRAPE_PROXY_URL;
+
+function resolveFetchUrl(url: string): string {
+  if (!SCRAPE_PROXY_URL) return url;
+  return SCRAPE_PROXY_URL.replace('{url}', encodeURIComponent(url));
+}
+
 export async function fetchText(url: string): Promise<string> {
-  const res = await fetch(url, {
+  const res = await fetch(resolveFetchUrl(url), {
     headers: { 'User-Agent': USER_AGENT },
   });
   if (!res.ok) {

@@ -5,6 +5,14 @@ export interface Competitor {
   sitemapUrl: string;
   addedAt: string;
   active: boolean;
+  // How we discover this competitor's pages.
+  //   'sitemap'   (default) crawl their sitemap.xml
+  //   'seranking' derive pages from SE Ranking keyword and backlink data,
+  //               for competitors whose sitemap is blocked by bot protection
+  pageDiscovery?: 'sitemap' | 'seranking';
+  // Why the fallback is in use. Surfaced in the report so the narrower
+  // coverage is never mistaken for full sitemap coverage.
+  pageDiscoveryNote?: string;
 }
 
 export interface CompetitorsData {
@@ -31,6 +39,9 @@ export interface SitemapDiff {
   newUrls: SitemapEntry[];
   removedUrls: SitemapEntry[];
   updatedUrls: SitemapEntry[];
+  // Which discovery method produced this diff. 'seranking' diffs cover only
+  // pages that rank or attract links, so they must be reported with a caveat.
+  source?: 'sitemap' | 'seranking';
 }
 
 // Competitors whose sitemap could not be retrieved this week. Carried through

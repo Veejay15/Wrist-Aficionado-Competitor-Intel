@@ -19,6 +19,7 @@ interface CompetitorDiff {
   newUrls: DiffEntry[];
   removedUrls: DiffEntry[];
   updatedUrls: DiffEntry[];
+  source?: 'sitemap' | 'seranking';
 }
 interface FetchFailure {
   competitorId: string;
@@ -187,6 +188,8 @@ async function generateForCompetitor(
       seRankingAvailable: !!seRanking && !(seRanking.errors && seRanking.errors.length > 0),
       seRankingErrors: seRanking?.errors || null,
       csvUploaded: csvs.length > 0,
+      pageDiscovery: competitor.pageDiscovery || 'sitemap',
+      pageDiscoveryNote: competitor.pageDiscoveryNote || null,
     },
     sitemapDiff: diff ? trimmed : { newUrls: [], removedUrls: [], updatedUrls: [] },
     sitemapDiffTotals: diff ? meta : null,
@@ -196,6 +199,10 @@ async function generateForCompetitor(
 
   const hasSeRanking = !!seRanking && (seRanking.topKeywords.length > 0 || seRanking.newBacklinks.length > 0 || !!seRanking.backlinksSummary);
 
+  // True when this competitor's pages come from SE Ranking rather than their
+  // sitemap, which changes what Section 1 is allowed to claim.
+  const isDerived = competitor.pageDiscovery === 'seranking' || diff?.source === 'seranking';
+
   const systemPrompt = `You are a senior SEO analyst preparing a focused weekly competitor intelligence report for Wrist Aficionado, a luxury watch e-commerce and reseller platform.
 
 This report covers ONE competitor: ${competitor.name} (${competitor.domain}).
@@ -203,7 +210,7 @@ This report covers ONE competitor: ${competitor.name} (${competitor.domain}).
 Tone: confident, direct, no fluff. No emojis. No em dashes (use periods, commas, parentheses, or "and/but" instead).
 
 Structure:
-1. New Pages Built by ${competitor.name}
+1. ${isDerived ? `Pages Newly Visible for ${competitor.name}` : `New Pages Built by ${competitor.name}`}
 2. Backlink Movements
 3. Keyword and Ranking Changes
 
@@ -221,8 +228,21 @@ Specifically, you must NEVER write or imply any of the following when data is mi
 If dataAvailability.sitemapFetchFailed is true, Section 1 must state that the sitemap could not be retrieved, quote the reason, and say that new page activity is UNKNOWN for this week. Do not speculate about what they did or did not publish.
 
 =========================================
-SECTION 1: NEW PAGES BUILT
+SECTION 1: ${isDerived ? 'PAGES NEWLY VISIBLE' : 'NEW PAGES BUILT'}
 =========================================
+${
+  isDerived
+    ? `IMPORTANT: ${competitor.name}'s sitemap cannot be retrieved (${competitor.pageDiscoveryNote || 'blocked by bot protection'}). The URLs below are derived from SE Ranking keyword and backlink data, so they are pages that have STARTED RANKING or STARTED ATTRACTING LINKS. They are NOT a list of pages published this week, and this is NOT full coverage of their site.
+
+You must open this section with this exact caveat on its own line in italics:
+"*Sitemap access is blocked for ${competitor.domain}, so this section shows pages newly visible in ranking and backlink data rather than a complete list of pages published. A page can appear here weeks after it went live.*"
+
+Never write that ${competitor.name} "built", "published", or "launched" these pages this week. Write that the pages "became visible", "started ranking", or "picked up links". If the list is empty, say no new pages became visible in the ranking data, and do not claim they published nothing.
+
+sitemapDiff.removedUrls for this competitor does NOT mean pages were deleted. It means those pages fell out of the top keyword set or lost their links, which is normal ranking churn week to week. Never report them as removed, deleted, or taken down. Ignore removedUrls entirely for this competitor unless the drop is large and you explicitly frame it as a loss of ranking visibility.
+`
+    : ''
+}
 - If sitemapDiff.newUrls has entries: group URLs by brand (e.g. **Rolex**, **Patek Philippe**, **Audemars Piguet**) using bold brand headings. Under each heading, list URLs as bullet points with a one-sentence description of the inferred targeting intent based on the URL slug (e.g. "Targets pre-owned Royal Oak Offshore buyers with a specific dial variant."). If a URL does not belong to a known brand, group it under **Other**. Ignore individual single-SKU product listings — only group URLs that represent content pages, brand hubs, model guides, buying guides, or collection landing pages.
 - If dataAvailability.sitemapFetchFailed is true: write "Sitemap retrieval FAILED for ${competitor.domain} this week, so new page activity is unknown. Reason: [quote dataAvailability.sitemapFetchError]. This is a monitoring gap on our side, not a finding about ${competitor.name}." Then stop. Do not describe their publishing behaviour in any way.
 - If sitemapDiff.newUrls is empty but the sitemap WAS fetched successfully: write "${competitor.name} did not publish any notable new content pages this week."
@@ -272,7 +292,7 @@ ${hasSeRanking ? '(SE Ranking API data is included: seRanking.topKeywords shows 
 DATA:
 ${JSON.stringify(dataPayload, null, 2)}
 
-Write sections 1-3 only in markdown. Start with a top-level H1 like "# ${competitor.name}: Week of ${TODAY}", then go straight into "## 1. New Pages Built". No executive summary, no overview, no preamble. Do not include a Section 4 or any recommended actions.`;
+Write sections 1-3 only in markdown. Start with a top-level H1 like "# ${competitor.name}: Week of ${TODAY}", then go straight into "## 1. ${isDerived ? 'Pages Newly Visible' : 'New Pages Built'}". No executive summary, no overview, no preamble. Do not include a Section 4 or any recommended actions.`;
 
   const response = await client.messages.create({
     model: 'claude-sonnet-4-6',

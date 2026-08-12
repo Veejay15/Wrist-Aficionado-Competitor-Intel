@@ -22,7 +22,9 @@
       "domain": "https://www.aviandco.com/",
       "sitemapUrl": "https://www.aviandco.com/sitemap.xml",
       "addedAt": "2026-05-13",
-      "active": true
+      "active": true,
+      "pageDiscovery": "seranking",
+      "pageDiscoveryNote": "aviandco.com serves a Cloudflare managed challenge on every path including robots.txt, so the sitemap cannot be retrieved. Verified 2026-08-11 against plain fetch, headless Chrome and headed Chrome, all blocked. Pages are derived from SE Ranking keyword and backlink data instead, which only covers pages that already rank or attract links."
     },
     {
       "id": "luxurytimenyc-com",

@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
-import { CompetitorsData, SitemapDiff, SitemapEntry, SitemapFetchFailure } from '../lib/types';
+import { Competitor, CompetitorsData, SitemapDiff, SitemapEntry, SitemapFetchFailure } from '../lib/types';
+import { derivePagesFromSeRanking } from '../lib/page-discovery';
 
 const ROOT = process.cwd();
 const TODAY = new Date().toISOString().split('T')[0];
@@ -31,6 +32,29 @@ function loadSnapshot(date: string, competitorId: string): LoadedSnapshot {
     return { entries: null, fetchError: raw.fetchError, sourceUrl: raw.sourceUrl || null };
   }
   return { entries: raw.entries || [], fetchError: null, sourceUrl: raw.sourceUrl || null };
+}
+
+// Fallback page list for competitors whose sitemap is blocked. Returns null when
+// the SE Ranking snapshot is missing or came back empty (e.g. unfunded API key).
+// Null means "unknown", never "zero pages".
+function loadDerivedPages(date: string, c: Competitor): SitemapEntry[] | null {
+  const p = path.join(ROOT, 'data', 'seranking', date, `${c.id}.json`);
+  if (!fs.existsSync(p)) return null;
+  try {
+    const pages = derivePagesFromSeRanking(JSON.parse(fs.readFileSync(p, 'utf-8')), c.domain);
+    return pages.length > 0 ? pages : null;
+  } catch {
+    return null;
+  }
+}
+
+function listSeRankingDates(): string[] {
+  const dir = path.join(ROOT, 'data', 'seranking');
+  if (!fs.existsSync(dir)) return [];
+  return fs
+    .readdirSync(dir)
+    .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d))
+    .sort();
 }
 
 const NOISE_PATTERNS = [
@@ -107,7 +131,34 @@ async function main() {
   const diffs: SitemapDiff[] = [];
   const fetchFailures: SitemapFetchFailure[] = [];
 
+  const seRankingDates = listSeRankingDates();
+  const previousSeRanking = seRankingDates.filter((d) => d < today).slice(-1)[0] || null;
+
   for (const c of active) {
+    // Competitors behind bot protection cannot be crawled. Derive their pages
+    // from SE Ranking instead, and tag the diff so the report can say so.
+    if (c.pageDiscovery === 'seranking') {
+      const currPages = loadDerivedPages(today, c);
+      if (!currPages) {
+        fetchFailures.push({
+          competitorId: c.id,
+          sourceUrl: c.sitemapUrl,
+          error:
+            'Sitemap is blocked by bot protection and no SE Ranking data was available this week to derive pages from.',
+        });
+        console.log(`✗ ${c.name}: no SE Ranking data to derive pages from`);
+        continue;
+      }
+      const prevPages = previousSeRanking ? loadDerivedPages(previousSeRanking, c) : null;
+      const d = diff(c.id, prevPages, currPages);
+      d.source = 'seranking';
+      diffs.push(d);
+      console.log(
+        `${c.name} (via SE Ranking): +${d.newUrls.length} newly visible, -${d.removedUrls.length} dropped out`
+      );
+      continue;
+    }
+
     const curr = loadSnapshot(today, c.id);
     if (curr.fetchError) {
       fetchFailures.push({
