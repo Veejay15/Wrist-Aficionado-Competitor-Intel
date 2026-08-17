@@ -1,0 +1,2230 @@
+{
+  "fetchedAt": "2026-08-17T09:34:11.974Z",
+  "competitorId": "www-watchguynyc-com",
+  "domain": "https://www.watchguynyc.com/",
+  "topKeywords": [
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "rolex watch women",
+      "position": 20,
+      "prev_pos": 14,
+      "volume": 90500,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/ladies",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 764,
+      "traffic_percent": 1.95,
+      "price": 1016.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 23,
+      "keyword": "rolex women watch",
+      "position": 23,
+      "prev_pos": 29,
+      "volume": 49500,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/ladies",
+      "difficulty": 67,
+      "total_sites": null,
+      "traffic": 761,
+      "traffic_percent": 1.94,
+      "price": 1308.92,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 21,
+      "keyword": "rolex for women",
+      "position": 21,
+      "prev_pos": 23,
+      "volume": 74000,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/ladies",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 738,
+      "traffic_percent": 1.88,
+      "price": 981.54,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "watch store near me",
+      "position": 4,
+      "prev_pos": 3,
+      "volume": 40500,
+      "cpc": 0.77,
+      "competition": 0.97,
+      "url": "https://www.watchguynyc.com/pages/stores",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 610,
+      "traffic_percent": 1.55,
+      "price": 469.7,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 22,
+      "keyword": "women's rolex",
+      "position": 22,
+      "prev_pos": 26,
+      "volume": 60500,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/ladies",
+      "difficulty": 64,
+      "total_sites": null,
+      "traffic": 550,
+      "traffic_percent": 1.4,
+      "price": 731.5,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 24,
+      "keyword": "rolex day date",
+      "position": 24,
+      "prev_pos": null,
+      "volume": 40500,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex-day-date-36mm",
+      "difficulty": 82,
+      "total_sites": null,
+      "traffic": 528,
+      "traffic_percent": 1.34,
+      "price": 702.24,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 26,
+      "keyword": "womens rolex",
+      "position": 25,
+      "prev_pos": 28,
+      "volume": 90500,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/ladies",
+      "difficulty": 67,
+      "total_sites": null,
+      "traffic": 452,
+      "traffic_percent": 1.15,
+      "price": 601.16,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 22,
+      "keyword": "rolex datejust",
+      "position": 22,
+      "prev_pos": null,
+      "volume": 49500,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex-datejust-41mm",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 434,
+      "traffic_percent": 1.11,
+      "price": 577.22,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 9,
+      "keyword": "rolex near me",
+      "position": 9,
+      "prev_pos": 5,
+      "volume": 40500,
+      "cpc": 0.81,
+      "competition": 0.54,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 357,
+      "traffic_percent": 0.91,
+      "price": 289.17,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "breitling",
+      "position": 4,
+      "prev_pos": 9,
+      "volume": 74000,
+      "cpc": 0.34,
+      "competition": 0.96,
+      "url": "https://www.watchguynyc.com/collections/breitling",
+      "difficulty": 87,
+      "total_sites": null,
+      "traffic": 314,
+      "traffic_percent": 0.8,
+      "price": 106.76,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "knowledge_graph",
+        "twitter",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 23,
+      "keyword": "rolex yacht-master",
+      "position": 23,
+      "prev_pos": 20,
+      "volume": 14800,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex-yacht-master",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 238,
+      "traffic_percent": 0.61,
+      "price": 316.54,
+      "serp_features": [
+        "reviews",
+        "video",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 23,
+      "keyword": "rolex for sale",
+      "position": 23,
+      "prev_pos": 21,
+      "volume": 20100,
+      "cpc": 0.19,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex",
+      "difficulty": 61,
+      "total_sites": null,
+      "traffic": 218,
+      "traffic_percent": 0.56,
+      "price": 41.42,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 16,
+      "keyword": "diamond watch",
+      "position": 16,
+      "prev_pos": 19,
+      "volume": 8100,
+      "cpc": 0.67,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/diamond-watches",
+      "difficulty": 51,
+      "total_sites": null,
+      "traffic": 213,
+      "traffic_percent": 0.54,
+      "price": 142.71,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "digital_complaints",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "rolex lady",
+      "position": 17,
+      "prev_pos": null,
+      "volume": 40500,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/ladies",
+      "difficulty": 68,
+      "total_sites": null,
+      "traffic": 183,
+      "traffic_percent": 0.47,
+      "price": 243.39,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "used luxury watches",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 1300,
+      "cpc": 0.29,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/certified-pre-owned-watches",
+      "difficulty": 57,
+      "total_sites": null,
+      "traffic": 175,
+      "traffic_percent": 0.45,
+      "price": 50.75,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "watch store",
+      "position": 9,
+      "prev_pos": 14,
+      "volume": 27800,
+      "cpc": 0.58,
+      "competition": 0.53,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 53,
+      "total_sites": null,
+      "traffic": 175,
+      "traffic_percent": 0.45,
+      "price": 101.5,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "pink rolex",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 5700,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/color-pink",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 164,
+      "traffic_percent": 0.42,
+      "price": 218.12,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 21,
+      "keyword": "jaeger lecoultre",
+      "position": 20,
+      "prev_pos": null,
+      "volume": 40500,
+      "cpc": 0.19,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/vendors?q=jaeger-lecoultre",
+      "difficulty": 85,
+      "total_sites": null,
+      "traffic": 156,
+      "traffic_percent": 0.4,
+      "price": 29.64,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 24,
+      "keyword": "watch with diamonds",
+      "position": 24,
+      "prev_pos": null,
+      "volume": 12100,
+      "cpc": 0.67,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/diamond-watches",
+      "difficulty": 65,
+      "total_sites": null,
+      "traffic": 156,
+      "traffic_percent": 0.4,
+      "price": 104.52,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "blue face rolex",
+      "position": 2,
+      "prev_pos": 3,
+      "volume": 2400,
+      "cpc": 1.7,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/color-ice-blue",
+      "difficulty": 45,
+      "total_sites": null,
+      "traffic": 153,
+      "traffic_percent": 0.39,
+      "price": 260.1,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 15,
+      "keyword": "rolleks",
+      "position": 15,
+      "prev_pos": 15,
+      "volume": 18100,
+      "cpc": 0.74,
+      "competition": 0.93,
+      "url": "https://www.watchguynyc.com/collections/rolex",
+      "difficulty": 94,
+      "total_sites": null,
+      "traffic": 148,
+      "traffic_percent": 0.38,
+      "price": 109.52,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 26,
+      "keyword": "yacht master",
+      "position": 26,
+      "prev_pos": 26,
+      "volume": 10800,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex-yacht-master",
+      "difficulty": 74,
+      "total_sites": null,
+      "traffic": 144,
+      "traffic_percent": 0.37,
+      "price": 191.52,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "watch guy",
+      "position": 2,
+      "prev_pos": 1,
+      "volume": 3600,
+      "cpc": 0.35,
+      "competition": 0.87,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 58,
+      "total_sites": null,
+      "traffic": 143,
+      "traffic_percent": 0.36,
+      "price": 50.05,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "twitter",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 25,
+      "keyword": "watch store near me",
+      "position": 24,
+      "prev_pos": 24,
+      "volume": 40500,
+      "cpc": 0.77,
+      "competition": 0.97,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 141,
+      "traffic_percent": 0.36,
+      "price": 108.57,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": "sge",
+      "block_position": 1,
+      "keyword": "watch guy",
+      "position": 1,
+      "prev_pos": null,
+      "volume": 3600,
+      "cpc": 0.35,
+      "competition": 0.87,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 58,
+      "total_sites": null,
+      "traffic": 141,
+      "traffic_percent": 0.36,
+      "price": 49.35,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "twitter",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 15,
+      "keyword": "presidential rolex",
+      "position": 15,
+      "prev_pos": null,
+      "volume": 27800,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex-day-date",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 139,
+      "traffic_percent": 0.35,
+      "price": 184.87,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 15,
+      "keyword": "guy watch",
+      "position": 14,
+      "prev_pos": 13,
+      "volume": 27800,
+      "cpc": 0.53,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/watch",
+      "difficulty": 91,
+      "total_sites": null,
+      "traffic": 122,
+      "traffic_percent": 0.31,
+      "price": 64.66,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "digital_complaints",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 12,
+      "keyword": "watches near me",
+      "position": 10,
+      "prev_pos": 7,
+      "volume": 22400,
+      "cpc": 0.43,
+      "competition": 0.99,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 57,
+      "total_sites": null,
+      "traffic": 121,
+      "traffic_percent": 0.31,
+      "price": 52.03,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 26,
+      "keyword": "womens rolex watch",
+      "position": 25,
+      "prev_pos": 17,
+      "volume": 27800,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/ladies",
+      "difficulty": 72,
+      "total_sites": null,
+      "traffic": 119,
+      "traffic_percent": 0.3,
+      "price": 158.27,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "used watches",
+      "position": 20,
+      "prev_pos": 41,
+      "volume": 8000,
+      "cpc": 0.16,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 118,
+      "traffic_percent": 0.3,
+      "price": 18.88,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 16,
+      "keyword": "rolex ladies",
+      "position": 15,
+      "prev_pos": null,
+      "volume": 22400,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/ladies",
+      "difficulty": 65,
+      "total_sites": null,
+      "traffic": 114,
+      "traffic_percent": 0.29,
+      "price": 151.62,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "rolex dealer near me",
+      "position": 6,
+      "prev_pos": 4,
+      "volume": 6600,
+      "cpc": 1.33,
+      "competition": 0.94,
+      "url": "https://www.watchguynyc.com/collections/rolex",
+      "difficulty": 51,
+      "total_sites": null,
+      "traffic": 114,
+      "traffic_percent": 0.29,
+      "price": 151.62,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 13,
+      "keyword": "oyster perpetual rolex",
+      "position": 13,
+      "prev_pos": 15,
+      "volume": 8000,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex-oyster-perpetual",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 113,
+      "traffic_percent": 0.29,
+      "price": 150.29,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 23,
+      "keyword": "rolex sky dweller",
+      "position": 22,
+      "prev_pos": null,
+      "volume": 22400,
+      "cpc": 1.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/unworn/rolex-sky-dweller",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 109,
+      "traffic_percent": 0.28,
+      "price": 144.97,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 26,
+      "keyword": "rolex submariner black",
+      "position": 26,
+      "prev_pos": null,
+      "volume": 8000,
+      "cpc": 0.27,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex-black-pvd",
+      "difficulty": 46,
+      "total_sites": null,
+      "traffic": 109,
+      "traffic_percent": 0.28,
+      "price": 29.43,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 13,
+      "keyword": "rolex authorized dealer",
+      "position": 13,
+      "prev_pos": 7,
+      "volume": 8100,
+      "cpc": 1.64,
+      "competition": 0.41,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 106,
+      "traffic_percent": 0.27,
+      "price": 173.84,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 28,
+      "keyword": "audemars piguet royal oak",
+      "position": 28,
+      "prev_pos": null,
+      "volume": 9900,
+      "cpc": 0.64,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/audemars-piguet-royal-oak-39mm",
+      "difficulty": 63,
+      "total_sites": null,
+      "traffic": 102,
+      "traffic_percent": 0.26,
+      "price": 65.28,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "twitter",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "black milgauss rolex",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 590,
+      "cpc": 0.39,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/products/custom-rolex-black-pvd-milgauss-black-dial-domed-bezel-green-crystal-black-boc-coating-oyster-bracelet-unisex-watch-116400gv-new-york",
+      "difficulty": 5,
+      "total_sites": null,
+      "traffic": 102,
+      "traffic_percent": 0.26,
+      "price": 39.78,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 15,
+      "keyword": "rolex datejust 36mm",
+      "position": 15,
+      "prev_pos": null,
+      "volume": 6600,
+      "cpc": 0.26,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex-datejust-36mm",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 101,
+      "traffic_percent": 0.26,
+      "price": 26.26,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 17,
+      "keyword": "rolex dealer near me",
+      "position": 17,
+      "prev_pos": 19,
+      "volume": 6600,
+      "cpc": 1.33,
+      "competition": 0.94,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 51,
+      "total_sites": null,
+      "traffic": 100,
+      "traffic_percent": 0.25,
+      "price": 133,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "used rolex for sale",
+      "position": 10,
+      "prev_pos": 10,
+      "volume": 10800,
+      "cpc": 0.2,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/certified-pre-owned-watches/rolex",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 99,
+      "traffic_percent": 0.25,
+      "price": 19.8,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "green rolex",
+      "position": 18,
+      "prev_pos": null,
+      "volume": 6600,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/color-olive-green",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 96,
+      "traffic_percent": 0.24,
+      "price": 165.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 23,
+      "keyword": "rolex green",
+      "position": 23,
+      "prev_pos": 29,
+      "volume": 9900,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/color-olive-green",
+      "difficulty": 47,
+      "total_sites": null,
+      "traffic": 96,
+      "traffic_percent": 0.24,
+      "price": 165.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "panerai watch",
+      "position": 20,
+      "prev_pos": 27,
+      "volume": 33100,
+      "cpc": 0.25,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/panerai",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 93,
+      "traffic_percent": 0.24,
+      "price": 23.25,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "diamond watch bezels",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 590,
+      "cpc": 0.33,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/custom-diamonds-bezels",
+      "difficulty": 6,
+      "total_sites": null,
+      "traffic": 93,
+      "traffic_percent": 0.24,
+      "price": 30.69,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": "gmb",
+      "block_position": 69,
+      "keyword": "watchguys",
+      "position": 67,
+      "prev_pos": 72,
+      "volume": 910,
+      "cpc": 0.35,
+      "competition": 0.87,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 14,
+      "total_sites": null,
+      "traffic": 92,
+      "traffic_percent": 0.23,
+      "price": 32.2,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "twitter",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "watch near me",
+      "position": 9,
+      "prev_pos": 13,
+      "volume": 10800,
+      "cpc": 0.44,
+      "competition": 0.95,
+      "url": "https://www.watchguynyc.com/",
+      "difficulty": 63,
+      "total_sites": null,
+      "traffic": 91,
+      "traffic_percent": 0.23,
+      "price": 40.04,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 15,
+      "keyword": "chopard watch",
+      "position": 15,
+      "prev_pos": 18,
+      "volume": 12100,
+      "cpc": 0.54,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/chopard",
+      "difficulty": 77,
+      "total_sites": null,
+      "traffic": 87,
+      "traffic_percent": 0.22,
+      "price": 46.98,
+      "serp_features": [
+        "reviews",
+        "images",
+        "twitter",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rolex watch with light blue face",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 590,
+      "cpc": 1.72,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/rolex/color-ice-blue",
+      "difficulty": 5,
+      "total_sites": null,
+      "traffic": 86,
+      "traffic_percent": 0.22,
+      "price": 147.92,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "patek watch",
+      "position": 20,
+      "prev_pos": 45,
+      "volume": 18700,
+      "cpc": 0.35,
+      "competition": 1,
+      "url": "https://www.watchguynyc.com/collections/patek-philippe",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 85,
+      "traffic_percent": 0.22,
+      "price": 29.75,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    }
+  ],
+  "backlinksSummary": {
+    "target": "watchguynyc.com",
+    "backlinks": 114607,
+    "refdomains": 2979,
+    "subnets": 1236,
+    "ips": 2115,
+    "nofollow_backlinks": 280,
+    "dofollow_backlinks": 114327,
+    "edu_backlinks": 851,
+    "gov_backlinks": 0,
+    "inlink_rank": 9,
+    "domain_inlink_rank": 51,
+    "from_home_page_backlinks": 2,
+    "dofollow_from_home_page_backlinks": 2,
+    "text_backlinks": 1374,
+    "dofollow_refdomains": 2882,
+    "from_home_page_refdomains": 1,
+    "edu_refdomains": 27,
+    "gov_refdomains": 0,
+    "anchors": 52755,
+    "dofollow_anchors": 52701,
+    "pages_with_backlinks": 10069,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "",
+        "backlinks": 744
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "",
+        "refdomains": 109
+      },
+      {
+        "anchor": "10 000 to 100 000 tagged",
+        "refdomains": 74
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Rose Gold 15454OR.GG.1259OR.03 WatchGuyNYC",
+        "refdomains": 72
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Blue Dial 26331OR.OO.D315CR.01 WatchGuyNYC",
+        "refdomains": 71
+      },
+      {
+        "anchor": "watchguynyc.com",
+        "refdomains": 50
+      },
+      {
+        "anchor": "ROLEX Pearlmaster 39 Diamond Pave Dial Pearlmaster Bracelet White",
+        "refdomains": 49
+      },
+      {
+        "anchor": "ROLEX 116234 Datejust 36 Blue Dial Gold Bezel Watch WatchGuyNYC",
+        "refdomains": 47
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Ladies 18K White Gold Diamond Watch",
+        "refdomains": 45
+      },
+      {
+        "anchor": "Audemars Piguet Custom Diamonds Watch 15400STOO1220ST01 WatchGuyNYC",
+        "refdomains": 44
+      },
+      {
+        "anchor": "watchguynyc",
+        "refdomains": 44
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "http://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN004_Audemars_Piguet_Royal_Oak_Self_Winding_41mm_Pink_Gold_Watch_5400OR.OO.1220OR.02_0_cb23246f-c7fc-465a-9dd2-a1eeea361caa_430x.jpg",
+        "backlinks": 994
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_APO72_Audemars_Piguet_Royal_Oak_41mm_Blue_Dial_Automatic_Two_Tone_Midsize_Watch_26517SR.OO.1220SR.01_1024x1024.jpg",
+        "backlinks": 935
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0416_Audemars_Piguet_26420TI.OO.A027CA.01_1024x1024.jpg",
+        "backlinks": 933
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0139_1024x1024.jpg",
+        "backlinks": 875
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN021_Audemars_Piguet_Royal_Oak_Rose_Gold_Blue_Dial_Blue_Leather_Strap_26331OROOD315CR01_3_1024x1024.jpg",
+        "backlinks": 791
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0513_AudemarsPiguetRoyalOakwhitegoldWatch15469BC.ZZ.1260BC.01_1024x1024.jpg",
+        "backlinks": 745
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0527_AudemarsPiguetRoyalOakwhitegoldWatch15551BC.ZZ.1356BC.01_1024x1024.jpg",
+        "backlinks": 715
+      },
+      {
+        "url": "https://www.watchguynyc.com/pages/wire-transper",
+        "backlinks": 714
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0332_26530PT.OO.1220PT.01_Audemars_Piguet_1024x1024.jpg",
+        "backlinks": 683
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_APLW009_Audemars_Piguet_15454OR-GG-1259OR-03_1024x1024.jpg",
+        "backlinks": 675
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "http://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN004_Audemars_Piguet_Royal_Oak_Self_Winding_41mm_Pink_Gold_Watch_5400OR.OO.1220OR.02_0_cb23246f-c7fc-465a-9dd2-a1eeea361caa_430x.jpg",
+        "refdomains": 311
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0416_Audemars_Piguet_26420TI.OO.A027CA.01_1024x1024.jpg",
+        "refdomains": 308
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_CM002_Custom_Audemars_Piguet_41mm_Diamonds_Steel_Me_s_Watch_15400ST.OO.1220ST.01_1_d69d27f1-86b1-445b-bf53-8e890dd5c9ab_300x.jpg",
+        "refdomains": 274
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN021_Audemars_Piguet_Royal_Oak_Rose_Gold_Blue_Dial_Blue_Leather_Strap_26331OROOD315CR01_3_1024x1024.jpg",
+        "refdomains": 256
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0332_26530PT.OO.1220PT.01_Audemars_Piguet_1024x1024.jpg",
+        "refdomains": 253
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_CM002_Custom_Audemars_Piguet_41mm_Diamonds_Steel_Me_s_Watch_15400ST.OO.1220ST.01_1_1024x1024.jpg",
+        "refdomains": 247
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0139_1024x1024.jpg",
+        "refdomains": 246
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/CM034_Custom-Diamond-Rolex-Datejust-41mm-Mens-Watch_126300_300x.jpg",
+        "refdomains": 242
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_RN421_Rolex_Datejust_31_Black_Diamond_Dial_Fluted_Bezel_18K_Yellow_Gold_President_Ladies_Watch_178248_1024x1024.jpg",
+        "refdomains": 242
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0513_AudemarsPiguetRoyalOakwhitegoldWatch15469BC.ZZ.1260BC.01_1024x1024.jpg",
+        "refdomains": 240
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1396
+      },
+      {
+        "tld": "org",
+        "count": 102
+      },
+      {
+        "tld": "com.br",
+        "count": 80
+      },
+      {
+        "tld": "net",
+        "count": 75
+      },
+      {
+        "tld": "shop",
+        "count": 41
+      },
+      {
+        "tld": "co.uk",
+        "count": 39
+      },
+      {
+        "tld": "in",
+        "count": 36
+      },
+      {
+        "tld": "de",
+        "count": 24
+      },
+      {
+        "tld": "nl",
+        "count": 22
+      },
+      {
+        "tld": "ca",
+        "count": 21
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1539
+      },
+      {
+        "country": "de",
+        "count": 179
+      },
+      {
+        "country": "fr",
+        "count": 94
+      },
+      {
+        "country": "co",
+        "count": 91
+      },
+      {
+        "country": "gb",
+        "count": 65
+      },
+      {
+        "country": "ua",
+        "count": 47
+      },
+      {
+        "country": "ca",
+        "count": 44
+      },
+      {
+        "country": "ir",
+        "count": 42
+      },
+      {
+        "country": "fi",
+        "count": 40
+      },
+      {
+        "country": "nl",
+        "count": 34
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-08-17",
+      "new_lost_type": "new",
+      "url_from": "https://www.xiafeiboutique.com/products/p2",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Mens Watch 5968G-001",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 16,
+      "first_seen": "2026-08-17"
+    },
+    {
+      "new_lost_date": "2026-08-17",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-chronograph-41mm-blue-dial-stainless-steel-watch-26331st-oo-1220st-01/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak Chronograph 41mm Blue Dial Stainless Steel Watch 263b31ST.OO.1220ST.01 DCM – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-17"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-37mm-blue-dial-automatic-18k-yellow-gold-ladies-watch-15450ba-oo-1256ba-01/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 37mm Blue Dial Automatic 18K Yellow Gold Watch 15450BA.OO.1256BA.02 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-37mm-blue-dial-automatic-mens-watch-15450st-oo-1256st-03/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 37mm Blue Dial Automatic Men’s Watch 15450ST.OO.1256ST.03 – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-37mm-grey-ruthenium-toned-dial-diamond-stainless-steel-watch-15451st-zz-1256st-02/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 37mm Grey ruthenium-toned Dial Diamond Stainless Steel Watch 15451ST.ZZ.1256ST.02 – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-41mm-black-dial-stainless-steel-bracelet-mens-watch-15400st-oo-1220st-01/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 41mm Black Dial Stainless Steel Bracelet Men’s Watch 15400ST.OO.1220ST.01 DCM – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-41mm-black-dial-stainless-steel-bracelet-mens-watch-26331st-oo-1220st-02/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 41mm Black Dial Stainless Steel Bracelet Men’s Watch 26331ST.OO.1220ST.02 DCM – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-41mm-blue-dial-stainless-steel-bracelet-mens-watch-26331st-oo-1220st-01/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 41mm Blue Dial Stainless Steel Bracelet Men’s Watch 26331ST.OO.1220ST.01 DCM – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-brown-dial-ladies-18kt-pink-gold-watch-67650or-oo-1261or-01/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "AUDEMARS PIGUET Royal Oak Brown Dial Ladies 18kt Pink Gold Watch 67650OR.OO.1261OR.01 – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-offshore-champagne-dial-rose-gold-26470or-oo-a002cr-01/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak Offshore Champagne Dial Rose Gold 26470OR.OO.A002CR.01 – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-automatic-rose-gold-5268-200r-5268-200r-001/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Automatic Rose Gold 5268/200R 5268-200R-001 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-watch-5168g-010/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Khaki Green Dial Watch 5168G-010 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-41mm-blue-dial-stainless-steel-bracelet-mens-watch-15400st-oo-1220st-03/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 41mm Blue Dial Stainless Steel Bracelet Men’s Watch 15400ST.OO.1220ST.03 DCM – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-41mm-silver-toned-dial-stainless-steel-bracelet-mens-watch-15400st-oo-1220st-02/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 41mm Silver-toned Dial Stainless Steel Bracelet Men’s Watch 15400ST.OO.1220ST.02 DCM – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-offshore-chronograph-41mm-pink-gold-watch-26320or-oo-d088cr-01/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak Offshore Chronograph 41 Pink Gold Watch 26320OR.OO.D088CR.01 DCM – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-offshore-chronograph-watches-26401ro-oo-a002ca-01-new-york/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak Offshore Chronograph Watches 26401RO.OO.A002CA.01 – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-luce-haute-joaillerie-ladies-watch-model-5072r-001/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Luce Haute Joaillerie Ladies Watch Model 5072R-001 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-nautilus-custom-diamonds-5980-1ar-001-new-york/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Nautilus Custom Diamonds 5980/1AR-001 – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-offshore-black-chronograph-dial-ceramic-watch-26405ceooa002ca02/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak Offshore Black Chronograph Dial Ceramic Watch 26405CE.OO.A002CA.02 – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-diamond-bezel-5062-450r/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Luce Haute Joaillerie Diamond Bezel 5062/450R – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-automatic-rose-gold-5269-200r-001/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Luce Automatic Rose Gold 5269/200R-001 5269/200R – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-quartz-diamond-brown-dial-ladies-watch-5067a-023/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Quartz Diamond Brown Dial Ladies Watch 5067A-023 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-watch-5267-200a-010/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Watch 5267/200A-010 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-royal-oak-33mm-diamond-set-dial-diamond-white-gold-diamond-ladies-67654bc-zz-1264bc-01/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Royal Oak 33mm Diamond set Dial Diamond White Gold Diamond Ladies 67654BC.ZZ.1264BC.01 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/audemars-piguet-prestige-sports-collection-royal-oak-offshore-chronograph-watch-26170st-oo-1000st-01-new-york/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Audemars Piguet Prestige Sports Collection Royal Oak Offshore Chronograph Watch 26170ST.OO.1000ST.01 – Velmora Wolf",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-calatrava-ladies-hand-wound-watch-4897g-010/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Calatrava Ladies Hand Wound Watch 4897G-010 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-5167-300g-010/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Diamond Bezel 5167/300G-010 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-16",
+      "new_lost_type": "new",
+      "url_from": "https://velmorawolf.com/product/pp-aquanaut-mens-watch-5968g-010-model/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Patek Philippe Aquanaut Khaki Green Mens Watch 5968G-010 – Velmora Wolf",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-16"
+    },
+    {
+      "new_lost_date": "2026-08-13",
+      "new_lost_type": "new",
+      "url_from": "https://rankbaron.nyc/little-neck/jewelry/watchguynyc",
+      "url_to": "https://www.watchguynyc.com/",
+      "title": "WatchGuyNYC — Jewelry in Little Neck Queens NYC | RankBaron",
+      "anchor": "https://www.watchguynyc.com/",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-13"
+    },
+    {
+      "new_lost_date": "2026-08-11",
+      "new_lost_type": "new",
+      "url_from": "https://advancedhealthylifestyleshop.shop/index.php/product/rolex-datejust-31-black-mother-of-pearl-jubilee-diamond-dial-diamond-bezel-jubilee-yellow-gold-two-tone-watch-178383/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Rolex Datejust 31 Black mother-of-pearl Jubilee Diamond Dial Diamond Bezel Jubilee Yellow Gold Two Tone Watch 178383 – Rolex Day-Date",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-11"
+    },
+    {
+      "new_lost_date": "2026-08-11",
+      "new_lost_type": "new",
+      "url_from": "https://advancedhealthylifestyleshop.shop/index.php/product/rolex-datejust-31-black-mother-of-pearl-diamond-dial-diamond-bezel-jubilee-yellow-gold-two-tone-watch-178383/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Rolex Datejust 31 Black mother-of-pearl Diamond Dial Diamond Bezel Jubilee Yellow Gold Two Tone Watch 178383 – Rolex Day-Date",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-11"
+    },
+    {
+      "new_lost_date": "2026-08-10",
+      "new_lost_type": "new",
+      "url_from": "https://advancedhealthylifestyleshop.shop/index.php/product/datejust-31-white-mother-of-pearl-roman-large-vi-set-with-diamond-dial-diamond-bezel-18k-rose-gold-two-tone-ladies-watch-178341/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Datejust 31 White Mother of Pearl Roman Large VI set with Diamond Dial Diamond Bezel 18K Rose Gold Two Tone Ladies Watch 178341 – Rolex Day-Date",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-10"
+    },
+    {
+      "new_lost_date": "2026-08-10",
+      "new_lost_type": "new",
+      "url_from": "https://advancedhealthylifestyleshop.shop/index.php/product/rolex-datejust-31-white-mother-of-pearl-diamond-dial-diamond-bezel-jubilee-yellow-gold-two-tone-watch-178383/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Rolex Datejust 31 White mother-of-pearl Diamond Dial Diamond Bezel Jubilee Yellow Gold Two Tone Watch 178383 – Rolex Day-Date",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-10"
+    },
+    {
+      "new_lost_date": "2026-08-10",
+      "new_lost_type": "new",
+      "url_from": "https://advancedhealthylifestyleshop.shop/index.php/product/datejust-31-white-mother-of-pearl-diamond-dial-diamond-bezel-18k-white-gold-president-ladies-watch-278289rbr/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "Datejust 31 White mother-of-pearl Diamond Dial Diamond Bezel 18K White Gold President Ladies Watch 278289RBR – Rolex Day-Date",
+      "anchor": "Wire Transfer Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-08-10"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-08-10",
+    "to": "2026-08-17"
+  },
+  "errors": []
+}
