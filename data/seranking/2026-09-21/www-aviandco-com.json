@@ -1,0 +1,300 @@
+{
+  "fetchedAt": "2026-09-21T15:32:51.509Z",
+  "competitorId": "www-aviandco-com",
+  "domain": "https://www.aviandco.com/",
+  "topKeywords": [],
+  "backlinksSummary": {
+    "target": "aviandco.com",
+    "backlinks": 48692,
+    "refdomains": 2785,
+    "subnets": 1216,
+    "ips": 2088,
+    "nofollow_backlinks": 1370,
+    "dofollow_backlinks": 47322,
+    "edu_backlinks": 510,
+    "gov_backlinks": 1,
+    "inlink_rank": 16,
+    "domain_inlink_rank": 62,
+    "from_home_page_backlinks": 11,
+    "dofollow_from_home_page_backlinks": 8,
+    "text_backlinks": 3951,
+    "dofollow_refdomains": 2314,
+    "from_home_page_refdomains": 8,
+    "edu_refdomains": 55,
+    "gov_refdomains": 1,
+    "anchors": 25136,
+    "dofollow_anchors": 24922,
+    "pages_with_backlinks": 3201,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "Buy Now",
+        "backlinks": 612
+      },
+      {
+        "anchor": "Audemars Piguet s Most Collected Watch The Royal Oak",
+        "backlinks": 508
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 15551OR 18K Rose Gold Diamond Bezel Blue",
+        "backlinks": 287
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "Audemars Piguet s Most Collected Watch The Royal Oak",
+        "refdomains": 120
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak",
+        "refdomains": 86
+      },
+      {
+        "anchor": "aviandco.com",
+        "refdomains": 80
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 15551OR 18K Rose Gold Diamond Bezel Blue",
+        "refdomains": 60
+      },
+      {
+        "anchor": "TG @BHS_LINKS - BEST SEO LINKS - https://t.me/bhs_links",
+        "refdomains": 60
+      },
+      {
+        "anchor": "https://www.aviandco.com/rolex-watches",
+        "refdomains": 55
+      },
+      {
+        "anchor": "https://www.aviandco.com/richard-mille-watches",
+        "refdomains": 55
+      },
+      {
+        "anchor": "Audemars Piguet Watches Your 1 Source Avi Co",
+        "refdomains": 49
+      },
+      {
+        "anchor": "Pre owned Richard Mille Watches Why You Should Buy Them",
+        "refdomains": 47
+      },
+      {
+        "anchor": "https://www.aviandco.com/audemars-piguet-watches",
+        "refdomains": 46
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_4.jpg",
+        "backlinks": 2722
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/catalog/product/1/5/15551or.zz.1356or.jpg",
+        "backlinks": 1998
+      },
+      {
+        "url": "https://www.aviandco.com/",
+        "backlinks": 728
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/catalog/product/a/p/ap_royal_oak_15202ba_gold-1_1.jpg",
+        "backlinks": 472
+      },
+      {
+        "url": "https://www.aviandco.com/richard-mille-watches",
+        "backlinks": 460
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/AP_Offshore.jpg",
+        "backlinks": 385
+      },
+      {
+        "url": "https://www.aviandco.com/rolex-watches",
+        "backlinks": 361
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_9.jpg",
+        "backlinks": 352
+      },
+      {
+        "url": "https://www.aviandco.com/media/wysiwyg/6-_1__1.jpg",
+        "backlinks": 342
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_new2.jpg",
+        "backlinks": 317
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_4.jpg",
+        "refdomains": 568
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/catalog/product/1/5/15551or.zz.1356or.jpg",
+        "refdomains": 274
+      },
+      {
+        "url": "https://www.aviandco.com/",
+        "refdomains": 235
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_new2.jpg",
+        "refdomains": 208
+      },
+      {
+        "url": "https://www.aviandco.com/richard-mille-watches",
+        "refdomains": 205
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_9.jpg",
+        "refdomains": 189
+      },
+      {
+        "url": "https://www.aviandco.com/media/wysiwyg/6-_1__1.jpg",
+        "refdomains": 186
+      },
+      {
+        "url": "https://www.aviandco.com/media/magefan_blog/1_11.jpg",
+        "refdomains": 184
+      },
+      {
+        "url": "https://www.aviandco.com/pub/media/catalog/product/a/p/ap_concept_26228bc.ss.d314cr.01.jpg",
+        "refdomains": 166
+      },
+      {
+        "url": "https://www.aviandco.com/rolex-watches",
+        "refdomains": 163
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1348
+      },
+      {
+        "tld": "org",
+        "count": 83
+      },
+      {
+        "tld": "net",
+        "count": 72
+      },
+      {
+        "tld": "com.br",
+        "count": 53
+      },
+      {
+        "tld": "edu",
+        "count": 44
+      },
+      {
+        "tld": "co.uk",
+        "count": 30
+      },
+      {
+        "tld": "site",
+        "count": 26
+      },
+      {
+        "tld": "in",
+        "count": 24
+      },
+      {
+        "tld": "app",
+        "count": 23
+      },
+      {
+        "tld": "online",
+        "count": 23
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1411
+      },
+      {
+        "country": "co",
+        "count": 242
+      },
+      {
+        "country": "de",
+        "count": 128
+      },
+      {
+        "country": "fr",
+        "count": 79
+      },
+      {
+        "country": "nl",
+        "count": 47
+      },
+      {
+        "country": "gb",
+        "count": 47
+      },
+      {
+        "country": "ir",
+        "count": 35
+      },
+      {
+        "country": "ca",
+        "count": 34
+      },
+      {
+        "country": "ua",
+        "count": 34
+      },
+      {
+        "country": "fi",
+        "count": 32
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-09-18",
+      "new_lost_type": "new",
+      "url_from": "https://india.entrepreneur.com/lifestyle/how-digitalization-helped-this-luxury-brand-to-thrive/362463",
+      "url_to": "https://www.aviandco.com/",
+      "title": "How Digitalization Helped This Luxury Brand To Thrive During COVID-19",
+      "anchor": "Avi and Co.",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 96,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "new_lost_date": "2026-09-14",
+      "new_lost_type": "new",
+      "url_from": "http://quotesblom.com/all/333/3.html",
+      "url_to": "https://aviandco.com/",
+      "title": "🏆🏆Boost your Google rankings with Premium PBN & Link Building🏆🏆",
+      "anchor": "High Quality Dofollow Backlinks DA 50 PA 40 Premium PBN Network Service aviandco.com Rank First Page Google Fast SEO Link Building Buy Backlinks Online Cheap",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 3,
+      "first_seen": "2026-09-14"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-09-14",
+    "to": "2026-09-21"
+  },
+  "errors": [
+    "keywords: SE Ranking /v1/domain/keywords failed (429): {\"message\":\"too many requests\"}"
+  ]
+}
