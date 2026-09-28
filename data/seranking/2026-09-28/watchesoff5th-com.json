@@ -1,0 +1,478 @@
+{
+  "fetchedAt": "2026-09-28T17:13:59.181Z",
+  "competitorId": "watchesoff5th-com",
+  "domain": "https://watchesoff5th.com",
+  "topKeywords": [],
+  "backlinksSummary": {
+    "target": "watchesoff5th.com",
+    "backlinks": 114088,
+    "refdomains": 1946,
+    "subnets": 919,
+    "ips": 1488,
+    "nofollow_backlinks": 117,
+    "dofollow_backlinks": 113971,
+    "edu_backlinks": 620,
+    "gov_backlinks": 19,
+    "inlink_rank": 6,
+    "domain_inlink_rank": 34,
+    "from_home_page_backlinks": 1,
+    "dofollow_from_home_page_backlinks": 1,
+    "text_backlinks": 271,
+    "dofollow_refdomains": 1878,
+    "from_home_page_refdomains": 1,
+    "edu_refdomains": 20,
+    "gov_refdomains": 5,
+    "anchors": 50420,
+    "dofollow_anchors": 50366,
+    "pages_with_backlinks": 3997,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "",
+        "backlinks": 4
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Chronograph Rose Gold",
+        "refdomains": 59
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Double Balance Wheel Openwork Stainless",
+        "refdomains": 50
+      },
+      {
+        "anchor": "watchesoff5th.com",
+        "refdomains": 50
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Jumbo Men s Audemars Piguet",
+        "refdomains": 49
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 37mm Skeleton Rose Gold Double",
+        "refdomains": 47
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak 37mm Skeleton Rose Gold Double Balance W WatchesOff5th",
+        "refdomains": 46
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Men s Watches Royal Oak WatchesOff5th",
+        "refdomains": 45
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Chronograph 41mm Rose Gold Green Dial",
+        "refdomains": 45
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Men s Watches Royal Oak",
+        "refdomains": 45
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Chronograph Rose Gold Chocolat WatchesOff5th",
+        "refdomains": 44
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "http://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-chronograph-41-mm-blue-dial-ref-26240oroo1320or05-927482.jpg",
+        "backlinks": 1944
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-stainless-steel-blue-dial-ref15500stoo1220st01-141830_800x.jpg",
+        "backlinks": 1812
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-18k-rose-gold-brown-dial-rose-gold-sub-dials-ref26331oroo1220or02-989987_800x.jpg",
+        "backlinks": 1638
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-rose-gold-and-steel-white-dial-37mm-ladies-watch-reference-15450sroo1256sr01-266772_800x.jpg",
+        "backlinks": 1374
+      },
+      {
+        "url": "http://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-chronograph-41mm-rose-gold-green-dial-26240oroo1320or08-575645.jpg",
+        "backlinks": 1354
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-rose-gold-chocolate-dial-rose-gold-sub-dials-ref26331orood821cr01-823004_800x.jpg",
+        "refdomains": 330
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-rose-gold-and-steel-white-dial-37mm-ladies-watch-reference-15450sroo1256sr01-266772_800x.jpg",
+        "refdomains": 285
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-stainless-steel-blue-dial-ref15500stoo1220st01-141830_800x.jpg",
+        "refdomains": 277
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-41mm-stainless-steel-blue-dial-15510stoo1320st06-910454_800x.jpg",
+        "refdomains": 258
+      },
+      {
+        "url": "https://watchesoff5th.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-18k-rose-gold-brown-dial-rose-gold-sub-dials-ref26331oroo1220or02-989987_800x.jpg",
+        "refdomains": 256
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 881
+      },
+      {
+        "tld": "org",
+        "count": 75
+      },
+      {
+        "tld": "com.br",
+        "count": 51
+      },
+      {
+        "tld": "net",
+        "count": 51
+      },
+      {
+        "tld": "co.uk",
+        "count": 29
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 936
+      },
+      {
+        "country": "de",
+        "count": 122
+      },
+      {
+        "country": "co",
+        "count": 61
+      },
+      {
+        "country": "fr",
+        "count": 60
+      },
+      {
+        "country": "gb",
+        "count": 51
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-09-26",
+      "new_lost_type": "new",
+      "url_from": "https://www.leremontoir.fr/marques/rolex/rolex-perpetual-padellone-specifications-references-et-prix-de-lancement",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-perpetual-padellone",
+      "title": "Rolex Perpetual Padellone : pourquoi elle compte vraiment",
+      "anchor": "Lire sur watchesoff5th.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "new_lost_date": "2026-09-26",
+      "new_lost_type": "new",
+      "url_from": "https://rolexopedia.net/wiki/Reference:126718GRNR",
+      "url_to": "https://watchesoff5th.com/blogs/videos/rolex-gmt-master-ii-126718grnr-tiger-iron-dial-review",
+      "title": "Rolex GMT-Master II 126718GRNR, yellow gold, 2023–present | Rolexopedia",
+      "anchor": "Rolex 126718GRNR Review, Tiger Iron Dial GMT-Master II in Yellow Gold",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-09-26"
+    },
+    {
+      "new_lost_date": "2026-09-25",
+      "new_lost_type": "new",
+      "url_from": "https://www.leremontoir.fr/marques/vacheron-constantin/vacheron-constantin-devoile-deux-nouvelles-overseas-automatic-de-34-5-mm",
+      "url_to": "https://watchesoff5th.com/blogs/videos/vacheron-overseas-4600v-200a-overview",
+      "title": "Vacheron Constantin Overseas 34,5 mm : prix et détails",
+      "anchor": "watchesoff5th.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-09-25"
+    },
+    {
+      "new_lost_date": "2026-09-25",
+      "new_lost_type": "new",
+      "url_from": "https://freebeacon.com/democrats/abdul-el-sayed-wears-luxury-watches-worth-thousands-while-campaigning-against-the-wealthy/",
+      "url_to": "https://watchesoff5th.com/products/rolex-submariner-no-date-black-dial-no-date-124060",
+      "title": "Abdul El-Sayed Wears Luxury Watches Worth Thousands While Campaigning Against the Wealthy",
+      "anchor": "costs",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 24,
+      "domain_inlink_rank": 88,
+      "first_seen": "2026-09-25"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-patek-release-a-steel-nautilus-reference-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/patek-new-watches-2026",
+      "title": "Will Patek release a steel Nautilus reference this year | Octagon",
+      "anchor": "[4]",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-rolex-release-a-new-reference-in-titanium-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-new-models-2026",
+      "title": "Will Rolex release a new reference in titanium this | Octagon",
+      "anchor": "1 watchesoff5th.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-rolex-release-a-new-reference-in-titanium-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-new-models-2026",
+      "title": "Will Rolex release a new reference in titanium this | Octagon",
+      "anchor": "4 watchesoff5th.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-rolex-release-a-new-reference-in-titanium-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-new-models-2026",
+      "title": "Will Rolex release a new reference in titanium this | Octagon",
+      "anchor": "[4]",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-rolex-release-a-new-reference-in-titanium-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-new-models-2026",
+      "title": "Will Rolex release a new reference in titanium this | Octagon",
+      "anchor": "[1]",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-rolex-release-a-steel-gmt-master-ii-with-a-black-and-red-bezel-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-new-models-2026",
+      "title": "Will Rolex release a steel GMT-Master II with a black… | Octagon",
+      "anchor": "5 Every New Rolex 2026: 58 New References, Full Prices, Specs – WatchesOff5th watchesoff5th.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-rolex-release-a-steel-gmt-master-ii-with-a-black-and-red-bezel-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-new-models-2026",
+      "title": "Will Rolex release a steel GMT-Master II with a black… | Octagon",
+      "anchor": "1 watchesoff5th.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-rolex-release-a-steel-gmt-master-ii-with-a-black-and-red-bezel-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-new-models-2026",
+      "title": "Will Rolex release a steel GMT-Master II with a black… | Octagon",
+      "anchor": "[5]",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-rolex-release-a-steel-gmt-master-ii-with-a-black-and-red-bezel-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/rolex-new-models-2026",
+      "title": "Will Rolex release a steel GMT-Master II with a black… | Octagon",
+      "anchor": "[1]",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-24",
+      "new_lost_type": "new",
+      "url_from": "https://www.octagonai.co/markets/companies/product-launches/will-patek-release-a-steel-nautilus-reference-this-year/",
+      "url_to": "https://watchesoff5th.com/blogs/news/patek-new-watches-2026",
+      "title": "Will Patek release a steel Nautilus reference this year | Octagon",
+      "anchor": "4 Every New Patek Philippe 2026: 19 Refs incl. Nautilus 50th – WatchesOff5th watchesoff5th.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 48,
+      "first_seen": "2026-09-24"
+    },
+    {
+      "new_lost_date": "2026-09-23",
+      "new_lost_type": "new",
+      "url_from": "https://vericog.io/watch-references/rolex/126713grnr",
+      "url_to": "https://watchesoff5th.com/products/rolex-gmt-master-ii-new-release-2023-126713grnr",
+      "title": "Rolex GMT-Master II 126713GRNR: Specs & Market Signals | Vericog",
+      "anchor": "Source: Watches Off 5th ↗",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-09-23"
+    },
+    {
+      "new_lost_date": "2026-09-21",
+      "new_lost_type": "new",
+      "url_from": "https://aurorastudiohn.com/tg-seo-linkk-order-seo-backlinks-homepage-links-2-9/",
+      "url_to": "https://watchesoff5th.com/products/richard-mille-rm-67-02-automatic-extra-flat-wayde-van-niekerk?srsltid=AfmBOorRzPBwTYvOs3-uu8MZu6q_BRf_NL2XHORGKN6sL9AwE9iRLTj-",
+      "title": "TG @SEO_LINKK_ORDER – SEO BACKLINKS, HOMEPAGE LINKS, CROSSLINKS – Aurora Studio",
+      "anchor": "TG @SEO_LINKK_ORDER – SEO BACKLINKS, HOMEPAGE LINKS, CROSSLINKS",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 15,
+      "first_seen": "2026-09-21"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-09-21",
+    "to": "2026-09-28"
+  },
+  "errors": [
+    "keywords: SE Ranking /v1/domain/keywords failed (429): {\"message\":\"too many requests\"}"
+  ]
+}
