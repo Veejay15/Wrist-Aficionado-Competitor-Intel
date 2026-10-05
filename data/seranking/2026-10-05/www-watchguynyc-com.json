@@ -1,0 +1,748 @@
+{
+  "fetchedAt": "2026-10-05T17:39:27.378Z",
+  "competitorId": "www-watchguynyc-com",
+  "domain": "https://www.watchguynyc.com/",
+  "topKeywords": [],
+  "backlinksSummary": {
+    "target": "watchguynyc.com",
+    "backlinks": 97437,
+    "refdomains": 2535,
+    "subnets": 1106,
+    "ips": 1836,
+    "nofollow_backlinks": 278,
+    "dofollow_backlinks": 97159,
+    "edu_backlinks": 682,
+    "gov_backlinks": 0,
+    "inlink_rank": 11,
+    "domain_inlink_rank": 52,
+    "from_home_page_backlinks": 2,
+    "dofollow_from_home_page_backlinks": 2,
+    "text_backlinks": 1131,
+    "dofollow_refdomains": 2453,
+    "from_home_page_refdomains": 1,
+    "edu_refdomains": 15,
+    "gov_refdomains": 0,
+    "anchors": 48338,
+    "dofollow_anchors": 48243,
+    "pages_with_backlinks": 9450,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "",
+        "backlinks": 525
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "Audemars Piguet Royal Oak Rose Gold 15454OR.GG.1259OR.03 WatchGuyNYC",
+        "refdomains": 65
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Blue Dial 26331OR.OO.D315CR.01 WatchGuyNYC",
+        "refdomains": 60
+      },
+      {
+        "anchor": "10 000 to 100 000 tagged",
+        "refdomains": 59
+      },
+      {
+        "anchor": "",
+        "refdomains": 54
+      },
+      {
+        "anchor": "watchguynyc.com",
+        "refdomains": 48
+      },
+      {
+        "anchor": "Audemars Piguet Custom Diamonds Watch 15400STOO1220ST01 WatchGuyNYC",
+        "refdomains": 41
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Ladies 18K White Gold Diamond Watch",
+        "refdomains": 38
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Chronograph Blue Diamond Baguette",
+        "refdomains": 38
+      },
+      {
+        "anchor": "ROLEX Pearlmaster 39 Diamond Pave Dial Pearlmaster Bracelet White",
+        "refdomains": 37
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Offshore 44 Ceramic Rose Gold 26405NR.OO",
+        "refdomains": 33
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "http://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN004_Audemars_Piguet_Royal_Oak_Self_Winding_41mm_Pink_Gold_Watch_5400OR.OO.1220OR.02_0_cb23246f-c7fc-465a-9dd2-a1eeea361caa_430x.jpg",
+        "backlinks": 909
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_APO72_Audemars_Piguet_Royal_Oak_41mm_Blue_Dial_Automatic_Two_Tone_Midsize_Watch_26517SR.OO.1220SR.01_1024x1024.jpg",
+        "backlinks": 879
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0416_Audemars_Piguet_26420TI.OO.A027CA.01_1024x1024.jpg",
+        "backlinks": 853
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0139_1024x1024.jpg",
+        "backlinks": 788
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN021_Audemars_Piguet_Royal_Oak_Rose_Gold_Blue_Dial_Blue_Leather_Strap_26331OROOD315CR01_3_1024x1024.jpg",
+        "backlinks": 708
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0513_AudemarsPiguetRoyalOakwhitegoldWatch15469BC.ZZ.1260BC.01_1024x1024.jpg",
+        "backlinks": 706
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0527_AudemarsPiguetRoyalOakwhitegoldWatch15551BC.ZZ.1356BC.01_1024x1024.jpg",
+        "backlinks": 644
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0332_26530PT.OO.1220PT.01_Audemars_Piguet_1024x1024.jpg",
+        "backlinks": 627
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_APLW009_Audemars_Piguet_15454OR-GG-1259OR-03_1024x1024.jpg",
+        "backlinks": 617
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_APO14_Audemars_Piguet_Royal_Oak_Lady_33_MM_Silver-toned_Dial_Diamond_Yellow_Gold_Ladies_67651BA.ZZ.1261BA.01_1024x1024.jpg",
+        "backlinks": 613
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0416_Audemars_Piguet_26420TI.OO.A027CA.01_1024x1024.jpg",
+        "refdomains": 269
+      },
+      {
+        "url": "http://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN004_Audemars_Piguet_Royal_Oak_Self_Winding_41mm_Pink_Gold_Watch_5400OR.OO.1220OR.02_0_cb23246f-c7fc-465a-9dd2-a1eeea361caa_430x.jpg",
+        "refdomains": 265
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_CM002_Custom_Audemars_Piguet_41mm_Diamonds_Steel_Me_s_Watch_15400ST.OO.1220ST.01_1_d69d27f1-86b1-445b-bf53-8e890dd5c9ab_300x.jpg",
+        "refdomains": 239
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0332_26530PT.OO.1220PT.01_Audemars_Piguet_1024x1024.jpg",
+        "refdomains": 230
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/AP0139_1024x1024.jpg",
+        "refdomains": 221
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_CM002_Custom_Audemars_Piguet_41mm_Diamonds_Steel_Me_s_Watch_15400ST.OO.1220ST.01_1_1024x1024.jpg",
+        "refdomains": 221
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_AN021_Audemars_Piguet_Royal_Oak_Rose_Gold_Blue_Dial_Blue_Leather_Strap_26331OROOD315CR01_3_1024x1024.jpg",
+        "refdomains": 218
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/files/AP0513_AudemarsPiguetRoyalOakwhitegoldWatch15469BC.ZZ.1260BC.01_1024x1024.jpg",
+        "refdomains": 215
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/CM034_Custom-Diamond-Rolex-Datejust-41mm-Mens-Watch_126300_300x.jpg",
+        "refdomains": 212
+      },
+      {
+        "url": "https://www.watchguynyc.com/cdn/shop/products/WatchGuyNYC_APLW009_Audemars_Piguet_15454OR-GG-1259OR-03_1024x1024.jpg",
+        "refdomains": 203
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1185
+      },
+      {
+        "tld": "org",
+        "count": 91
+      },
+      {
+        "tld": "com.br",
+        "count": 73
+      },
+      {
+        "tld": "net",
+        "count": 67
+      },
+      {
+        "tld": "co.uk",
+        "count": 36
+      },
+      {
+        "tld": "in",
+        "count": 32
+      },
+      {
+        "tld": "de",
+        "count": 22
+      },
+      {
+        "tld": "nl",
+        "count": 19
+      },
+      {
+        "tld": "pl",
+        "count": 19
+      },
+      {
+        "tld": "dev",
+        "count": 18
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1255
+      },
+      {
+        "country": "de",
+        "count": 151
+      },
+      {
+        "country": "co",
+        "count": 86
+      },
+      {
+        "country": "fr",
+        "count": 77
+      },
+      {
+        "country": "gb",
+        "count": 61
+      },
+      {
+        "country": "ir",
+        "count": 40
+      },
+      {
+        "country": "fi",
+        "count": 38
+      },
+      {
+        "country": "ua",
+        "count": 38
+      },
+      {
+        "country": "ca",
+        "count": 36
+      },
+      {
+        "country": "nl",
+        "count": 30
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://storeleads.app/reports/shopify/app/whatsapp-sharing",
+      "url_to": "https://www.watchguynyc.com/",
+      "title": "Ctx: WhatsApp Chat + Marketing Shopify App",
+      "anchor": "www.watchguynyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 8,
+      "domain_inlink_rank": 87,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/it/product/pp-aquanaut-watch-5267-200a-011-2/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-011 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/ru/product/pp-aquanaut-watch-5267-200a-011/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-011 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/fr/product/pp-aquanaut-watch-5267-200a-010-6/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-010 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/nl/product/pp-aquanaut-watch-5267-200a-011-8/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-011 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/ru/product/pp-aquanaut-watch-5267-200a-010-2/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-010 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/de/product/pp-aquanaut-watch-5267-200a-010-4/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-010 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/de/product/pp-aquanaut-watch-5267-200a-011-4/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-011 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/it/product/pp-aquanaut-watch-5267-200a-010-3/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-010 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/da/product/pp-aquanaut-watch-5267-200a-010-5/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-010 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/nl/product/pp-aquanaut-watch-5267-200a-010-8/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-010 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/product/pp-aquanaut-mens-watch-5968g-001-3/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Mens Watch 5968G-001 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/ru/product/pp-aquanaut-mens-watch-5968g-001/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Mens Watch 5968G-001 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/da/product/pp-aquanaut-watch-5267-200a-011-5/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-011 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/fr/product/pp-aquanaut-watch-5267-200a-011-6/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-011 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/sv/product/pp-aquanaut-watch-5267-200a-010-7/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-010 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-04",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/sv/product/pp-aquanaut-watch-5267-200a-011-7/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-011 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-04"
+    },
+    {
+      "new_lost_date": "2026-10-03",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/product/pp-aquanaut-watch-5267-200a-011-3/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-011 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-03"
+    },
+    {
+      "new_lost_date": "2026-10-03",
+      "new_lost_type": "new",
+      "url_from": "https://repbags.ru/product/pp-aquanaut-watch-5267-200a-010/",
+      "url_to": "https://www.watchguynyc.com/pages/wire-transper",
+      "title": "PP Aquanaut Watch 5267/200A-010 - Replica Bags",
+      "anchor": null,
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-10-03"
+    },
+    {
+      "new_lost_date": "2026-10-02",
+      "new_lost_type": "new",
+      "url_from": "https://sitecity.org/b/watchguynyc-new-york",
+      "url_to": "https://www.watchguynyc.com/",
+      "title": "Watchguynyc – 62 W 47th St Ste 1108a, New York, NY",
+      "anchor": "Visit website",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 3,
+      "first_seen": "2026-10-02"
+    },
+    {
+      "new_lost_date": "2026-10-02",
+      "new_lost_type": "new",
+      "url_from": "https://sitecity.org/b/watchguynyc-new-york",
+      "url_to": "https://www.watchguynyc.com/",
+      "title": "Watchguynyc – 62 W 47th St Ste 1108a, New York, NY",
+      "anchor": "www.watchguynyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 3,
+      "first_seen": "2026-10-02"
+    },
+    {
+      "new_lost_date": "2026-10-02",
+      "new_lost_type": "new",
+      "url_from": "https://sitecity.org/b/watchguynyc-new-york",
+      "url_to": "https://www.watchguynyc.com/",
+      "title": "Watchguynyc – 62 W 47th St Ste 1108a, New York, NY",
+      "anchor": "their website",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 3,
+      "first_seen": "2026-10-02"
+    },
+    {
+      "new_lost_date": "2026-09-29",
+      "new_lost_type": "new",
+      "url_from": "https://www.stackdex.io/stores/using/appointments-and-bookings",
+      "url_to": "https://watchguynyc.com/",
+      "title": "Stores Using Easy Appointment Booking App - Find Easy Appointment Booking App Customers | StackDex | StackDex",
+      "anchor": "Visit",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 6,
+      "first_seen": "2026-09-29"
+    },
+    {
+      "new_lost_date": "2026-09-29",
+      "new_lost_type": "new",
+      "url_from": "https://www.stackdex.io/stores/using/appointments-and-bookings",
+      "url_to": "https://watchguynyc.com/",
+      "title": "Stores Using Easy Appointment Booking App - Find Easy Appointment Booking App Customers | StackDex | StackDex",
+      "anchor": "watchguynyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 6,
+      "first_seen": "2026-09-29"
+    },
+    {
+      "new_lost_date": "2026-09-29",
+      "new_lost_type": "new",
+      "url_from": "https://www.stackdex.io/apps/chatix-livechat-marketing-automations/stack",
+      "url_to": "https://watchguynyc.com/",
+      "title": "Apps Used With Ctx: WhatsApp Chat + Marketing - Common Tech Stacks | StackDex",
+      "anchor": "watchguynyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 6,
+      "first_seen": "2026-09-29"
+    },
+    {
+      "new_lost_date": "2026-09-29",
+      "new_lost_type": "new",
+      "url_from": "https://ecomapps.store/app/free-watermarks/reviews",
+      "url_to": "https://www.watchguynyc.com/",
+      "title": "What merchants say about Easy Watermarks | Engage – 297 reviews with sources · EcomApps",
+      "anchor": "www.watchguynyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-09-29"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-09-28",
+    "to": "2026-10-05"
+  },
+  "errors": [
+    "keywords: SE Ranking /v1/domain/keywords failed (429): {\"message\":\"too many requests\"}"
+  ]
+}
