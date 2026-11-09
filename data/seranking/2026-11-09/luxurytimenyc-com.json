@@ -1,0 +1,2698 @@
+{
+  "fetchedAt": "2026-11-09T19:24:38.419Z",
+  "competitorId": "luxurytimenyc-com",
+  "domain": "https://luxurytimenyc.com/",
+  "topKeywords": [
+    {
+      "block_type": null,
+      "block_position": 12,
+      "keyword": "rolex watches",
+      "position": 12,
+      "prev_pos": 12,
+      "volume": 165000,
+      "cpc": 1.13,
+      "competition": 0.99,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 72,
+      "total_sites": null,
+      "traffic": 2116,
+      "traffic_percent": 8.14,
+      "price": 2391.08,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "luxury watches for men",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 33100,
+      "cpc": 1.11,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 65,
+      "total_sites": null,
+      "traffic": 1781,
+      "traffic_percent": 6.85,
+      "price": 1976.91,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "luxury watches",
+      "position": 19,
+      "prev_pos": 19,
+      "volume": 246000,
+      "cpc": 0.88,
+      "competition": 0.72,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 66,
+      "total_sites": null,
+      "traffic": 1393,
+      "traffic_percent": 5.36,
+      "price": 1225.84,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "rolex near me",
+      "position": 8,
+      "prev_pos": 8,
+      "volume": 40500,
+      "cpc": 0.77,
+      "competition": 0.49,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 61,
+      "total_sites": null,
+      "traffic": 398,
+      "traffic_percent": 1.53,
+      "price": 306.46,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 27,
+      "keyword": "rolex datejust",
+      "position": 27,
+      "prev_pos": 27,
+      "volume": 60500,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust",
+      "difficulty": 82,
+      "total_sites": null,
+      "traffic": 359,
+      "traffic_percent": 1.38,
+      "price": 405.67,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "luxury watch brands",
+      "position": 5,
+      "prev_pos": 5,
+      "volume": 27100,
+      "cpc": 0.95,
+      "competition": 0.95,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 68,
+      "total_sites": null,
+      "traffic": 343,
+      "traffic_percent": 1.32,
+      "price": 325.85,
+      "serp_features": [
+        "reviews",
+        "people_also_ask",
+        "sge",
+        "related_searches",
+        "image_in_block"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 17,
+      "keyword": "luxury watch",
+      "position": 15,
+      "prev_pos": 15,
+      "volume": 368000,
+      "cpc": 0.88,
+      "competition": 0.72,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 70,
+      "total_sites": null,
+      "traffic": 332,
+      "traffic_percent": 1.28,
+      "price": 292.16,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "find_results_on",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 11,
+      "keyword": "watch store near me",
+      "position": 10,
+      "prev_pos": 10,
+      "volume": 40500,
+      "cpc": 0.82,
+      "competition": 0.96,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 61,
+      "total_sites": null,
+      "traffic": 321,
+      "traffic_percent": 1.24,
+      "price": 263.22,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 15,
+      "keyword": "richard mille watches",
+      "position": 15,
+      "prev_pos": 15,
+      "volume": 96200,
+      "cpc": 0.05,
+      "competition": 0.99,
+      "url": "https://luxurytimenyc.com/collections/richard-mille",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 306,
+      "traffic_percent": 1.18,
+      "price": 15.3,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 16,
+      "keyword": "rolex watches for sale",
+      "position": 16,
+      "prev_pos": 16,
+      "volume": 20100,
+      "cpc": 0.22,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 66,
+      "total_sites": null,
+      "traffic": 262,
+      "traffic_percent": 1.01,
+      "price": 57.64,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "datejust 41",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 4400,
+      "cpc": 0.82,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/41-mm",
+      "difficulty": 49,
+      "total_sites": null,
+      "traffic": 222,
+      "traffic_percent": 0.85,
+      "price": 182.04,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 10,
+      "keyword": "richard mille",
+      "position": 10,
+      "prev_pos": 10,
+      "volume": 110000,
+      "cpc": 0.08,
+      "competition": 0.92,
+      "url": "https://luxurytimenyc.com/collections/richard-mille",
+      "difficulty": 81,
+      "total_sites": null,
+      "traffic": 201,
+      "traffic_percent": 0.77,
+      "price": 16.08,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "rolex blue",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 5400,
+      "cpc": 1.71,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex/blue",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 201,
+      "traffic_percent": 0.77,
+      "price": 343.71,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "watch expensive",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 5400,
+      "cpc": 0.84,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 193,
+      "traffic_percent": 0.74,
+      "price": 162.12,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 12,
+      "keyword": "rolex gmt",
+      "position": 12,
+      "prev_pos": 12,
+      "volume": 18100,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/gmt-master-ii",
+      "difficulty": 75,
+      "total_sites": null,
+      "traffic": 186,
+      "traffic_percent": 0.72,
+      "price": 210.18,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 9,
+      "keyword": "rolex presidential",
+      "position": 9,
+      "prev_pos": 9,
+      "volume": 40500,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/day-date/president-bracelet",
+      "difficulty": 63,
+      "total_sites": null,
+      "traffic": 173,
+      "traffic_percent": 0.67,
+      "price": 195.49,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "blue rolex",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 4400,
+      "cpc": 1.71,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex/blue",
+      "difficulty": 54,
+      "total_sites": null,
+      "traffic": 164,
+      "traffic_percent": 0.63,
+      "price": 280.44,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "audemars piguet royal oak",
+      "position": 20,
+      "prev_pos": 20,
+      "volume": 9900,
+      "cpc": 0.64,
+      "competition": 0.98,
+      "url": "https://luxurytimenyc.com/collections/audemars-piguet/royal-oak",
+      "difficulty": 64,
+      "total_sites": null,
+      "traffic": 144,
+      "traffic_percent": 0.55,
+      "price": 92.16,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "twitter",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 25,
+      "keyword": "rolex for men",
+      "position": 24,
+      "prev_pos": 24,
+      "volume": 96200,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 74,
+      "total_sites": null,
+      "traffic": 141,
+      "traffic_percent": 0.54,
+      "price": 159.33,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 13,
+      "keyword": "presidential rolex",
+      "position": 13,
+      "prev_pos": 13,
+      "volume": 27800,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/day-date/president-bracelet",
+      "difficulty": 64,
+      "total_sites": null,
+      "traffic": 138,
+      "traffic_percent": 0.53,
+      "price": 155.94,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 17,
+      "keyword": "rolex for sale",
+      "position": 17,
+      "prev_pos": 17,
+      "volume": 20100,
+      "cpc": 0.17,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 62,
+      "total_sites": null,
+      "traffic": 135,
+      "traffic_percent": 0.52,
+      "price": 22.95,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "buy rolex",
+      "position": 4,
+      "prev_pos": 4,
+      "volume": 4400,
+      "cpc": 0.76,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 133,
+      "traffic_percent": 0.51,
+      "price": 101.08,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 9,
+      "keyword": "watch near me",
+      "position": 8,
+      "prev_pos": 8,
+      "volume": 14800,
+      "cpc": 0.45,
+      "competition": 0.94,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 65,
+      "total_sites": null,
+      "traffic": 113,
+      "traffic_percent": 0.43,
+      "price": 50.85,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "mechanical watches",
+      "position": 4,
+      "prev_pos": 4,
+      "volume": 4400,
+      "cpc": 0.26,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/mechanical-watches",
+      "difficulty": 53,
+      "total_sites": null,
+      "traffic": 110,
+      "traffic_percent": 0.42,
+      "price": 28.6,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "watch stores near me",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 12100,
+      "cpc": 0.82,
+      "competition": 0.96,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 110,
+      "traffic_percent": 0.42,
+      "price": 90.2,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "rolex datejust 41",
+      "position": 6,
+      "prev_pos": 6,
+      "volume": 14800,
+      "cpc": 0.72,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/41-mm",
+      "difficulty": 69,
+      "total_sites": null,
+      "traffic": 107,
+      "traffic_percent": 0.41,
+      "price": 77.04,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 3,
+      "keyword": "luxury mens watches",
+      "position": 3,
+      "prev_pos": 3,
+      "volume": 3600,
+      "cpc": 1.11,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 51,
+      "total_sites": null,
+      "traffic": 106,
+      "traffic_percent": 0.41,
+      "price": 117.66,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "digital_complaints",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 4,
+      "keyword": "buy a rolex",
+      "position": 4,
+      "prev_pos": 4,
+      "volume": 3600,
+      "cpc": 0.76,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 52,
+      "total_sites": null,
+      "traffic": 104,
+      "traffic_percent": 0.4,
+      "price": 79.04,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 21,
+      "keyword": "rolex submariner watch",
+      "position": 20,
+      "prev_pos": 20,
+      "volume": 18100,
+      "cpc": 1.13,
+      "competition": 0.87,
+      "url": "https://luxurytimenyc.com/collections/submariner",
+      "difficulty": 67,
+      "total_sites": null,
+      "traffic": 92,
+      "traffic_percent": 0.35,
+      "price": 103.96,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "mechanical watch",
+      "position": 6,
+      "prev_pos": 6,
+      "volume": 12100,
+      "cpc": 0.23,
+      "competition": 0.99,
+      "url": "https://luxurytimenyc.com/collections/mechanical-watches",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 91,
+      "traffic_percent": 0.35,
+      "price": 20.93,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": "gmb",
+      "block_position": 78,
+      "keyword": "luxury time watches",
+      "position": 77,
+      "prev_pos": 77,
+      "volume": 590,
+      "cpc": 0.85,
+      "competition": 1,
+      "url": "http://www.luxurytimenyc.com/",
+      "difficulty": 15,
+      "total_sites": null,
+      "traffic": 90,
+      "traffic_percent": 0.35,
+      "price": 76.5,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "gmb",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "daytona watch",
+      "position": 5,
+      "prev_pos": 5,
+      "volume": 6600,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/daytona",
+      "difficulty": 53,
+      "total_sites": null,
+      "traffic": 89,
+      "traffic_percent": 0.34,
+      "price": 100.57,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "twitter",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "rolex datejust jubilee",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 660,
+      "cpc": 0.4,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust/jubilee-bracelet",
+      "difficulty": 11,
+      "total_sites": null,
+      "traffic": 89,
+      "traffic_percent": 0.34,
+      "price": 35.6,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 11,
+      "keyword": "watches near me",
+      "position": 9,
+      "prev_pos": 9,
+      "volume": 22400,
+      "cpc": 0.45,
+      "competition": 0.99,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 59,
+      "total_sites": null,
+      "traffic": 87,
+      "traffic_percent": 0.33,
+      "price": 39.15,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 26,
+      "keyword": "rolex yachtmaster",
+      "position": 25,
+      "prev_pos": 25,
+      "volume": 22400,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/yacht-master",
+      "difficulty": 77,
+      "total_sites": null,
+      "traffic": 86,
+      "traffic_percent": 0.33,
+      "price": 97.18,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "bads",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 6,
+      "keyword": "watch shop",
+      "position": 5,
+      "prev_pos": 5,
+      "volume": 6600,
+      "cpc": 0.49,
+      "competition": 0.66,
+      "url": "https://luxurytimenyc.com/",
+      "difficulty": 46,
+      "total_sites": null,
+      "traffic": 84,
+      "traffic_percent": 0.32,
+      "price": 41.16,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 9,
+      "keyword": "rolex submariner black",
+      "position": 9,
+      "prev_pos": 9,
+      "volume": 8000,
+      "cpc": 0.27,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/submariner",
+      "difficulty": 48,
+      "total_sites": null,
+      "traffic": 78,
+      "traffic_percent": 0.3,
+      "price": 21.06,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 11,
+      "keyword": "rolex president",
+      "position": 11,
+      "prev_pos": 11,
+      "volume": 14800,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/day-date/president-bracelet",
+      "difficulty": 67,
+      "total_sites": null,
+      "traffic": 77,
+      "traffic_percent": 0.3,
+      "price": 87.01,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 18,
+      "keyword": "omega speedmaster",
+      "position": 17,
+      "prev_pos": 17,
+      "volume": 96200,
+      "cpc": 0.06,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/omega-speedmaster",
+      "difficulty": 80,
+      "total_sites": null,
+      "traffic": 76,
+      "traffic_percent": 0.29,
+      "price": 4.56,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 8,
+      "keyword": "rolex authorized dealer",
+      "position": 8,
+      "prev_pos": 8,
+      "volume": 8000,
+      "cpc": 1.48,
+      "competition": 0.48,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 58,
+      "total_sites": null,
+      "traffic": 76,
+      "traffic_percent": 0.29,
+      "price": 112.48,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 5,
+      "keyword": "mens luxury watches",
+      "position": 4,
+      "prev_pos": 4,
+      "volume": 19100,
+      "cpc": 1.11,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 66,
+      "total_sites": null,
+      "traffic": 75,
+      "traffic_percent": 0.29,
+      "price": 83.25,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 7,
+      "keyword": "rolex dealer near me",
+      "position": 7,
+      "prev_pos": 7,
+      "volume": 5400,
+      "cpc": 1.37,
+      "competition": 0.95,
+      "url": "https://luxurytimenyc.com/collections/rolex",
+      "difficulty": 53,
+      "total_sites": null,
+      "traffic": 75,
+      "traffic_percent": 0.29,
+      "price": 102.75,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "T"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 26,
+      "keyword": "datejust rolex",
+      "position": 25,
+      "prev_pos": 25,
+      "volume": 18100,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/datejust",
+      "difficulty": 79,
+      "total_sites": null,
+      "traffic": 74,
+      "traffic_percent": 0.28,
+      "price": 83.62,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches",
+        "image_in_block"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 28,
+      "keyword": "patek watch",
+      "position": 28,
+      "prev_pos": 28,
+      "volume": 18700,
+      "cpc": 0.12,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/patek-philippe",
+      "difficulty": 76,
+      "total_sites": null,
+      "traffic": 74,
+      "traffic_percent": 0.28,
+      "price": 8.88,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "images",
+        "knowledge_graph",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 17,
+      "keyword": "rose gold rolex",
+      "position": 17,
+      "prev_pos": 17,
+      "volume": 9900,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/rose-gold-two-tone",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 71,
+      "traffic_percent": 0.27,
+      "price": 80.23,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 20,
+      "keyword": "aquanaut",
+      "position": 20,
+      "prev_pos": 20,
+      "volume": 9900,
+      "cpc": 0.41,
+      "competition": 0.78,
+      "url": "https://luxurytimenyc.com/collections/aquanaut/ladies",
+      "difficulty": 56,
+      "total_sites": null,
+      "traffic": 70,
+      "traffic_percent": 0.27,
+      "price": 28.7,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 14,
+      "keyword": "rolex gmt master",
+      "position": 14,
+      "prev_pos": 14,
+      "volume": 5700,
+      "cpc": 1.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/gmt-master-ii",
+      "difficulty": 58,
+      "total_sites": null,
+      "traffic": 69,
+      "traffic_percent": 0.27,
+      "price": 77.97,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 2,
+      "keyword": "best luxury watches",
+      "position": 2,
+      "prev_pos": 2,
+      "volume": 1600,
+      "cpc": 0.13,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/luxury-watches-for-men",
+      "difficulty": 64,
+      "total_sites": null,
+      "traffic": 68,
+      "traffic_percent": 0.26,
+      "price": 8.84,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 1,
+      "keyword": "patek blue dial",
+      "position": 1,
+      "prev_pos": 1,
+      "volume": 480,
+      "cpc": 0.44,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/patek-philippe/blue",
+      "difficulty": 21,
+      "total_sites": null,
+      "traffic": 68,
+      "traffic_percent": 0.26,
+      "price": 29.92,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "find_results_on",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ]
+    },
+    {
+      "block_type": null,
+      "block_position": 15,
+      "keyword": "speedmaster watch",
+      "position": 13,
+      "prev_pos": 13,
+      "volume": 14800,
+      "cpc": 0.15,
+      "competition": 1,
+      "url": "https://luxurytimenyc.com/collections/omega-speedmaster",
+      "difficulty": 73,
+      "total_sites": null,
+      "traffic": 67,
+      "traffic_percent": 0.26,
+      "price": 10.05,
+      "serp_features": [
+        "local_pack",
+        "reviews",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "intents": [
+        "L",
+        "C"
+      ]
+    }
+  ],
+  "backlinksSummary": {
+    "target": "luxurytimenyc.com",
+    "backlinks": 123204,
+    "refdomains": 2465,
+    "subnets": 1115,
+    "ips": 1828,
+    "nofollow_backlinks": 266,
+    "dofollow_backlinks": 122938,
+    "edu_backlinks": 744,
+    "gov_backlinks": 2,
+    "inlink_rank": 5,
+    "domain_inlink_rank": 30,
+    "from_home_page_backlinks": 0,
+    "dofollow_from_home_page_backlinks": 0,
+    "text_backlinks": 433,
+    "dofollow_refdomains": 2281,
+    "from_home_page_refdomains": 0,
+    "edu_refdomains": 13,
+    "gov_refdomains": 2,
+    "anchors": 57462,
+    "dofollow_anchors": 57455,
+    "pages_with_backlinks": 3561,
+    "top_anchors_by_backlinks": [
+      {
+        "anchor": "100 Authentic Audemars Piguet Watches Luxury Time NYC",
+        "backlinks": 1341
+      },
+      {
+        "anchor": "Audemars Piguet 50th Anniversary Watches",
+        "backlinks": 855
+      },
+      {
+        "anchor": "Audemars Piguet 50TH Anniversary Watches Luxury Time NYC",
+        "backlinks": 746
+      }
+    ],
+    "top_anchors_by_refdomains": [
+      {
+        "anchor": "100 Authentic Audemars Piguet Watches Luxury Time NYC",
+        "refdomains": 189
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Selfwinding Luxury Time NYC",
+        "refdomains": 143
+      },
+      {
+        "anchor": "Audemars Piguet 50TH Anniversary Watches Luxury Time NYC",
+        "refdomains": 125
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Offshore Luxury Time NYC",
+        "refdomains": 119
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Quartz Luxury Time NYC",
+        "refdomains": 106
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Chronograph Luxury Time NYC",
+        "refdomains": 101
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Offshore Diver Luxury Time NYC",
+        "refdomains": 99
+      },
+      {
+        "anchor": "Rolex Watches For Men Women In USA 100 Authentic Luxury Time NYC",
+        "refdomains": 86
+      },
+      {
+        "anchor": "BLACK SEO LINKS, BACKLINKS, MASS BACKLINKING – TELEGRAM @SEO_LINKK",
+        "refdomains": 82
+      },
+      {
+        "anchor": "Audemars Piguet Royal Oak Offshore Selfwinding Luxury Time NYC",
+        "refdomains": 77
+      }
+    ],
+    "top_pages_by_backlinks": [
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/collections/audemars-piguet-497072.jpg",
+        "backlinks": 4581
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-watch-41mm-stainless-steel-black-dial-calibre-3120-black-dial-41mm-15400stoo1220st01-255259_350x.jpg",
+        "backlinks": 3337
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-watch-blue-dial-37mm-15450stoo1256st03-764933_400x400.jpg",
+        "backlinks": 2891
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-chronograph-limited-edition-of-400-watch-blue-dial-42mm-26703stooa027ca01-686709_350x.jpg",
+        "backlinks": 1390
+      },
+      {
+        "url": "http://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-watch-black-dial-42mm-15710stooa002ca01-263201_1200x1200.jpg",
+        "backlinks": 1299
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-quartz-watch-blue-dial-33mm-67651orzz1261or02-804131_350x.jpg",
+        "backlinks": 1256
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-ladies-collection-royal-oak-quartz-watch-silver-dial-33mm-67651stzz1261st01-237474_350x.jpg",
+        "backlinks": 1160
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/collections/rolex-247780.jpg",
+        "backlinks": 1145
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-chronograph-watch-green-dial-42mm-26703stooa038ca01-600796_350x.jpg",
+        "backlinks": 1051
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-chronograph-rose-gold-41mm-white-dial-26240oroo1320or03-663938_1000x.jpg",
+        "backlinks": 999
+      }
+    ],
+    "top_pages_by_refdomains": [
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/collections/audemars-piguet-497072.jpg",
+        "refdomains": 729
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-watch-blue-dial-37mm-15450stoo1256st03-764933_400x400.jpg",
+        "refdomains": 552
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/collections/rolex-247780.jpg",
+        "refdomains": 521
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-selfwinding-watch-41mm-stainless-steel-black-dial-calibre-3120-black-dial-41mm-15400stoo1220st01-255259_350x.jpg",
+        "refdomains": 409
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-special-edition-watch-orange-dial-42mm-15710stooa070ca01-288623_350x.jpg",
+        "refdomains": 297
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-ladies-collection-royal-oak-quartz-watch-silver-dial-33mm-67651orzz1261or01-218426_400x400.jpg",
+        "refdomains": 278
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-diver-chronograph-limited-edition-of-400-watch-blue-dial-42mm-26703stooa027ca01-686709_350x.jpg",
+        "refdomains": 264
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-offshore-chronograph-watch-blue-dial-42mm-26470stooa027ca01-650137_400x400.jpg",
+        "refdomains": 259
+      },
+      {
+        "url": "https://luxurytimenyc.com/cdn/shop/products/audemars-piguet-royal-oak-quartz-watch-blue-dial-33mm-67651orzz1261or02-804131_350x.jpg",
+        "refdomains": 255
+      },
+      {
+        "url": "http://luxurytimenyc.com/cdn/shop/collections/audemars-piguet-497072_1200x1200.jpg",
+        "refdomains": 251
+      }
+    ],
+    "top_tlds": [
+      {
+        "tld": "com",
+        "count": 1150
+      },
+      {
+        "tld": "org",
+        "count": 88
+      },
+      {
+        "tld": "com.br",
+        "count": 67
+      },
+      {
+        "tld": "net",
+        "count": 65
+      },
+      {
+        "tld": "co.uk",
+        "count": 38
+      },
+      {
+        "tld": "in",
+        "count": 32
+      },
+      {
+        "tld": "de",
+        "count": 21
+      },
+      {
+        "tld": "pl",
+        "count": 19
+      },
+      {
+        "tld": "ca",
+        "count": 17
+      },
+      {
+        "tld": "space",
+        "count": 17
+      }
+    ],
+    "top_countries": [
+      {
+        "country": "us",
+        "count": 1202
+      },
+      {
+        "country": "de",
+        "count": 148
+      },
+      {
+        "country": "co",
+        "count": 93
+      },
+      {
+        "country": "fr",
+        "count": 92
+      },
+      {
+        "country": "gb",
+        "count": 57
+      },
+      {
+        "country": "ir",
+        "count": 41
+      },
+      {
+        "country": "ua",
+        "count": 39
+      },
+      {
+        "country": "ca",
+        "count": 36
+      },
+      {
+        "country": "fi",
+        "count": 36
+      },
+      {
+        "country": "nl",
+        "count": 35
+      }
+    ]
+  },
+  "newBacklinks": [
+    {
+      "new_lost_date": "2026-11-09",
+      "new_lost_type": "new",
+      "url_from": "https://www.chezlamodiste.com/the-jewelers-box/wind-lock-or-vault-how-to-choose-storage-that-protects-a-luxury-watch-collection",
+      "url_to": "https://luxurytimenyc.com/blogs/news/insuring-your-luxury-watch-2026-collectors-guide",
+      "title": "Wind, Lock, or Vault: How to Choose Storage That Protects a Luxury Watch Collection | Chez La Modiste",
+      "anchor": "Insuring Your Luxury Watch: 2026 Collector's Guide",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 47,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "new_lost_date": "2026-11-09",
+      "new_lost_type": "new",
+      "url_from": "https://www.chezlamodiste.com/the-jewelers-box/wind-lock-or-vault-how-to-choose-storage-that-protects-a-luxury-watch-collection",
+      "url_to": "https://luxurytimenyc.com/blogs/news/insuring-your-luxury-watch-2026-collectors-guide",
+      "title": "Wind, Lock, or Vault: How to Choose Storage That Protects a Luxury Watch Collection | Chez La Modiste",
+      "anchor": "collector's guide to watch insurance",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 47,
+      "first_seen": "2026-11-09"
+    },
+    {
+      "new_lost_date": "2026-11-08",
+      "new_lost_type": "new",
+      "url_from": "https://www.trendsinluxury.com/horology-jewels/patina-on-vintage-watches-and-furniture-how-to-tell-valuable-age-from-damage",
+      "url_to": "https://luxurytimenyc.com/blogs/news/vintage-watch-patina-what-to-look-for-before-you-buy",
+      "title": "Patina on Vintage Watches and Furniture: How to Tell Valuable Age From Damage | Trends in Luxury",
+      "anchor": "Vintage Watch Patina: What to Look For Before You Buy",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 38,
+      "first_seen": "2026-11-08"
+    },
+    {
+      "new_lost_date": "2026-11-08",
+      "new_lost_type": "new",
+      "url_from": "https://blog.houstongoldempire.com/post/how-to-sell-18k-gold-in-houston-a-step-by-step-guide-for-maximum-payouts",
+      "url_to": "https://luxurytimenyc.com/collections/rolex/blue",
+      "title": "How to Sell 18k Gold in Houston: A Step-by-Step Guide for Maximum Payouts - Houston Empire Gold Buyers",
+      "anchor": "explore Rolex Watches",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 23,
+      "first_seen": "2026-11-08"
+    },
+    {
+      "new_lost_date": "2026-11-07",
+      "new_lost_type": "new",
+      "url_from": "https://ediy.io/directory/shopify-themes/lyra/",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Lyra Shopify Theme: 13 Reviews, 150+ Stores & PageSpeed Results",
+      "anchor": "Best Luxury Watches luxurytimenyc.com United States Visit",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": true,
+      "image_source": "https://ediy.io/wp-content/uploads/2026/09/luxurytimenyc-com-600x290.webp",
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 44,
+      "first_seen": "2026-11-07"
+    },
+    {
+      "new_lost_date": "2026-11-06",
+      "new_lost_type": "new",
+      "url_from": "https://essentras.com/ai-check/q/which-providers-specialize-in-acquiring-rare-rolex-models-for-collectors",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Which providers specialize in acquiring rare Rolex models for collectors? Here is what AI answers",
+      "anchor": "Best Luxury Watches | Rolex, Audemars Piguet, Omega, and more – Luxury Time NYC luxurytimenyc.com",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 32,
+      "first_seen": "2026-11-06"
+    },
+    {
+      "new_lost_date": "2026-11-06",
+      "new_lost_type": "new",
+      "url_from": "https://ctgoldandsilver.com/selling-gold-bars-in-ct-with-immediate-payouts/",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Selling Gold Bars in CT With Immediate Payouts",
+      "anchor": "Luxury Time NYC",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 25,
+      "first_seen": "2026-11-06"
+    },
+    {
+      "new_lost_date": "2026-11-06",
+      "new_lost_type": "new",
+      "url_from": "https://stealthatfit.com/feed/16230098",
+      "url_to": "https://luxurytimenyc.com/products/rolex-datejust-41-yellow-gold-steel-champagne-diamond-dial-smooth-bezel-jubilee-bracelet-126303",
+      "title": "Rolex 36mm - Steel and Gold Yellow Gold - Domed Bezel - Jubilee — Find Similar Styles | Steal That Fit",
+      "anchor": "Shop Rolex Datejust 41-mm 126303 – Luxury Time NYC",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": true,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 25,
+      "first_seen": "2026-11-06"
+    },
+    {
+      "new_lost_date": "2026-11-05",
+      "new_lost_type": "new",
+      "url_from": "https://www.kpinnovations.us/blog/wfh-employee-gift-ideas-for-comfort-workspaces-and-tech/",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "WFH employee gift ideas for comfort, workspaces, and tech",
+      "anchor": "Luxury Time NYC",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 30,
+      "first_seen": "2026-11-05"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://toplinkbuilding.site/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 0,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://attracttraffic.store/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://paanddachecker.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://backlinkmakeronline.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://dadrcheckertool.store/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://sitevisitschecker.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://websitevisitoranalysis.site/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://competitorlinkchecker.store/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://checkdaandpa.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 3,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://dacheckerbulkfree.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://dapacheckertool.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://locallinkbuilding.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-03",
+      "new_lost_type": "new",
+      "url_from": "http://makebacklink.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-11-03"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://attracttraffic.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://engineoptimisation.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://seotoolschecker.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://sitetrafficonline.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 6,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://buypbn.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 3,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://trafficcheckerseo.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 12,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://websitevisitors.site/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://autowebsitevisitor.space/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://engineoptimisation.space/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 0,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://qualitybacklinkservice.store/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://competewebtraffic.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://backlinkgeneratoronline.website/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://trafficadfree.website/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://backlinksboost.info/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://outgoinglinkchecker.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://searchrankings.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://dailyvisitors.store/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://keywordtools.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 5,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://backlinkfindertool.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://backlinkscompetitor.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://pagemonitor.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://realbacklinkchecker.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 2,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://premiumwebsitetraffic.store/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 12,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://seometrics.store/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://buyingbacklinksforseo.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://automatedwebtraffic.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://backlinksubmitter.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 9,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://backlinkfreechecker.site/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 9,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://dofollowlink.space/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 0,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://linkbuilders.space/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://paidbacklinks.space/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 0,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://urlbacklinksgenerator.space/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://theseobull.com/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 4,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://increasevisitors.online/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://buyqualitybacklinks.shop/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "new_lost_date": "2026-11-02",
+      "new_lost_type": "new",
+      "url_from": "http://relevantbacklinks.website/dir/authority-link-building-127020",
+      "url_to": "https://luxurytimenyc.com/",
+      "title": "Premium SEO Backlink Experts Offering Professional Link Building Services to Help Websites Build Authority, Improve Rankings, and Increase Search Engine Traffic - Page 127,020",
+      "anchor": "Expert Backlink Building Services to Grow luxurytimenyc.com Website Rankings",
+      "alt": null,
+      "link_type": "href",
+      "nofollow": false,
+      "image": false,
+      "image_source": null,
+      "redirect_chain": false,
+      "redirect_chain_urls": [],
+      "reason_lost": null,
+      "inlink_rank": 0,
+      "domain_inlink_rank": 1,
+      "first_seen": "2026-11-02"
+    }
+  ],
+  "dateRange": {
+    "from": "2026-11-02",
+    "to": "2026-11-09"
+  },
+  "errors": []
+}
